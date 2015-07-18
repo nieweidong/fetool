@@ -20,5 +20,9 @@
 <h3 id="1">前端炫技</h3>
 - [windows93](http://www.windows93.net/) 模拟Win93，整体体验和效果比较有意思
 
+
 <h3 id="2">JS库</h3>
 - [Swiper](www.swiper.com.cn) 强大的Slider库，其实这类效果库非常之多，但是中文文档能那么专业的就很少了
+- [PhotoSwipe](http://photoswipe.com/) 我常用的js库，官网上有这么一句很关键、重要"no dependencies"
+
+
