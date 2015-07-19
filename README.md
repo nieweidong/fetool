@@ -13,7 +13,7 @@
 ##目录
 - [前端炫技](#101)
 - [前端组织](#201)
-- [JS库](#301)
+- [库/框架](#301)
 - [Node](#401)
 - [精选好书](#501)
 
@@ -27,9 +27,15 @@
 
 <h3 id="201">前端组织</h3>
 
-<h3 id="301">JS库</h3>
+<h3 id="301">库/框架</h3>
 - [Swiper](www.swiper.com.cn) 强大的Slider库，其实这类效果库非常之多，但是中文文档能那么专业的就很少了
 - [PhotoSwipe](http://photoswipe.com/) 我常用的js库，官网上有这么一句很关键、重要"no dependencies"
+- [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
+- [fullPage](http://communitylocals.com/) 非常好用的全屏滑动库，看demo就明白是做什么的了
+> Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了
+
+- [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
+
 
 <h3 id="401">Node</h3>
 
