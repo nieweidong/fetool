@@ -50,6 +50,10 @@
 
 <h3 id="401">Node</h3>
 
+> 以下是些Node相关的学习资料
+- [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) 
+- [七天学会NodeJS](https://github.com/alsotang/node-lessons) 
+
 <h3 id="501">精选好书</h3>
 
 <h3 id="601">杂七杂八</h3>
