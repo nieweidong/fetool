@@ -25,7 +25,7 @@
 - [windows93](http://www.windows93.net/) 模拟Win93，整体体验和效果比较有意思
 - [GeekTyper](http://geektyper.com/) 非常好玩的一个网站，虽然创建的目的就是个恶作剧 —— “GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly”。 PS：网站需要翻墙
 - [墨刀](https://墨刀.com/) 这是个在线移动应用原型制作工具，旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
-- [Mapbox](https://www.mapbox.com/) 非常叼的开源项目，有方便的JSAPI(还有SDK)，不过免费版只能浅尝，流量有限 PS：网站需要翻墙
+- [Mapbox](https://www.mapbox.com/) 非常叼的开源项目，有方便的JSAPI(还有SDK)，不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
 
 <h3 id="201">前端组织</h3>
 > 虽然混过俩家外企，但劳资英文阅读能力确实有限，所以俺关注的站点都以中文为主
@@ -50,9 +50,10 @@
 
 <h3 id="401">Node</h3>
 #####这里介绍些有特色且前端有必要知道的包
-- [supervisor](https://www.npmjs.com/package/supervisor)
-- [pm2](https://www.npmjs.com/package/pm2)
-- [async](https://www.npmjs.com/package/async)
+- [supervisor](https://www.npmjs.com/package/supervisor) A supervisor program for running nodejs programs
+- [pm2](https://www.npmjs.com/package/pm2) Production process manager for Node.JS applications with a built-in load balancer.
+- [async](https://www.npmjs.com/package/async) Higher-order functions and common patterns for asynchronous code
+- [thenify-all](https://www.npmjs.com/package/thenify-all) Promisifies all the selected functions in an object
 
 > 以下是些Node相关的学习资料
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
