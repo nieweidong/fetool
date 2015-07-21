@@ -49,6 +49,10 @@
 
 
 <h3 id="401">Node</h3>
+#####这里介绍些有特色且前端有必要知道的包
+- [supervisor](https://www.npmjs.com/package/supervisor)
+- [pm2](https://www.npmjs.com/package/pm2)
+- [async](https://www.npmjs.com/package/async)
 
 > 以下是些Node相关的学习资料
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
