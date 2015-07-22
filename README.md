@@ -57,6 +57,7 @@
 - [pm2](https://www.npmjs.com/package/pm2) Production process manager for Node.JS applications with a built-in load balancer.
 - [async](https://www.npmjs.com/package/async) Higher-order functions and common patterns for asynchronous code
 - [thenify-all](https://www.npmjs.com/package/thenify-all) Promisifies all the selected functions in an object
+- [koa](http://koajs.com/) express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide)
 
 > 以下是些Node相关的学习资料
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
