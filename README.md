@@ -18,6 +18,7 @@
 - [精选好书](#501)
 - [杂七杂八](#601)
   - [浏览器插件](#602)
+  - [Git](#603)
 
 ##正文
 
@@ -36,16 +37,18 @@
 - [MDN](https://developer.mozilla.org/zh-CN/) 不解释，无数的资源再等着你探索
 - [ruanyifeng](http://javascript.ruanyifeng.com/) 已经关注多年...虽网传靠写书进了阿里，但是站内的内容确实丰富，值得占坑长期关注
 - [慕课](http://www.imooc.com/) 大量的在线课程，虽然初、中级居多，但是不乏有巨作值得细细品尝
+- [W3Cplus](http://www.w3cplus.com/) 大漠(《图解CSS3》作者)在国内的影响力杠杠的
 - [前端乱炖](www.html-js.com) 前端社区太多，乱炖还算做的不错的
 
 <h3 id="301">库/框架</h3>
 - [Swiper](www.swiper.com.cn) 强大的Slider库，其实这类效果库非常之多，但是中文文档能那么专业的就很少了
 - [PhotoSwipe](http://photoswipe.com/) 我常用的js库，官网上有这么一句很关键、重要"no dependencies"
-- [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
 - [fullPage](http://communitylocals.com/) 非常好用的全屏滑动库，看demo就明白是做什么的了
 > Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了
 
 - [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
+- [LoadersCSS](https://connoratherton.com/loaders) Delightful and performance-focused pure css loading animations.
+- [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
 
 
 <h3 id="401">Node</h3>
@@ -64,3 +67,5 @@
 <h3 id="601">杂七杂八</h3>
 
 <h4 id="602">浏览器插件</h4>
+
+<h4 id="602">Git</h4>
