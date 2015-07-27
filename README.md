@@ -66,6 +66,7 @@
 <h3 id="501">精选好书</h3>
 
 <h3 id="601">杂七杂八</h3>
+- [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
 
 <h4 id="602">浏览器插件</h4>
 
