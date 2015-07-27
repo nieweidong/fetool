@@ -15,7 +15,7 @@
 - [前端组织](#201)
 - [库/框架](#301)
 - [Node](#401)
-- [精选好书](#501)
+- [精选好书&学习资料](#501)
 - [杂七杂八](#601)
   - [浏览器插件](#602)
   - [Git](#603)
@@ -63,7 +63,7 @@
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
 
-<h3 id="501">精选好书And学习资料</h3>
+<h3 id="501">精选好书&学习资料</h3>
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
 
 <h3 id="601">杂七杂八</h3>
