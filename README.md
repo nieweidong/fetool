@@ -63,12 +63,13 @@
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
 
-<h3 id="501">精选好书</h3>
-
-<h3 id="601">杂七杂八</h3>
+<h3 id="501">精选好书And学习资料</h3>
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
 
+<h3 id="601">杂七杂八</h3>
+
 <h4 id="602">浏览器插件</h4>
+
 
 <h4 id="602">Git</h4>
 - [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 俺有看过不少Git的文章，确实这个系列是最通俗易懂的。
