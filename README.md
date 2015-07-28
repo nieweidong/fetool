@@ -15,6 +15,7 @@
 - [前端组织](#201)
 - [库/框架](#301)
 - [Node](#401)
+  - [Node学习指南](#402)
 - [精选好书&学习资料](#501)
 - [杂七杂八](#601)
   - [浏览器插件](#602)
@@ -41,14 +42,14 @@
 - [前端乱炖](www.html-js.com) 前端社区太多，乱炖还算做的不错的
 
 <h3 id="301">库/框架</h3>
+> Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了
 - [Swiper](www.swiper.com.cn) 强大的Slider库，其实这类效果库非常之多，但是中文文档能那么专业的就很少了
 - [PhotoSwipe](http://photoswipe.com/) 我常用的js库，官网上有这么一句很关键、重要"no dependencies"
 - [fullPage](http://communitylocals.com/) 非常好用的全屏滑动库，看demo就明白是做什么的了
-> Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了
 
+> 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
 - [hexo](https://hexo.io/zh-cn/) 快速、简洁且高效的博客框架
 - [jekyll](http://jekyll.bootcss.com/) 将纯文本转化为静态网站和博客
-> 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
 
 - [Vuejs](http://cn.vuejs.org) 比较喜欢其作者，所以劳资正在看源码学习学习
 - [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
@@ -65,7 +66,7 @@
 - [thenify-all](https://www.npmjs.com/package/thenify-all) Promisifies all the selected functions in an object
 - [koa](http://koajs.com/) express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide)
 
-> 以下是些Node相关的学习资料
+<h4 id="402">Node学习指南</h4>
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
 
