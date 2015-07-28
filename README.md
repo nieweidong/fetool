@@ -47,16 +47,14 @@
 - [PhotoSwipe](http://photoswipe.com/) 我常用的js库，官网上有这么一句很关键、重要"no dependencies"
 - [fullPage](http://communitylocals.com/) 非常好用的全屏滑动库，看demo就明白是做什么的了
 
-> 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
-- [hexo](https://hexo.io/zh-cn/) 快速、简洁且高效的博客框架
-- [jekyll](http://jekyll.bootcss.com/) 将纯文本转化为静态网站和博客
-
 - [Vuejs](http://cn.vuejs.org) 比较喜欢其作者，所以劳资正在看源码学习学习
 - [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
 - [LoadersCSS](https://connoratherton.com/loaders) Delightful and performance-focused pure css loading animations.
 - [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
 
-
+> 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
+- [hexo](https://hexo.io/zh-cn/) 快速、简洁且高效的博客框架
+- [jekyll](http://jekyll.bootcss.com/) 将纯文本转化为静态网站和博客
 
 <h3 id="401">Node</h3>
 #####这里介绍些有特色且前端有必要知道的包
