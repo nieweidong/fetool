@@ -78,5 +78,6 @@
 
 <h4 id="602">Git</h4>
 - [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 俺有看过不少Git的文章，确实这个系列是最通俗易懂的。
-- [Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md#%E5%88%9B%E5%BB%BA)
-- [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) 分类清晰的速查表
+- [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 助你入门 git 的简明指南，木有高深内容 ;)
+
