@@ -17,9 +17,10 @@
 - [Node](#401)
   - [Node学习指南](#402)
 - [精选好书&学习资料](#501)
-- [杂七杂八](#601)
-  - [浏览器插件](#602)
-  - [Git](#603)
+- [前端面试](#601)
+- [杂七杂八](#701)
+  - [浏览器插件](#702)
+  - [Git](#703)
 
 ##正文
 
@@ -71,12 +72,15 @@
 <h3 id="501">精选好书&学习资料</h3>
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
 
-<h3 id="601">杂七杂八</h3>
+<h3>前端面试</h3>
 
-<h4 id="602">浏览器插件</h4>
+<h3 id="701">杂七杂八</h3>
+> 放些开发中较有用的杂物在这儿
+
+<h4 id="702">浏览器插件</h4>
 
 
-<h4 id="602">Git</h4>
+<h4 id="703">Git</h4>
 - [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 俺有看过不少Git的文章，确实这个系列是最通俗易懂的。
 - [Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) 分类清晰的速查表
 - [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 助你入门 git 的简明指南，木有高深内容 ;)
