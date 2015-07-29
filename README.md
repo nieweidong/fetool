@@ -52,6 +52,7 @@
 - [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
 - [LoadersCSS](https://connoratherton.com/loaders) Delightful and performance-focused pure css loading animations.
 - [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
+- [bower](http://bower.io/) A package manager for the web
 
 > 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
 - [hexo](https://hexo.io/zh-cn/) 快速、简洁且高效的博客框架
