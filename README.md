@@ -50,7 +50,7 @@
 
 - [Vuejs](http://cn.vuejs.org) 比较喜欢其作者，所以劳资正在看源码学习学习
 - [Cropper](http://fengyuanchen.github.io/cropper/) 国人开发的图片裁剪库
-- [LoadersCSS](https://connoratherton.com/loaders) Delightful and performance-focused pure css loading animations.
+- [LoadersCSS](https://connoratherton.com/loaders) 点连接就明白做什么了；补一句，对keyframes、animation、transform、transition不熟悉的盆友可以直接直接去读其源码(只有千把行代码)，读完就算出师了:)
 - [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
 - [bower](http://bower.io/) A package manager for the web
 
@@ -85,4 +85,3 @@
 - [Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 俺有看过不少Git的文章，确实这个系列是最通俗易懂的。
 - [Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) 分类清晰的速查表
 - [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 助你入门 git 的简明指南，木有高深内容 ;)
-
