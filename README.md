@@ -4,13 +4,13 @@
 
 > 本篇文章记录了一名前端的工具集。主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过了。
 
-####您可以通过以下方式联系到我：
+#### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
 - 个人Blog [fefok.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
-##目录
+## 目录
 - [前端炫技](#101)
 - [前端组织](#201)
 - [库/框架](#301)
@@ -22,7 +22,7 @@
   - [浏览器插件](#702)
   - [Git](#703)
 
-##正文
+## 正文
 
 <h3 id="101">前端炫技</h3>
 - [windows93](http://www.windows93.net/) 模拟Win93，整体体验和效果比较有意思
@@ -33,7 +33,7 @@
 <h3 id="201">前端组织</h3>
 > 虽然混过俩家外企，但劳资英文阅读能力确实有限，所以俺关注的站点都以中文为主
 
-#####这儿记录的都是俺日常关注较多的站点，按俺关注的优先级进行排序的，有官方的、个人的、小作坊或者大作坊的等等
+##### 这儿记录的都是俺日常关注较多的站点，按俺关注的优先级进行排序的，有官方的、个人的、小作坊或者大作坊的等等
 
 - [Git](https://github.com) 全球最大的搞基社区，用了都说好:)
 - [MDN](https://developer.mozilla.org/zh-CN/) 不解释，无数的资源再等着你探索
@@ -59,7 +59,7 @@
 - [jekyll](http://jekyll.bootcss.com/) 将纯文本转化为静态网站和博客
 
 <h3 id="401">Node</h3>
-#####这里介绍些有特色且前端有必要知道的包
+##### 这里介绍些有特色且前端有必要知道的包
 - [supervisor](https://www.npmjs.com/package/supervisor) A supervisor program for running nodejs programs
 - [pm2](https://www.npmjs.com/package/pm2) Production process manager for Node.JS applications with a built-in load balancer.
 - [async](https://www.npmjs.com/package/async) Higher-order functions and common patterns for asynchronous code
@@ -72,6 +72,7 @@
 
 <h3 id="501">精选好书&学习资料</h3>
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
+- [react-webpack-cookbook](https://fakefish.github.io/react-webpack-cookbook/index.html) 这本小书的目的是引导你进入 React 和 Webpack 的世界。他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。
 
 <h3>前端面试</h3>
 
