@@ -53,6 +53,8 @@
 - [LoadersCSS](https://connoratherton.com/loaders) 点连接就明白做什么了；补一句，对keyframes、animation、transform、transition不熟悉的盆友可以直接直接去读其源码(只有千把行代码)，读完就算出师了:)
 - [purecss](http://purecss.io/) 非常小巧、强大的响应式CSS库,Yahoo!出品
 - [bower](http://bower.io/) A package manager for the web
+- [csscss](https://github.com/zmoazeni/csscss) 用于检查css代码冗余
+- [Mocha](https://github.com/mochajs/mocha) JS测试框架，可用于NodeJS或者浏览器中
 
 > 有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有
 - [hexo](https://hexo.io/zh-cn/) 快速、简洁且高效的博客框架
@@ -75,6 +77,7 @@
 - [react-webpack-cookbook](https://fakefish.github.io/react-webpack-cookbook/index.html) 这本小书的目的是引导你进入 React 和 Webpack 的世界。他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。
 
 <h3>前端面试</h3>
+- [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) 这篇文章中，将不涉及任何的面试题，大漠只想和大家聊聊面试者与被面者之间的感受。
 
 <h3 id="701">杂七杂八</h3>
 > 放些开发中较有用的杂物在这儿
