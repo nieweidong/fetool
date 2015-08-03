@@ -71,6 +71,7 @@
 <h4 id="402">Node学习指南</h4>
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
+- [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/) 基本上每一篇都看过，强烈推荐
 
 <h3 id="501">精选好书&学习资料</h3>
 - [React-Native学习指南](https://github.com/ele828/react-native-guide) 新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。
