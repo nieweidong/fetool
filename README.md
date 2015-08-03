@@ -13,6 +13,7 @@
 ## 目录
 - [前端炫技](#101)
 - [前端组织](#201)
+- [前端博客](801)
 - [库/框架](#301)
 - [Node](#401)
   - [Node学习指南](#402)
@@ -37,10 +38,16 @@
 
 - [Git](https://github.com) 全球最大的搞基社区，用了都说好:)
 - [MDN](https://developer.mozilla.org/zh-CN/) 不解释，无数的资源再等着你探索
-- [ruanyifeng](http://javascript.ruanyifeng.com/) 已经关注多年...虽网传靠写书进了阿里，但是站内的内容确实丰富，值得占坑长期关注
 - [慕课](http://www.imooc.com/) 大量的在线课程，虽然初、中级居多，但是不乏有巨作值得细细品尝
 - [W3Cplus](http://www.w3cplus.com/) 大漠(《图解CSS3》作者)在国内的影响力杠杠的
 - [前端乱炖](www.html-js.com) 前端社区太多，乱炖还算做的不错的
+
+<h3 id="801">前端博客</h3>
+> 值得长期占坑的前端个人博客，都是偶经常关注的
+
+- [阮一峰](http://javascript.ruanyifeng.com/) 已经关注多年...虽网传靠写书进了阿里，但是站内的内容确实丰富，值得占坑长期关注
+- [粉丝日志for张丹](http://blog.fens.me/) 大爱作者写的Node系列
+- [张鑫旭](www.zhangxinxu.com/wordpress/) 成名多年的、高产的前端大湿
 
 <h3 id="301">库/框架</h3>
 > Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了
