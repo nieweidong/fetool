@@ -89,6 +89,8 @@
 <h3 id="701">杂七杂八</h3>
 > 放些开发中较有用的杂物在这儿
 
+- [VimAwesome](http://vimawesome.com/) Vim插件集合，__Vim党必备__
+
 <h4 id="702">浏览器插件</h4>
 
 
