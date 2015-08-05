@@ -11,21 +11,27 @@
 - QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
 ## 目录
-- [前端炫技](#101)
+- [前端炫技-__炫酷狂拽叼炸天的Web__](#101)
 - [前端组织](#201)
 - [前端博客](#801)
 - [库/框架](#301)
 - [Node](#401)
-  - [Node学习指南](#402)
+  - [推荐Package](#402)
+  - [Node学习指南](#403)
 - [精选好书&学习资料](#501)
 - [前端面试](#601)
+- [工具/软件](#901)
+  - [Web](#902)
+  - [APP](#903)
+  - [Mac](#904)
+  - [Linux](#905)
 - [杂七杂八](#701)
   - [浏览器插件](#702)
   - [Git](#703)
 
 ## 正文
 
-<h3 id="101">前端炫技</h3>
+<h3 id="101">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 - [windows93](http://www.windows93.net/) 模拟Win93，整体体验和效果比较有意思
 - [GeekTyper](http://geektyper.com/) 非常好玩的一个网站，虽然创建的目的就是个恶作剧 —— “GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly”。 PS：网站需要翻墙
 - [墨刀](https://墨刀.com/) 这是个在线移动应用原型制作工具，旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
@@ -67,6 +73,8 @@
 - [jekyll](http://jekyll.bootcss.com/) 将纯文本转化为静态网站和博客
 
 <h3 id="401">Node</h3>
+<h4 id="402">推荐Package</h4>
+
 ##### 这里介绍些有特色且前端有必要知道的包
 > 下面这俩都是监控Node代码，使得每次修改代码后会自动重启，开发Node程序必备
 > - [supervisor](https://www.npmjs.com/package/supervisor) A supervisor program for running nodejs programs
@@ -79,7 +87,7 @@
 - [koa](http://koajs.com/) express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide)
 - [Shipit](https://github.com/shipitjs/shipit) 一个强大的自动化部署工具；shipit很多地方非常类似gulp，他们的核心都是任务系统。
 
-<h4 id="402">Node学习指南</h4>
+<h4 id="403">Node学习指南</h4>
 - [node.js中文资料导航](https://github.com/youyudehexie/node123) NodeJS的中文资料导航，```start1300+```
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
@@ -91,6 +99,33 @@
 
 <h3>前端面试</h3>
 - [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) 这篇文章中，将不涉及任何的面试题，大漠只想和大家聊聊面试者与被面者之间的感受。
+
+
+<h3 id="901">工具/软件</h3>
+
+<h4 id="902">Web</h4>
+- [CanIuse](http://caniuse.com/) __前端必备__；查看浏览器对各种新特性的兼容情况
+- [smallpdf](http://smallpdf.com/cn) 提供各种格式和pdf互相转换
+- [墨刀](https://墨刀.com/) 这是个在线移动应用原型制作工具，旨在帮助产品经理快速制作可在手机端展示的移动应用原型
+- [Cmd Markdown](https://www.zybuluo.com/mdeditor) 好用的Web版Markdown编辑器
+- [StackEdit](https://stackedit.io/editor) 又是一款Web版Markdown编辑器
+- [htm2pdf](www.htm2pdf.co.uk/index.php) HTML to PDF conversion for your website or application
+- [Speaker Deck](https://speakerdeck.com/p/featured) 在线的演讲稿展示平台
+- [VimAwesome](http://vimawesome.com/) Vim插件集合，__Vim党必备__
+
+<h4 id="903">APP</h4>
+
+<h4 id="904">Mac</h4>
+- [Wireshark](https://www.wireshark.org/) 说实话，没有Fiddler挺不习惯，不过在Mac上有更强大的替代品
+- [马克鳗](http://www.getmarkman.com/) 英文名MarkMan，非常强大好用的标注、测量工具，日常工作免费版就完全可以满足，强烈推荐
+- [Mou](http://25.io/mou/) 快速好用的Markdown编辑器
+- [WebStorm](http://www.jetbrains.com/webstorm/) 功能超强的前端IDE，不多介绍，谁用谁知道
+- [focus booster](https://www.focusboosterapp.com/) 因为偶比较在意时间管理，所以这软件是偶上班时间的必备之物
+- [Atom](https://atom.io) 2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime，但之后就是Atom，为它俺也专门写了一篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
+
+<h4 id="905">Linux</h4>
+- [oh-my-zsh](http://ohmyz.sh/) 务必强大好用的工具
+- [oneapm](http://www.oneapm.com/) 强大的运维工具，提供多种监控客户端，有采集、分析、展示等一套功能；俺这用了服务器监控(免费)
 
 <h3 id="701">杂七杂八</h3>
 > 放些开发中较有用的杂物在这儿
