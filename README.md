@@ -34,17 +34,12 @@
 <h3 id="101">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
 | 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
 |windows93 |http://www.windows93.net/ |模拟Win93，整体体验和效果比较有意思 |
 |GeekTyper |http://geektyper.com/ |非常好玩的一个网站，虽然创建的目的就是个恶作剧 —— “GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly”。 PS：网站需要翻墙|
 |墨刀 |https://墨刀.com/ |这是个在线移动应用原型制作工具，旨在帮助产品经理快速制作可在手机端展示的移动应用原型。 |
 |Mapbox |https://www.mapbox.com/ |非常叼的开源项目，有方便的JSAPI(还有SDK)，不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
 |parallax.js |http://matthew.wagerfield.com/parallax/ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
-
-- [windows93](http://www.windows93.net/) 模拟Win93，整体体验和效果比较有意思
-- [GeekTyper](http://geektyper.com/) 非常好玩的一个网站，虽然创建的目的就是个恶作剧 —— “GeekTyper was inspired by the various media where hacking is usually portrayed incorrectly”。 PS：网站需要翻墙
-- [墨刀](https://墨刀.com/) 这是个在线移动应用原型制作工具，旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
-- [Mapbox](https://www.mapbox.com/) 非常叼的开源项目，有方便的JSAPI(还有SDK)，不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
-- [parallax.js](http://matthew.wagerfield.com/parallax/) 一个视差引擎的官网，在电脑和手机上都有很好的体验
 
 <h3 id="201">前端组织</h3>
 > 虽然混过俩家外企，但劳资英文阅读能力确实有限，所以俺关注的站点都以中文为主
