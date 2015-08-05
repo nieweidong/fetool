@@ -68,9 +68,10 @@
 
 <h3 id="401">Node</h3>
 ##### 这里介绍些有特色且前端有必要知道的包
+> 下面这俩都是监控Node代码，使得每次修改代码后会自动重启，开发Node程序必备
 > - [supervisor](https://www.npmjs.com/package/supervisor) A supervisor program for running nodejs programs
 > - [nodemon](https://github.com/remy/nodemon) Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
-> 上面这俩都是监控Node代码，使得每次修改代码后会自动重启，开发Node程序必备
+
 
 - [pm2](https://www.npmjs.com/package/pm2) Production process manager for Node.JS applications with a built-in load balancer.
 - [async](https://www.npmjs.com/package/async) Higher-order functions and common patterns for asynchronous code
