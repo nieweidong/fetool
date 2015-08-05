@@ -73,6 +73,7 @@
 - [async](https://www.npmjs.com/package/async) Higher-order functions and common patterns for asynchronous code
 - [thenify-all](https://www.npmjs.com/package/thenify-all) Promisifies all the selected functions in an object
 - [koa](http://koajs.com/) express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide)
+- [Shipit](https://github.com/shipitjs/shipit) 一个强大的自动化部署工具；shipit很多地方非常类似gulp，他们的核心都是任务系统。
 
 <h4 id="402">Node学习指南</h4>
 - [node.js中文资料导航](https://github.com/youyudehexie/node123) NodeJS的中文资料导航，```start1300+```
