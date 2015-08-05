@@ -75,6 +75,7 @@
 - [koa](http://koajs.com/) express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide)
 
 <h4 id="402">Node学习指南</h4>
+- [node.js中文资料导航](https://github.com/youyudehexie/node123) NodeJS的中文资料导航，```start1300+```
 - [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) PS:劳资还没看，不做评价
 - [七天学会NodeJS](https://github.com/alsotang/node-lessons) PS:劳资还没看，不做评价
 - [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/) 基本上每一篇都看过，强烈推荐
