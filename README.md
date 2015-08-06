@@ -49,7 +49,7 @@
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
-|阮一峰 |http://javascript.ruanyifeng.com/ |已经关注多年...虽网传靠写书进了阿里，但是站内的内容确实丰富，值得占坑长期关注 |
+|阮一峰 |http://javascript.ruanyifeng.com/ |已经关注多年... 虽网传靠写书进了阿里，但是站内的内容确实丰富，值得占坑长期关注 |
 |粉丝日志for张丹 |http://blog.fens.me/ |大爱作者写的Node系列 |
 |张鑫旭 |www.zhangxinxu.com/wordpress/ |成名多年的、高产的前端大湿 |
 
@@ -57,20 +57,22 @@
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
-|Swiper |http://www.swiper.com.cn |强大的Slider库，其实这类效果库非常之多，但是中文文档能那么专业的就很少了 |
-|PhotoSwipe |http://photoswipe.com/ |我常用的js库，官网上有这么一句很关键、重要"no dependencies" |
-|fullPage |http://communitylocals.com/ |非常好用的全屏滑动库，看demo就明白是做什么的了 |
-||___Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了___||
-|Vuejs |http://cn.vuejs.org |比较喜欢其作者，所以劳资正在看源码学习学习 |
+|Swiper |http://www.swiper.com.cn |强大的Slider库 其实这类效果库非常之多，但是中文文档能那么专业的就很少了 |
+|PhotoSwipe |http://photoswipe.com/ |我常用的js库 官网上有这么一句很关键、重要"no dependencies" |
+|fullPage |http://communitylocals.com/ |非常好用的全屏滑动库 看demo就明白是做什么的了 |
+|Vuejs |http://cn.vuejs.org |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |Cropper |http://fengyuanchen.github.io/cropper/ |国人开发的图片裁剪库 |
-|LoadersCSS |https://connoratherton.com/loaders |点连接就明白做什么了；补一句，对keyframes、animation、transform、transition不熟悉的盆友可以直接直接去读其源码(只有千把行代码)，读完就算出师了:) |
+|LoadersCSS |https://connoratherton.com/loaders |点连接就明白做什么了； 补一句，对keyframes、animation、transform、transition不熟悉的盆友可以直接直接去读其源码(只有千把行代码)，读完就算出师了:) |
 |purecss |http://purecss.io/ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
 |bower |http://bower.io/ |A package manager for the web |
 |csscss |https://github.com/zmoazeni/csscss |用于检查css代码冗余 |
 |Mocha |https://github.com/mochajs/mocha |JS测试框架，可用于NodeJS或者浏览器中 |
 |hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
 |jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
-||___有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有___||
+
+> ___Swiper/PhotoSwipe/fullPage 有了这仨库，微信里常见的H5页完全不是问题了___
+
+> ___有了hexo/jekyll + GitPage，前端搭建博客那是相当easy了。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
 
 <h3 id="401">Node</h3>
 
@@ -80,14 +82,15 @@
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
-|supervisor |https://www.npmjs.com/package/supervisor |A supervisor program for running nodejs programs |
-|nodemon |https://github.com/remy/nodemon |Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.|
-||上面这俩都是监控Node代码，使得每次修改代码后会自动重启，开发Node程序必备||
+|supervisor |https://www.npmjs.com/package/supervisor |监控Node代码，自动重启。 A supervisor program for running nodejs programs |
+|nodemon |https://github.com/remy/nodemon |监控Node代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.|
 |pm2 |https://www.npmjs.com/package/pm2 |是一个带有负载均衡功能的Node应用的进程管理器 |
 |async |https://www.npmjs.com/package/async |一个流程控制工具包，提供了直接而强大的异步功能 |
 |thenify-all |https://www.npmjs.com/package/thenify-all |Promisifies all the selected functions in an object |
-|koa |http://koajs.com/ |express肯定不用介绍了，但是koa就相对于知道的人就少很多。通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide) |
-|Shipit |https://github.com/shipitjs/shipit |一个强大的自动化部署工具；shipit很多地方非常类似gulp，他们的核心都是任务系统。
+|koa |http://koajs.com/ |express肯定不用介绍了，但是koa就相对于知道的人就少很多。 通过generator避免了重复繁琐的回调函数嵌套，值得深入了解哦。[官方的文章教程](https://github.com/turingou/koa-guide) |
+|Shipit |https://github.com/shipitjs/shipit |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
+
+> ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
 
 <h4 id="403">Node学习指南</h4>
 
@@ -103,7 +106,7 @@
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |React-Native学习指南 |https://github.com/ele828/react-native-guide |新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。 |
-|react-webpack-cookbook |https://fakefish.github.io/react-webpack-cookbook/index.html |这本小书的目的是引导你进入 React 和 Webpack 的世界。他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
+|react-webpack-cookbook |https://fakefish.github.io/react-webpack-cookbook/index.html |这本小书的目的是引导你进入 React 和 Webpack 的世界。 他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
 
 <h3>前端面试</h3>
 
@@ -136,19 +139,24 @@
 |马克鳗 |http://www.getmarkman.com/ |英文名MarkMan，非常强大好用的标注、测量工具，日常工作免费版就完全可以满足，强烈推荐 |
 |Mou |http://25.io/mou/ |快速好用的Markdown编辑器 |
 |WebStorm |http://www.jetbrains.com/webstorm/ |功能超强的前端IDE，不多介绍，谁用谁知道 |
-|Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime，但之后就是Atom，为它俺也专门写了一篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
-|focus booster |https://www.focusboosterapp.com/ |因为偶比较在意时间管理，所以这软件是偶上班时间的必备之物|
+|Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，为它俺也专门写了一篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
+|focus booster |https://www.focusboosterapp.com/ |因为偶比较在意时间管理，所以这软件是偶上班时间的必备之物 |
 
 <h4 id="905">Linux</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |oh-my-zsh |http://ohmyz.sh/ |___终端党___必用的好工具 |
-|oneapm |http://www.oneapm.com/ |强大的运维工具，提供多种监控客户端，有采集、分析、展示等一套功能；俺这用了服务器监控(免费) |
+|oneapm |http://www.oneapm.com/ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；俺这用了服务器监控(免费) |
 
 <h3 id="701">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
+
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|gulp-book |https://github.com/nimojs/gulp-book |gulp 是基于 node 实现 Web 前端自动化开发的工具 |
 
 <h4 id="702">浏览器插件</h4>
 
