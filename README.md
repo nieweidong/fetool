@@ -2,7 +2,7 @@
 
 <img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
-> 本篇文章记录鸟一名前端的工具集。主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
+> 本篇文章记录了一名前端的工具集。主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
 
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
@@ -139,15 +139,15 @@
 |马克鳗 |http://www.getmarkman.com/ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
 |Mou |http://25.io/mou/ |快速好用的Markdown编辑器 |
 |WebStorm |http://www.jetbrains.com/webstorm/ |功能超强的前端IDE，不多介绍，谁用谁知道 |
-|Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，为它俺也专门写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
-|focus booster |https://www.focusboosterapp.com/ |因为偶比较在意时间管理，所以这软件是偶上班时间的必备之物 |
+|Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
+|focus booster |https://www.focusboosterapp.com/ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
 
 <h4 id="905">Linux</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |oh-my-zsh |http://ohmyz.sh/ |___终端党___必用的好工具 |
-|oneapm |http://www.oneapm.com/ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；俺这用了服务器监控(免费) |
+|oneapm |http://www.oneapm.com/ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；我这用了服务器监控(免费哦) |
 
 <h3 id="701">杂七杂八</h3>
 
