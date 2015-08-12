@@ -41,7 +41,8 @@
 |MDN |https://developer.mozilla.org/zh-CN/ |不解释，无数的资源再等着你探索 |
 |慕课 |http://www.imooc.com/ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
 |W3Cplus |http://www.w3cplus.com/ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 |
-|前端乱炖 |www.html-js.com |前端社区太多，乱炖还算做的不错的 |
+|前端乱炖 |http://www.html-js.com |前端社区太多，乱炖还算做的不错的 |
+|Div.IO |http://div.io/digg |berg牵头打造的前端信息聚合网站，分享内容有最新的库和前沿技术 |
 
 <h3 id="801">前端博客</h3>
 
