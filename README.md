@@ -13,7 +13,8 @@
 ## 目录
 - [前端组织](#201)
 - [前端博客](#801)
-- [库/框架](#301)
+- [CSS](#301)
+- [浏览端JS](#302)
 - [Node](#401)
   - [推荐Package](#402)
   - [Node学习指南](#403)
@@ -54,7 +55,20 @@
 |粉丝日志for张丹 |http://blog.fens.me/ |大爱作者写的Node系列 |
 |张鑫旭 |www.zhangxinxu.com/wordpress/ |成名多年的、高产的前端大湿 |
 
-<h3 id="301">库/框架</h3>
+
+<h4 id="301">CSS</h4>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|LoadersCSS |https://connoratherton.com/loaders |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
+|purecss |http://purecss.io/ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
+|csscss |https://github.com/zmoazeni/csscss |用于检查css代码冗余 |
+|hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
+|jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
+
+> ___使用 ```hexo/jekyll + GitPage```，前端搭建博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
+
+<h4 id="302">浏览端JS</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -63,17 +77,9 @@
 |fullPage |http://communitylocals.com/ |非常好用的全屏滑动库，看demo就明白 |
 |Vuejs |http://cn.vuejs.org |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |Cropper |http://fengyuanchen.github.io/cropper/ |国人开发的图片裁剪库 |
-|LoadersCSS |https://connoratherton.com/loaders |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
-|purecss |http://purecss.io/ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
 |bower |http://bower.io/ |A package manager for the web |
-|csscss |https://github.com/zmoazeni/csscss |用于检查css代码冗余 |
-|Mocha |https://github.com/mochajs/mocha |JS测试框架，可用于Node或者浏览器中 |
-|hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
-|jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
-
-> ___使用 ```hexo/jekyll + GitPage```，前端搭建博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
 
 <h3 id="401">Node</h3>
 
@@ -90,6 +96,7 @@
 |thenify-all |https://www.npmjs.com/package/thenify-all |Promisifies all the selected functions in an object |
 |koa |http://koajs.com/ |玩Node都知道express，但是koa使用的人就少很多，门槛比Ex稍高一点点。 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
 |Shipit |https://github.com/shipitjs/shipit |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
+|Mocha |https://github.com/mochajs/mocha |JS测试框架，可用于Node或者浏览器中 |
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
 
