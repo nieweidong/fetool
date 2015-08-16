@@ -22,12 +22,12 @@
 - [前端博客](#blogs)
 - [CSS](#css)
 - [浏览端JS](#javascript)
-- [Node]
-  - [Node中推荐Package](#RecPackageForNode)
-  - [Node学习指南](#RecBookForNode)
-- [精选好书&学习资料](#Boobs&Information)
+- Node
+  - [推荐Package](#RecPackageForNode)
+  - [Node学习资料](#RecBookForNode)
+- [精选阅读](#read)
 - [前端面试](#interview)
-- [工具/软件]
+- 工具/软件
   - [Web](#web)
   - [APP](#app)
   - [Mac](#mac)
@@ -116,7 +116,7 @@
 |七天学会NodeJS |https://github.com/alsotang/node-lessons |PS:劳资还没看，不做评价 |
 |从零开始nodejs系列文章 |http://blog.fens.me/series-nodejs/ |基本上每一篇都看过，强烈推荐 |
 
-<h3 id="Boobs&Information">精选好书&学习资料</h3>
+<h3 id="read">精选阅读</h3>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
