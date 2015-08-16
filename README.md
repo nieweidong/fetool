@@ -1,6 +1,6 @@
 # 大前端工具集
 
-<img src="http://www.fefork.com/images/me.jpg" width="120" height="120" style="border-radius: 60px;" />
+<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
 > 本篇文章记录了一名前端的工具集。主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
 
@@ -10,29 +10,36 @@
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
 
+---
+
+以下是[拔赤](http://weibo.com/jayli)总结的前端技能图
+![拔赤总结的前端技能图](https://raw.githubusercontent.com/nieweidong/fetool/master/img/fe.jpg)
+
+---
+
 ## 目录
-- [前端组织](#201)
-- [前端博客](#801)
-- [CSS](#301)
-- [浏览端JS](#302)
-- [Node](#401)
-  - [推荐Package](#402)
-  - [Node学习指南](#403)
-- [精选好书&学习资料](#501)
-- [前端面试](#601)
-- [工具/软件](#901)
-  - [Web](#902)
-  - [APP](#903)
-  - [Mac](#904)
-  - [Linux](#905)
-- [杂七杂八](#701)
-  - [浏览器插件](#702)
-  - [Git](#703)
-- [前端炫技-__炫酷狂拽叼炸天的Web__](#101)
+- [前端组织](#org)
+- [前端博客](#blogs)
+- [CSS](#css)
+- [浏览端JS](#javascript)
+- [Node]
+  - [Node中推荐Package](#RecPackageForNode)
+  - [Node学习指南](#RecBookForNode)
+- [精选好书&学习资料](#Boobs&Information)
+- [前端面试](#interview)
+- [工具/软件]
+  - [Web](#web)
+  - [APP](#app)
+  - [Mac](#mac)
+  - [Linux](#linux)
+- [浏览器插件](#BrowserPlugins)
+- [Git](#git)
+- [杂七杂八](#other)
+- [前端炫技-__炫酷狂拽叼炸天的Web__](#cool)
 
 ## 正文
 
-<h3 id="201">前端组织</h3>
+<h3 id="org">前端组织</h3>
 
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
@@ -45,7 +52,7 @@
 |前端乱炖 |http://www.html-js.com |前端社区太多，乱炖还算做的不错的 |
 |Div.IO |http://div.io/digg |berg牵头打造的前端信息聚合网站，分享内容有最新的库和前沿技术 |
 
-<h3 id="801">前端博客</h3>
+<h3 id="blogs">前端博客</h3>
 
 > 值得长期占坑的前端个人博客，都是偶经常关注的
 
@@ -56,7 +63,7 @@
 |张鑫旭 |www.zhangxinxu.com/wordpress/ |成名多年的、高产的前端大湿 |
 
 
-<h4 id="301">CSS</h4>
+<h4 id="css">CSS</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -68,7 +75,7 @@
 
 > ___使用 ```hexo/jekyll + GitPage```，前端搭建博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
 
-<h4 id="302">浏览端JS</h4>
+<h4 id="javascript">浏览端JS</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -81,9 +88,9 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
-<h3 id="401">Node</h3>
+<h3>Node</h3>
 
-<h4 id="402">推荐Package</h4>
+<h4 id="RecPackageForNode">推荐Package</h4>
 
 ##### 这里介绍些有特色且前端有必要知道的包
 
@@ -100,7 +107,7 @@
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
 
-<h4 id="403">Node学习指南</h4>
+<h4 id="RecBookForNode">Node学习指南</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -109,22 +116,22 @@
 |七天学会NodeJS |https://github.com/alsotang/node-lessons |PS:劳资还没看，不做评价 |
 |从零开始nodejs系列文章 |http://blog.fens.me/series-nodejs/ |基本上每一篇都看过，强烈推荐 |
 
-<h3 id="501">精选好书&学习资料</h3>
+<h3 id="Boobs&Information">精选好书&学习资料</h3>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |React-Native学习指南 |https://github.com/ele828/react-native-guide |新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。 |
 |react-webpack-cookbook |https://fakefish.github.io/react-webpack-cookbook/index.html |这本小书的目的是引导你进入```React```和```Webpack```的世界。 他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
 
-<h3>前端面试</h3>
+<h3 id="interview">前端面试</h3>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |大漠：写给前端面试者 |http://www.w3cplus.com/css/write-to-front-end-developer-interview.html |这篇不涉及任何的面试题，大漠和大家聊聊面试者与被面者之间的感受... |
 
-<h3 id="901">工具/软件</h3>
+<h3>工具/软件</h3>
 
-<h4 id="902">Web</h4>
+<h4 id="web">Web</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -137,9 +144,9 @@
 |Speaker Deck |https://speakerdeck.com/p/featured |在线的演讲稿展示平台 |
 |VimAwesome |http://vimawesome.com/ |Vim插件集合，__Vim党必备__ |
 
-<h4 id="903">APP</h4>
+<h4 id="app">APP</h4>
 
-<h4 id="904">Mac</h4>
+<h4 id="mac">Mac</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -150,14 +157,24 @@
 |Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
 |focus booster |https://www.focusboosterapp.com/ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
 
-<h4 id="905">Linux</h4>
+<h4 id="linux">Linux</h4>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |oh-my-zsh |http://ohmyz.sh/ |___终端党___必用的好工具 |
 |oneapm |http://www.oneapm.com/ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；我这用了服务器监控(免费哦) |
 
-<h3 id="701">杂七杂八</h3>
+<h3 id="BrowserPlugins">浏览器插件</h3>
+
+<h3 id="git">Git</h3>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|Git教程-廖雪峰 |http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
+|Git速查 |https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md |分类清晰的速查表 |
+|Git简明指南 |http://rogerdudler.github.io/git-guide/index.zh.html |助你入门```Git```的简明指南，木有高深内容:) |
+
+<h3 id="other">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
 
@@ -166,17 +183,7 @@
 | ----- | ----- | ------ |
 |gulp-book |https://github.com/nimojs/gulp-book |Gulp是基于Node实现Web前端自动化开发的工具 |
 
-<h4 id="702">浏览器插件</h4>
-
-<h4 id="703">Git</h4>
-
-| 名称 | 地址 | 备注/说明 |
-| ----- | ----- | ------ |
-|Git教程-廖雪峰 |http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000 |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
-|Git速查 |https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md |分类清晰的速查表 |
-|Git简明指南 |http://rogerdudler.github.io/git-guide/index.zh.html |助你入门```Git```的简明指南，木有高深内容:) |
-
-<h3 id="101">前端炫技-_炫酷狂拽叼炸天站点_</h3>
+<h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -185,3 +192,7 @@
 |墨刀 |https://modao.cc/ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。 |
 |Mapbox |https://www.mapbox.com/ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
 |parallax.js |http://matthew.wagerfield.com/parallax/ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
+
+---
+
+完善ing，慢慢把 __Evernote__ 和 __浏览器书签__ 里面的好东西慢慢捣腾到这儿，更欢迎PR，谢谢。
