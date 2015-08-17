@@ -68,6 +68,7 @@
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |LoadersCSS |https://connoratherton.com/loaders |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
+|Hover.css |http://ianlunn.github.io/Hover/ |很多鼠标Hover态的效果，可以给产品学习一下:) |
 |purecss |http://purecss.io/ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
 |csscss |https://github.com/zmoazeni/csscss |用于检查css代码冗余 |
 |hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
