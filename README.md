@@ -20,6 +20,7 @@
 ## 目录
 - [前端组织](#org)
 - [前端博客](#blogs)
+- [博客搭建](#blogbuild)
 - [CSS](#css)
 - [浏览端JS](#javascript)
 - Node
@@ -48,6 +49,7 @@
 |Git |https://github.com |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航。 用啦都说好:)|
 |MDN |https://developer.mozilla.org/zh-CN/ |不解释，无数的资源再等着你探索 |
 |慕课 |http://www.imooc.com/ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
+|极客学院 |http://www.jikexueyuan.com/course/web/ |和慕课类似，但是内容更杂、更丰富 |
 |W3Cplus |http://www.w3cplus.com/ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 |
 |前端乱炖 |http://www.html-js.com |前端社区太多，乱炖还算做的不错的 |
 |Div.IO |http://div.io/digg |berg牵头打造的前端信息聚合网站，分享内容有最新的库和前沿技术 |
@@ -62,6 +64,14 @@
 |粉丝日志for张丹 |http://blog.fens.me/ |大爱作者写的Node系列 |
 |张鑫旭 |www.zhangxinxu.com/wordpress/ |成名多年的、高产的前端大湿 |
 
+<h3 id="blogbuild">博客搭建</h3>
+
+|Tumblr |https://www.tumblr.com/ |轻博客的祖师爷 |
+|Wordpress |https://zh-cn.wordpress.com/ |这玩意古老到我都不想介绍鸟 |
+|hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
+|jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
+
+> ___使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
 
 <h4 id="css">CSS</h4>
 
@@ -71,10 +81,6 @@
 |Hover.css |http://ianlunn.github.io/Hover/ |很多鼠标Hover态的效果，可以给产品学习一下:) |
 |purecss |http://purecss.io/ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
 |csscss |https://github.com/zmoazeni/csscss |用于检查css代码冗余 |
-|hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
-|jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
-
-> ___使用 ```hexo/jekyll + GitPage```，前端搭建博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
 
 <h4 id="javascript">浏览端JS</h4>
 
@@ -166,6 +172,10 @@
 |oneapm |http://www.oneapm.com/ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；我这用了服务器监控(免费哦) |
 
 <h3 id="BrowserPlugins">浏览器插件</h3>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|Infinity |http://infinitynewtab.com/ |针对Chrome的插件，__新标签页__会让你耳目一新 |
 
 <h3 id="git">Git</h3>
 
