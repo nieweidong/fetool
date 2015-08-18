@@ -66,6 +66,8 @@
 
 <h3 id="blogbuild">博客搭建</h3>
 
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
 |Tumblr |https://www.tumblr.com/ |轻博客的祖师爷 |
 |Wordpress |https://zh-cn.wordpress.com/ |这玩意古老到我都不想介绍鸟 |
 |hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
