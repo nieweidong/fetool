@@ -73,7 +73,7 @@
 |hexo |https://hexo.io/zh-cn/ |快速、简洁且高效的博客框架 |
 |jekyll |http://jekyll.bootcss.com/ |将纯文本转化为静态网站和博客 |
 
-> ___使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当easy。用mk写文章做记录，再push到Git上，分分钟高大上有木有___
+> ___使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当easy。用Markdown写文章做记录，再push到Git上，分分钟高大上有木有___
 
 <h4 id="css">CSS</h4>
 
@@ -152,8 +152,13 @@
 |htm2pdf|www.htm2pdf.co.uk/index.php |HTML to PDF |
 |Speaker Deck |https://speakerdeck.com/p/featured |在线的演讲稿展示平台 |
 |VimAwesome |http://vimawesome.com/ |Vim插件集合，__Vim党必备__ |
+|百度脑图 |http://naotu.baidu.com |非常方便的思维导图工具 |
 
 <h4 id="app">APP</h4>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|Monkey |https://github.com/coderyi/Monkey |Monkey是iPhone上一个GitHub第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名 |
 
 <h4 id="mac">Mac</h4>
 
