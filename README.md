@@ -12,7 +12,7 @@
 
 ---
 
-以下是[拔赤](http://weibo.com/jayli)总结的前端技能图
+以下是[拔赤](http://weibo.com/jayli)总结的前端技能图：
 ![拔赤总结的前端技能图](https://raw.githubusercontent.com/nieweidong/fetool/master/img/fe.jpg)
 
 ---
@@ -153,6 +153,7 @@
 |Speaker Deck |https://speakerdeck.com/p/featured |在线的演讲稿展示平台 |
 |VimAwesome |http://vimawesome.com/ |Vim插件集合，__Vim党必备__ |
 |百度脑图 |http://naotu.baidu.com |非常方便的思维导图工具 |
+|Tower|https://tower.im |小而美的多人协同工具。 不光只有Web版，还有iPhone、iPad、Android、微信版。 |
 
 <h4 id="app">APP</h4>
 
