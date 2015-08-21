@@ -26,6 +26,7 @@
 - Node
   - [推荐Package](#RecPackageForNode)
   - [Node学习资料](#RecBookForNode)
+- [Build 项目构建](#build)
 - [精选阅读](#read)
 - [前端面试](#interview)
 - 工具/软件
@@ -93,7 +94,6 @@
 |fullPage |http://communitylocals.com/ |非常好用的全屏滑动库，看demo就明白 |
 |Vuejs |http://cn.vuejs.org |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |Cropper |http://fengyuanchen.github.io/cropper/ |国人开发的图片裁剪库 |
-|bower |http://bower.io/ |A package manager for the web |
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
@@ -124,6 +124,14 @@
 |Node.js 包教不包会 |http://nqdeng.github.io/7-days-nodejs/ |PS:劳资还没看，不做评价 |
 |七天学会NodeJS |https://github.com/alsotang/node-lessons |PS:劳资还没看，不做评价 |
 |从零开始nodejs系列文章 |http://blog.fens.me/series-nodejs/ |基本上每一篇都看过，强烈推荐 |
+
+<h3 id="build">Build 项目构建</h3>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|Gitlab CI |https://ci.gitlab.org/ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
+|Webpack |http://webpack.github.io/ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究 |
+|Bower |http://bower.io/ |一句话解释：A package manager for the web |
 
 <h3 id="read">精选阅读</h3>
 
