@@ -94,6 +94,7 @@
 |fullPage |http://communitylocals.com/ |非常好用的全屏滑动库，看demo就明白 |
 |Vuejs |http://cn.vuejs.org |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |Cropper |http://fengyuanchen.github.io/cropper/ |国人开发的图片裁剪库 |
+|Echarts |http://echarts.baidu.com/index.html |好用，最关键的是支持的图表展示非常之多，强烈推荐 |
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
@@ -130,7 +131,7 @@
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |Gitlab CI |https://ci.gitlab.org/ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
-|Webpack |http://webpack.github.io/ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究 |
+|Webpack |http://webpack.github.io/ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍Webpack和React的工作机制。 |
 |Bower |http://bower.io/ |一句话解释：A package manager for the web |
 
 <h3 id="read">精选阅读</h3>
@@ -171,6 +172,9 @@
 
 <h4 id="mac">Mac</h4>
 
+> 对于美好事务的追求无论何时都不算晚，所以从2014年开始在Mac下办公
+> Windows？回不去了...
+
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |Wireshark |https://www.wireshark.org/ |说实话，Mac下木有Fiddler挺不习惯，不过在有更强大的替代品 |
@@ -179,6 +183,7 @@
 |WebStorm |http://www.jetbrains.com/webstorm/ |功能超强的前端IDE，不多介绍，谁用谁知道 |
 |Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
 |focus booster |https://www.focusboosterapp.com/ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
+|SourceTree |https://www.sourcetreeapp.com/ |一款好用的的Git客户端工具，重点是支持中文:) |
 
 <h4 id="linux">Linux</h4>
 
