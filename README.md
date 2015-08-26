@@ -36,6 +36,8 @@
   - [Linux](#linux)
 - [浏览器插件](#BrowserPlugins)
 - [Git](#git)
+- [Redis](#redis)
+- [MongoDB](#mongo)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的Web__](#cool)
 
@@ -140,6 +142,7 @@
 | ----- | ----- | ------ |
 |React-Native学习指南 |https://github.com/ele828/react-native-guide |新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。 |
 |react-webpack-cookbook |https://fakefish.github.io/react-webpack-cookbook/index.html |这本小书的目的是引导你进入```React```和```Webpack```的世界。 他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
+|MongoDB 极简实践入门 |https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md |入门推荐的套路，非常浅显易懂入门推荐的套路，非常浅显易懂 |
 
 <h3 id="interview">前端面试</h3>
 
@@ -172,7 +175,7 @@
 
 <h4 id="mac">Mac</h4>
 
-> 对于美好事务的追求无论何时都不算晚，所以从2014年开始在Mac下办公
+> 对于美好事务的追求无论何时都不算晚，游行从2014年开始在Mac下办公(公司配的)
 > Windows？回不去了...
 
 | 名称 | 地址 | 备注/说明 |
@@ -206,10 +209,14 @@
 |Git速查 |https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md |分类清晰的速查表 |
 |Git简明指南 |http://rogerdudler.github.io/git-guide/index.zh.html |助你入门```Git```的简明指南，木有高深内容:) |
 
+
+<h3 id="redis">Redis</h3>
+
+<h3 id="mongodb">MongoDB</h3>
+
 <h3 id="other">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
-
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
