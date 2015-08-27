@@ -97,6 +97,7 @@
 |Vuejs |http://cn.vuejs.org |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |Cropper |http://fengyuanchen.github.io/cropper/ |国人开发的图片裁剪库 |
 |Echarts |http://echarts.baidu.com/index.html |好用，最关键的是支持的图表展示非常之多，强烈推荐 |
+|impress.js|https://github.com/impress/impress.js | 用来写PPT不错，偶也曾为其写过一篇[impress.js初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)|
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
@@ -221,6 +222,7 @@
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |gulp-book |https://github.com/nimojs/gulp-book |Gulp是基于Node实现Web前端自动化开发的工具 |
+|.gitignore文件 |https://github.com/github/gitignore |介绍了不同语言项目的gitignore模板 |
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
@@ -231,6 +233,7 @@
 |墨刀 |https://modao.cc/ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。 |
 |Mapbox |https://www.mapbox.com/ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
 |parallax.js |http://matthew.wagerfield.com/parallax/ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
+|SuperScrollorama |http://johnpolacek.github.io/superscrollorama/ |好玩好看的动画库，链接是SuperScrollorama的展示页 |
 
 ---
 
