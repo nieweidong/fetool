@@ -215,6 +215,10 @@
 
 <h3 id="mongodb">MongoDB</h3>
 
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|Mongoose |https://github.com/Automattic/mongoose |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
+
 <h3 id="other">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
