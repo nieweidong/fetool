@@ -136,6 +136,7 @@
 |Gitlab CI |https://ci.gitlab.org/ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
 |Webpack |http://webpack.github.io/ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍Webpack和React的工作机制。 |
 |Bower |http://bower.io/ |一句话解释：A package manager for the web |
+|Gulp |https://github.com/gulpjs/gulp/ |Gulp是基于Node实现Web前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) |
 
 <h3 id="read">精选阅读</h3>
 
@@ -144,6 +145,7 @@
 |React-Native学习指南 |https://github.com/ele828/react-native-guide |新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。 |
 |react-webpack-cookbook |https://fakefish.github.io/react-webpack-cookbook/index.html |这本小书的目的是引导你进入```React```和```Webpack```的世界。 他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
 |MongoDB 极简实践入门 |https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md |入门推荐的套路，非常浅显易懂入门推荐的套路，非常浅显易懂 |
+|gulp-book |https://github.com/nimojs/gulp-book |Gulp是基于Node实现Web前端自动化开发的工具 |
 
 <h3 id="interview">前端面试</h3>
 
@@ -225,8 +227,8 @@
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
-|gulp-book |https://github.com/nimojs/gulp-book |Gulp是基于Node实现Web前端自动化开发的工具 |
 |.gitignore文件 |https://github.com/github/gitignore |介绍了不同语言项目的gitignore模板 |
+|Codebabes |https://codebabes.com/ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
