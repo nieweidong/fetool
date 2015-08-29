@@ -117,6 +117,7 @@
 |koa |http://koajs.com/ |玩Node都知道express，但是koa使用的人就少很多，门槛比Ex稍高一点点。 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
 |Shipit |https://github.com/shipitjs/shipit |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |Mocha |https://github.com/mochajs/mocha |JS测试框架，可用于Node或者浏览器中 |
+|thenify-all |https://www.npmjs.com/package/thenify-all |把异步的方法变成Promise的 |
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
 
