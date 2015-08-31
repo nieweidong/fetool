@@ -27,6 +27,8 @@
   - [推荐Package](#RecPackageForNode)
   - [Node学习资料](#RecBookForNode)
 - [Build 项目构建](#build)
+  - [Gulp推荐包](#gulp)
+  - [Webpack](#webpack)
 - [精选阅读](#read)
 - [前端面试](#interview)
 - 工具/软件
@@ -139,6 +141,10 @@
 |Bower |http://bower.io/ |一句话解释：A package manager for the web |
 |Gulp |https://github.com/gulpjs/gulp/ |Gulp是基于Node实现Web前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) |
 
+<h4 id="gulp">Gulp推荐包</h4>
+
+<h4 id="webpack">Webpack</h4>
+
 <h3 id="read">精选阅读</h3>
 
 | 名称 | 地址 | 备注/说明 |
@@ -169,6 +175,7 @@
 |Speaker Deck |https://speakerdeck.com/p/featured |在线的演讲稿展示平台 |
 |VimAwesome |http://vimawesome.com/ |Vim插件集合，__Vim党必备__ |
 |百度脑图 |http://naotu.baidu.com |非常方便的思维导图工具 |
+|ProcessOn |https://www.processon.com/ |和百度脑图的功能类似，脑图工具。 |
 |Tower|https://tower.im |小而美的多人协同工具。 不光只有Web版，还有iPhone、iPad、Android、微信版。 |
 
 <h4 id="app">APP</h4>
@@ -191,6 +198,7 @@
 |Atom |https://atom.io |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
 |focus booster |https://www.focusboosterapp.com/ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
 |SourceTree |https://www.sourcetreeapp.com/ |一款好用的的Git客户端工具，重点是支持中文:) |
+|BrowseShot |https://itunes.apple.com/cn/app/browseshot/id615916400?mt=12&utm_source=next.36kr.com |我正在使用的网页截图工具，强烈推荐 |
 
 <h4 id="linux">Linux</h4>
 
