@@ -6,14 +6,9 @@
 
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
-- 个人Blog [fefok.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
+- 个人Blog [fefork.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
-
----
-
-以下是[拔赤](http://weibo.com/jayli)总结的前端技能图：
-![拔赤总结的前端技能图](https://raw.githubusercontent.com/nieweidong/fetool/master/img/fe.jpg)
 
 ---
 
@@ -34,6 +29,8 @@
 - 工具/软件
   - [Web](#web)
   - [APP](#app)
+    - [Android](#android)
+    - [iPhone](#iphone)
   - [Mac](#mac)
   - [Linux](#linux)
 - [浏览器插件](#BrowserPlugins)
@@ -180,6 +177,20 @@
 
 <h4 id="app">APP</h4>
 
+> 以下列表中的APP都是不区分系统平台的
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|印象笔记 |https://www.yinxiang.com/ |免费账号完全够用，跨平台跨终端的记录软件|
+
+<h5 id="android">Android</h5>
+
+| 名称 | 地址 | 备注/说明 |
+| ----- | ----- | ------ |
+|小米桌面 |http://zhuomian.xiaomi.com/ |多好看、多漂亮谈不上，关键是没有广告|
+
+<h5 id="iphone">iPhone</h5>
+
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
 |Monkey |https://github.com/coderyi/Monkey |Monkey是iPhone上一个GitHub第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名 |
@@ -249,6 +260,11 @@
 |Mapbox |https://www.mapbox.com/ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
 |parallax.js |http://matthew.wagerfield.com/parallax/ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
 |SuperScrollorama |http://johnpolacek.github.io/superscrollorama/ |好玩好看的动画库，链接是SuperScrollorama的展示页 |
+
+---
+
+以下是[拔赤](http://weibo.com/jayli)总结的前端技能图：
+![拔赤总结的前端技能图](https://raw.githubusercontent.com/nieweidong/fetool/master/img/fe.jpg)
 
 ---
 
