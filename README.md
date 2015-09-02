@@ -46,15 +46,17 @@
 
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
-| 名称 | 地址 | 备注/说明 |
+| 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|Git |https://github.com |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航。 用啦都说好:)|
-|MDN |https://developer.mozilla.org/zh-CN/ |不解释，无数的资源再等着你探索 |
-|慕课 |http://www.imooc.com/ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
-|极客学院 |http://www.jikexueyuan.com/course/web/ |和慕课类似，但是内容更杂、更丰富 |
-|W3Cplus |http://www.w3cplus.com/ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 |
-|前端乱炖 |http://www.html-js.com |前端社区太多，乱炖还算做的不错的 |
-|Div.IO |http://div.io/digg |berg牵头打造的前端信息聚合网站，分享内容有最新的库和前沿技术 |
+|[Git](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航。 用啦都说好:)|
+|[MDN](https://developer.mozilla.org/zh-CN/) |★★★★★ |不解释，无数的资源再等着你探索 |
+|[慕课](http://www.imooc.com/) |★★★★☆ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
+|[W3Cplus](http://www.w3cplus.com/) |★★★★☆ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 Sass专家级 |
+|[百度Web前端研发部](http://fex.baidu.com/) |★★★★ |确实对得起“研发”这个称呼 |
+|[前端乱炖](http://www.html-js.com) |★★★☆ |前端社区太多，乱炖还算做的不错的 |
+|[极客学院](http://www.jikexueyuan.com/course/web/) |★★★ |和慕课类似，但是内容更杂、更丰富 |
+|[Div.IO](http://div.io/digg) |★★★ |berg牵头打造的前端信息聚合网站，分享内容有最新的库和前沿技术 |
+|[腾讯全端AlloyTeam](http://www.alloyteam.com/) |★★★ |腾讯Web前端团队 |
 
 <h3 id="blogs">前端博客</h3>
 
@@ -108,6 +110,7 @@
 
 | 名称 | 地址 | 备注/说明 |
 | ----- | ----- | ------ |
+|anywhere |https://www.npmjs.com/package/anywhere |随时随地将你的当前目录变成一个静态文件服务器的根目录 |
 |supervisor |https://www.npmjs.com/package/supervisor |监控Node代码，自动重启。 A supervisor program for running nodejs programs |
 |nodemon |https://github.com/remy/nodemon |监控Node代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.|
 |pm2 |https://www.npmjs.com/package/pm2 |是一个带有负载均衡功能的Node应用的进程管理器 |
