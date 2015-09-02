@@ -116,7 +116,7 @@
 |[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的Node应用的进程管理器 |
 |[async](https://www.npmjs.com/package/async) |★★★★★ |一个流程控制工具包，提供直接而强大的异步功能 |
 |[Mongoose](https://github.com/Automattic/mongoose) |★★★★★ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
-|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但是koa使用的人就少很多，门槛比Ex稍高一点点。 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
+|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的人就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |JS测试框架，可用于Node或者浏览器中 |
@@ -136,7 +136,6 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-
 |[Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍Webpack和React的工作机制。 |
 |[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp是基于Node实现Web前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) |
 |[Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
@@ -153,16 +152,16 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★★ |入门推荐的套路，非常浅显易懂入门推荐的套路，非常浅显易懂 |
-|[React-Native学习指南](https://github.com/ele828/react-native-guide) |★★★★★ |新玩意层出不穷，对于那些能持续学习的童鞋，这是个美好的时代。 |
-|[react-webpack-cookbook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |这本小书的目的是引导你进入```React```和```Webpack```的世界。 他们两个都是非常有用的技术，如果同时使用他们，前端开发会更加有趣。 |
-|[gulp-book](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp是基于Node实现Web前端自动化开发的工具 |
+|[MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★★ |入门推荐的套路，非常浅显易懂 |
+|[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
+|[ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。 |
+|[GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp是基于Node实现Web前端自动化开发的工具 |
 
 <h3 id="interview">前端面试</h3>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇不涉及任何的面试题，大漠和大家聊聊面试者与被面者之间的感受... |
+|[大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受... |
 
 <h3>工具/软件</h3>
 
@@ -223,7 +222,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[oh-my-zsh](http://ohmyz.sh/) |★★★★★ |___终端党___必用的好工具 |
-|[oneapm](http://www.oneapm.com/) |★★★★ |强大的运维工具。 提供多种监控客户端，有采集、分析、展示等一套功能；我这用了服务器监控(免费哦) |
+|[oneapm](http://www.oneapm.com/) |★★★★ |强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦) |
 
 <h3 id="BrowserPlugins">浏览器插件</h3>
 
@@ -237,7 +236,7 @@
 | ----- | ----- | ------ |
 |[Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★★ |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
 |[Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表 |
-|[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★ |助你入门```Git```的简明指南，木有高深内容:) |
+|[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★ |入门```Git```的简明指南，木有高深内容:) |
 
 
 <h3 id="redis">Redis</h3>
@@ -246,7 +245,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[Mongoose](https://github.com/Automattic/mongoose) |★★★★★ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
+|[Mongoose](https://github.com/Automattic/mongoose) |★★★★★ |让NodeJS更容易操作Mongodb数据库。  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
 
 <h3 id="other">杂七杂八</h3>
 
@@ -262,7 +261,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[windows93](http://www.windows93.net/) |★★★★★ |模拟Win93桌面，思路、体验和整体效果比较有意思 |
-|[GeekTyper](http://geektyper.com/) |★★★★★ |非常好玩的、具有Geek精神的网站，虽然创建的目的就是个恶作剧。 PS：网站需要翻墙 |
+|[GeekTyper](http://geektyper.com/) |★★★★★ |好玩又具有Geek精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙 |
 |[Mapbox](https://www.mapbox.com/) |★★★★★ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
 |[SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★★ |好玩好看的动画库，链接是SuperScrollorama的展示页 |
 |[parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
