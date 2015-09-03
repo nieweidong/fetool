@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
-> 本篇文章记录了一名前端的工具集。主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
+> 本篇文章记录了一枚程序猿的百宝箱。
+> 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
 
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
@@ -64,6 +65,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
+|[如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) |★★★★★ |RT |
 |[阮一峰](http://javascript.ruanyifeng.com/) |★★★★★ |关注多年，拜读其ES6系列... 虽网传靠写书进鸟阿里，但博客内容确实够丰富，值得关注 |
 |[粉丝日志for张丹](http://blog.fens.me/) |★★★★★ |大爱作者写的Node系列 |
 |[张鑫旭](www.zhangxinxu.com/wordpress/) |★★★★★ |成名多年的、高产的前端大湿 |
@@ -153,6 +155,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★★ |入门推荐的套路，非常浅显易懂 |
+|[ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★★ |翻译自官方的中文文档 |
 |[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
 |[ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。 |
 |[GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp是基于Node实现Web前端自动化开发的工具 |
@@ -161,6 +164,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
+|[在LinkedIn做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) |★★★★★ |非面试题，介绍LinkedIn的面试过程 文章有很多中肯的建议和想法，推荐阅读 |
 |[大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受... |
 
 <h3>工具/软件</h3>
@@ -208,6 +212,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
+|[Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包|
 |[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★★ |我正在使用的网页截图工具，强烈推荐 |
 |[马克鳗](http://www.getmarkman.com/) |★★★★★ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
 |[Atom](https://atom.io) |★★★★ |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
@@ -223,6 +228,8 @@
 | ----- | ----- | ------ |
 |[oh-my-zsh](http://ohmyz.sh/) |★★★★★ |___终端党___必用的好工具 |
 |[oneapm](http://www.oneapm.com/) |★★★★ |强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦) |
+|[tree](http://www.cnblogs.com/iadanac/p/3859481.html) |★★★★★ |linux以树状图逐级列出目录的内容 |
+|[httpie](https://github.com/jkbrzt/httpie) |★★★★☆ |一个CLI中的HTTP客户端 用法简单、易读 |
 
 <h3 id="BrowserPlugins">浏览器插件</h3>
 
