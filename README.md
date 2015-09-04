@@ -166,6 +166,7 @@
 | ----- | ----- | ------ |
 |[在LinkedIn做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) |★★★★★ |非面试题，介绍LinkedIn的面试过程 文章有很多中肯的建议和想法，推荐阅读 |
 |[大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受... |
+|[前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) |★★★★☆ |Git上非常火的前端面试题，```start17k+``` |
 
 <h3>工具/软件</h3>
 
@@ -207,20 +208,20 @@
 
 <h4 id="mac">Mac</h4>
 
-> 对于美好事务的追求无论何时都不算晚，游行从2014年开始在Mac下办公(公司配的)
-> Windows？回不去了...
+> 对于美好事务的追求无论何时都不算晚，前年公司配了台Mac用做测试开发机，于是开始在Mac下办公。
+> __Windows？__ 回不去了...
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包|
 |[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★★ |我正在使用的网页截图工具，强烈推荐 |
-|[马克鳗](http://www.getmarkman.com/) |★★★★★ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
+|[马克鳗](http://www.getmarkman.com/) |★★★★☆ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
+|[WebStorm](http://www.jetbrains.com/webstorm/) |★★★★☆ |功能超强的前端IDE，不多介绍，谁用谁知道 |
 |[Atom](https://atom.io) |★★★★ |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
-|[Wireshark](https://www.wireshark.org/) |★★★★ |说实话，Mac下木有Fiddler挺不习惯，不过在有更强大的替代品 |
-|[focus booster](https://www.focusboosterapp.com/) |★★★★ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
-|[SourceTree](https://www.sourcetreeapp.com/) |★★★★ |一款好用的的Git客户端工具，重点是支持中文:) |
-|[Mou](http://25.io/mou/) |★★★ |快速好用的Markdown编辑器 |
-|[WebStorm](http://www.jetbrains.com/webstorm/) |★★★ |功能超强的前端IDE，不多介绍，谁用谁知道 |
+|[Wireshark](https://www.wireshark.org/) |★★★☆ |说实话，Mac下木有Fiddler挺不习惯，不过在有更强大的替代品 |
+|[SourceTree](https://www.sourcetreeapp.com/) |★★★☆ |一款好用的的Git客户端工具，重点是支持中文:) |
+|[focus booster](https://www.focusboosterapp.com/) |★★★ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
+|[Mou](http://25.io/mou/) |★★ |快速好用的Markdown编辑器 |
 
 <h4 id="linux">Linux</h4>
 
