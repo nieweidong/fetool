@@ -159,6 +159,7 @@
 |[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
 |[ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。 |
 |[GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp是基于Node实现Web前端自动化开发的工具 |
+|[Markdown资料](https://github.com/xirong/my-markdown) |★★★☆ |简单看些语法入门，快速用起来 |
 
 <h3 id="interview">前端面试</h3>
 
@@ -245,7 +246,7 @@
 |[Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★★ |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
 |[Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表 |
 |[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★ |入门```Git```的简明指南，木有高深内容:) |
-
+|[git学习资料整理](https://github.com/xirong/my-git)|★★★ |内容包括很多git的相关资料，```star1200+``` |
 
 <h3 id="redis">Redis</h3>
 
