@@ -37,7 +37,7 @@
 - [浏览器插件](#BrowserPlugins)
 - [Git](#git)
 - [Redis](#redis)
-- [MongoDB](#mongo)
+- [MongoDB](#mongodb)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的Web__](#cool)
 
@@ -264,6 +264,7 @@
 | ----- | ----- | ------ |
 |[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍了不同语言项目的gitignore模板 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
+|[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 |
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
