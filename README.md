@@ -66,7 +66,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) |★★★★★ |RT |
-|[阮一峰](http://javascript.ruanyifeng.com/) |★★★★★ |关注多年，拜读其ES6系列... 虽网传靠写书进鸟阿里，但博客内容确实够丰富，值得关注 |
+|[阮一峰](http://javascript.ruanyifeng.com/) |★★★★★ |关注多年，拜读其ES6系列... 虽网传靠写书进鸟阿里，但博客内容确实够丰富 |
 |[粉丝日志for张丹](http://blog.fens.me/) |★★★★★ |大爱作者写的Node系列 |
 |[张鑫旭](www.zhangxinxu.com/wordpress/) |★★★★★ |成名多年的、高产的前端大湿 |
 
@@ -94,13 +94,14 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
+|[Echarts](http://echarts.baidu.com/index.html) |★★★★★ |好用，最关键的是支持的图表展示非常之多，强烈推荐 |
 |[Swiper](http://www.swiper.com.cn) |★★★★★ |强大的Slider库 其实这类效果库非常多，但文档能那么专业的就很少鸟 |
-|[fullPage](http://communitylocals.com/) |★★★★★ |非常好用的全屏滑动库，看demo就明白 |
-|[Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习 |
+|[fullPage](http://communitylocals.com/) |★★★★☆ |非常好用的全屏滑动库，看demo就明白 |
 |[PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的js库 官网上有这么一句很关键、重要"no dependencies" |
-|[Echarts](http://echarts.baidu.com/index.html) |★★★★☆ |好用，最关键的是支持的图表展示非常之多，强烈推荐 |
-|[impress.js](https://github.com/impress/impress.js) |★★★★ | 用来写PPT不错，偶也曾为其写过一篇[impress.js初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)|
-|[Cropper](http://fengyuanchen.github.io/cropper/) |★★★☆ |国人开发的图片裁剪库 |
+|[Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习 |
+|[Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚 |
+|[impress.js](https://github.com/impress/impress.js) |★★☆ | 用来写PPT不错，偶也曾为其写过一篇[impress.js初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)|
+|[Cropper](http://fengyuanchen.github.io/cropper/) |★★☆ |国人开发的图片裁剪库 |
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
@@ -121,6 +122,7 @@
 |[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的人就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
+|[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★ |Node调试工具 |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |JS测试框架，可用于Node或者浏览器中 |
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
@@ -243,7 +245,8 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★★ |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
+|[Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★☆ |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
+|[GitAwards](http://github-awards.com/) |★★★★ |Git工具，可以查看Git排名 |
 |[Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表 |
 |[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★ |入门```Git```的简明指南，木有高深内容:) |
 |[git学习资料整理](https://github.com/xirong/my-git)|★★★ |内容包括很多git的相关资料，```star1200+``` |
