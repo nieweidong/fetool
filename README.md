@@ -119,7 +119,7 @@
 |[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的Node应用的进程管理器 |
 |[async](https://www.npmjs.com/package/async) |★★★★★ |一个流程控制工具包，提供直接而强大的异步功能 |
 |[Mongoose](https://github.com/Automattic/mongoose) |★★★★★ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
-|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的人就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇。[官方的文章教程](https://github.com/turingou/koa-guide) |
+|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的人就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★ |Node调试工具 |
@@ -145,8 +145,14 @@
 |[Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
 |[Bower](http://bower.io/) |★★★★ |一句话解释：A package manager for the web |
 
-
 <h4 id="gulp">Gulp推荐包</h4>
+
+> Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
+
+| 名称 | 推荐指数 | 备注/说明 |
+| ----- | ----- | ------ |
+|[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★☆ |有reload功能的Run Webserver工具 |
+|[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★☆ |可加载package.json内与Gulp相关的插件 省去鸟一行一行require的功夫咯 |
 
 <h4 id="webpack">Webpack</h4>
 
