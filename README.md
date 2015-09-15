@@ -149,6 +149,9 @@
 
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
+> Gulp最基础的库就不列在下表中了，其中包括：
+  - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是__连接/合并__文件
+
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★☆ |有reload功能的Run Webserver工具 |
