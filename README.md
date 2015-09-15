@@ -150,10 +150,14 @@
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
 > Gulp最基础的库就不列在下表中了，其中包括：
-  - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是__连接/合并__文件
+  - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是___连接/合并___文件
+  - [gulp-cssshrink](https://www.npmjs.com/package/gulp-cssshrink) CSS文件压缩
+  - [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) JS文件压缩
+
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
+|[gulp-webpack](https://www.npmjs.com/package/gulp-webpack) |★★★★★ |webpack与gulp配合，开启前端Build新纪元 webpack plugin for gulp |
 |[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★☆ |有reload功能的Run Webserver工具 |
 |[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★☆ |可加载package.json内与Gulp相关的插件 省去鸟一行一行require的功夫咯 |
 
