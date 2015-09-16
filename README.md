@@ -158,8 +158,11 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[gulp-webpack](https://www.npmjs.com/package/gulp-webpack) |★★★★★ |webpack与gulp配合，开启前端Build新纪元 webpack plugin for gulp |
-|[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★☆ |有reload功能的Run Webserver工具 |
-|[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★☆ |可加载package.json内与Gulp相关的插件 省去鸟一行一行require的功夫咯 |
+|[gulp-rev](https://www.npmjs.com/package/gulp-rev) |★★★★☆ |高大上第一步，静态文件名称变成HASH名称 |
+|[gulp-rev-collector](https://www.npmjs.com/package/gulp-rev-collector) |★★★★☆ |配合[gulp-rev](https://www.npmjs.com/package/gulp-rev)使用，自动用HASH替换模板内静态文件名 |
+|[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★ |有reload功能的Run Webserver工具 |
+|[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★ |可加载package.json内与Gulp相关的插件 省去鸟一行一行require的功夫咯 |
+|[run-sequence](https://www.npmjs.com/package/run-sequence) |★★★☆ |Gulp任务机制为并行，RS使得有依赖的任务可串行执行 |
 
 <h4 id="webpack">Webpack</h4>
 
