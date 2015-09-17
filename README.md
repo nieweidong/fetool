@@ -149,20 +149,25 @@
 
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
-> Gulp最基础的库就不列在下表中了，其中包括：
+> Gulp最基础的库就不列在下表格中鸟，其中包括：
   - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是___连接/合并___文件
   - [gulp-cssshrink](https://www.npmjs.com/package/gulp-cssshrink) CSS文件压缩
   - [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) JS文件压缩
-
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[gulp-webpack](https://www.npmjs.com/package/gulp-webpack) |★★★★★ |webpack与gulp配合，开启前端Build新纪元 webpack plugin for gulp |
 |[gulp-rev](https://www.npmjs.com/package/gulp-rev) |★★★★☆ |高大上第一步，静态文件名称变成HASH名称 |
 |[gulp-rev-collector](https://www.npmjs.com/package/gulp-rev-collector) |★★★★☆ |配合[gulp-rev](https://www.npmjs.com/package/gulp-rev)使用，自动用HASH替换模板内静态文件名 |
-|[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★ |有reload功能的Run Webserver工具 |
+|[run-sequence](https://www.npmjs.com/package/run-sequence) |★★★★ |Gulp任务机制为并行，RS使得有依赖的任务可串行执行 使用gulp-rev时得用RS配合 要不并行的生成配置和处理.html文件不能同事生效 |
+|[gulp-util](https://www.npmjs.com/package/gulp-util) |★★★★ |内含一套方法库，功能太多 个人感觉更喜欢功能单一的包，不太喜欢这种大杂烩 |
+|[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★ |有reload功能的Run Webserver工具 我一般用来livereload，即保存之后自动刷新页面 |
 |[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★ |可加载package.json内与Gulp相关的插件 省去鸟一行一行require的功夫咯 |
-|[run-sequence](https://www.npmjs.com/package/run-sequence) |★★★☆ |Gulp任务机制为并行，RS使得有依赖的任务可串行执行 |
+|[gulp-clean](https://www.npmjs.com/package/gulp-clean) |★★★☆ |移除文件或文件夹的包 |
+|[gulp-replace](https://www.npmjs.com/package/gulp-replace) |★★★☆ |其功能看名字就知道，用做字符串替换的 |
+|[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) |★★★☆ |叼炸天的自动处理浏览器前缀的包 文档地址：[usage](https://github.com/postcss/autoprefixer#usage) |
+|[gulp-rename](https://www.npmjs.com/package/gulp-rename) |★★★ |把文件重命名 结构设计的好不太会用到这个 |
+|[gulp-flatten](https://www.npmjs.com/package/gulp-flatten) |★★★ |删除或替换文件的相对路径； 一般我这用来移动img或者其他静态文件到新目录 同上：结构设计的好不太会用到这个 |
 
 <h4 id="webpack">Webpack</h4>
 
@@ -227,8 +232,8 @@
 
 <h4 id="mac">Mac</h4>
 
-> 对于美好事务的追求无论何时都不算晚，前年公司配了台Mac用做测试开发机，于是开始在Mac下办公。
-> __Windows？__ 回不去了...
+> 对于美好事务的追求无论何时都不算晚，前年公司给配了台Mac用做测试开发机，于是开始在Mac下办公。
+> __Windows？__ 回不去鸟...
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -281,7 +286,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍了不同语言项目的gitignore模板 |
+|[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍不同语言项目的gitignore模板 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 |[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 |
 
