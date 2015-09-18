@@ -24,7 +24,6 @@
   - [Node学习资料](#RecBookForNode)
 - [Build 项目构建](#build)
   - [Gulp推荐包](#gulp)
-  - [Webpack](#webpack)
 - [精选阅读](#read)
 - [前端面试](#interview)
 - 工具/软件
@@ -119,7 +118,7 @@
 |[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的Node应用的进程管理器 |
 |[async](https://www.npmjs.com/package/async) |★★★★★ |一个流程控制工具包，提供直接而强大的异步功能 |
 |[Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
-|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的人就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide) |
+|[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node调试工具，使用起来跟Chrome的JS调试器很相似 |
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
@@ -138,6 +137,9 @@
 
 <h3 id="build">Build 项目构建</h3>
 
+> Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
+> 推荐篇与Webpack相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
+
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍Webpack和React的工作机制。 |
@@ -146,8 +148,6 @@
 |[Bower](http://bower.io/) |★★★★ |一句话解释：A package manager for the web |
 
 <h4 id="gulp">Gulp推荐包</h4>
-
-> Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
 > Gulp最基础的库就不列在下表格中鸟，其中包括：
   - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是___连接/合并___文件
@@ -168,8 +168,6 @@
 |[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) |★★★☆ |叼炸天的自动处理浏览器前缀的包 文档地址：[usage](https://github.com/postcss/autoprefixer#usage) |
 |[gulp-rename](https://www.npmjs.com/package/gulp-rename) |★★★ |把文件重命名 结构设计的好不太会用到这个 |
 |[gulp-flatten](https://www.npmjs.com/package/gulp-flatten) |★★★ |删除或替换文件的相对路径； 一般我这用来移动img或者其他静态文件到新目录 同上：结构设计的好不太会用到这个 |
-
-<h4 id="webpack">Webpack</h4>
 
 <h3 id="read">精选阅读</h3>
 
