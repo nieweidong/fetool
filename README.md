@@ -48,7 +48,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[GitHub](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 |
+|[Git](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 |
 |[MDN](https://developer.mozilla.org/zh-CN/) |★★★★★ |不解释，无数的资源再等着你探索 |
 |[慕课](http://www.imooc.com/) |★★★★☆ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
 |[W3Cplus](http://www.w3cplus.com/) |★★★★☆ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 Sass专家级 |
@@ -123,6 +123,7 @@
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node调试工具，使用起来跟Chrome的JS调试器很相似 |
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |Node里最常用的测试框架； 它支持多种node的assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在browser上跑JS代码测试。 |
+|[everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth的集成解决方案 |
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
 
@@ -139,6 +140,7 @@
 
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 > 推荐篇与Webpack相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
+> Webpack用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -175,10 +177,12 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★★ |入门推荐的套路，非常浅显易懂 |
-|[ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★★ |翻译自官方的中文文档 |
-|[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
+|[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★★ |如果学习Nodejs，那么流一定是需要掌握的概念 |
+|[ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档 |
+|[MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★☆ |入门推荐的套路，非常浅显易懂 |
 |[ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。 |
+|[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
+|[HTML/CSS 编码规范](http://www.css88.com/doc/codeguide/) |★★★☆ |编写灵活、稳定、高质量的```HTML```和```CSS```代码的规范 |
 |[GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp是基于Node实现Web前端自动化开发的工具 |
 |[Markdown资料](https://github.com/xirong/my-markdown) |★★★☆ |简单看些语法入门，快速用起来 |
 
