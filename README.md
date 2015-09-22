@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
 > 本篇文章记录了一枚程序猿的百宝箱。
+
 > 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
 
 #### 您可以通过以下方式联系到我：
@@ -139,7 +140,9 @@
 <h3 id="build">Build 项目构建</h3>
 
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
+
 > 推荐篇与Webpack相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
+
 > Webpack用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
 
 | 名称 | 推荐指数 | 备注/说明 |
@@ -234,8 +237,7 @@
 
 <h4 id="mac">Mac</h4>
 
-> 对于美好事务的追求无论何时都不算晚，前年公司给配了台Mac用做测试开发机，于是开始在Mac下办公。
-> __Windows？__ 回不去鸟...
+> 对于美好事务的追求无论何时都不算晚，前年公司给配了台Mac用做测试开发机，于是开始在Mac下办公。 __Windows？__ 回不去鸟...
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
@@ -247,22 +249,26 @@
 |[Wireshark](https://www.wireshark.org/) |★★★☆ |说实话，Mac下木有Fiddler挺不习惯，不过在有更强大的替代品 |
 |[SourceTree](https://www.sourcetreeapp.com/) |★★★☆ |一款好用的的Git客户端工具，重点是支持中文:) |
 |[focus booster](https://www.focusboosterapp.com/) |★★★ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
-|[Mou](http://25.io/mou/) |★★ |快速好用的Markdown编辑器 |
+|[Mou](http://25.io/mou/) |★★ |小清新的Markdown编辑器 |
 
 <h4 id="linux">Linux</h4>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[oh-my-zsh](http://ohmyz.sh/) |★★★★★ |___终端党___必用的好工具 |
+|[oh-my-zsh](http://ohmyz.sh/) |★★★★★ |___终端党___必用的好工具，强烈推荐 |
+|[tree](http://www.cnblogs.com/iadanac/p/3859481.html) |★★★★ |linux以树状图逐级列出目录的内容 |
 |[oneapm](http://www.oneapm.com/) |★★★★ |强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦) |
-|[tree](http://www.cnblogs.com/iadanac/p/3859481.html) |★★★★★ |linux以树状图逐级列出目录的内容 |
-|[httpie](https://github.com/jkbrzt/httpie) |★★★★☆ |一个CLI中的HTTP客户端 用法简单、易读 |
+|[httpie](https://github.com/jkbrzt/httpie) |★★★☆ |一个CLI中的HTTP客户端 用法简单、易读 |
 
 <h3 id="BrowserPlugins">浏览器插件</h3>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[Infinity](http://infinitynewtab.com/) |★★★★ |针对Chrome的插件，__新标签页__会让你耳目一新 |
+|[JSONView](https://github.com/gildas-lormeau/JSONView-for-Chrome) |★★★★★ |麻麻再也不用担心偶调试接口啦 |
+|[wappalyzer](https://wappalyzer.com/) |★★★★☆ |分析网站使用的技术 它可以检测网页的web服务器、JS框架等等 |
+|[二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★☆ |RT |
+|[User-Agent Switcher](http://spoofer-extension.appspot.com/) |★★★★ |模拟各种终端的UA，达到调试目的 |
+|[Infinity](http://infinitynewtab.com/) |★★★☆ |针对Chrome的插件，__新标签页__会让你耳目一新 |
 
 <h3 id="git">Git</h3>
 
