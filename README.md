@@ -34,7 +34,7 @@
     - [iPhone](#iphone)
   - [Mac](#mac)
   - [Linux](#linux)
-- [浏览器插件](#BrowserPlugins)
+- [Chrome浏览器插件](#BrowserPlugins)
 - [Git](#git)
 - [Redis](#redis)
 - [MongoDB](#mongodb)
@@ -85,10 +85,11 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[LoadersCSS](https://connoratherton.com/loaders) |★★★★★ |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
+|[LoadersCSS](https://connoratherton.com/loaders) |★★★★☆ |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
+|[HINT.css](https://github.com/chinchang/hint.css) |★★★★ |一款非常小巧的提示框效果 |
 |[Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标Hover态的效果，可以给产品学习一下:) |
-|[purecss](http://purecss.io/) |★★★★ |非常小巧、强大的响应式CSS库,Yahoo!出品 |
 |[csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查css代码冗余 |
+|[purecss](http://purecss.io/) |★★★☆ |小巧的响应式CSS库，Yahoo!出品 |
 
 <h4 id="javascript">浏览端JS</h4>
 
@@ -260,7 +261,7 @@
 |[oneapm](http://www.oneapm.com/) |★★★★ |强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦) |
 |[httpie](https://github.com/jkbrzt/httpie) |★★★☆ |一个CLI中的HTTP客户端 用法简单、易读 |
 
-<h3 id="BrowserPlugins">浏览器插件</h3>
+<h3 id="BrowserPlugins">Chrome浏览器插件</h3>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
