@@ -119,6 +119,7 @@
 |[nodemon](https://github.com/remy/nodemon) |★★★★★ |监控Node代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.|
 |[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的Node应用的进程管理器 |
 |[async](https://www.npmjs.com/package/async) |★★★★★ |一个流程控制工具包，提供直接而强大的异步功能 |
+|[socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计Node的实时框架 聊天室、页游等对实时性有高要求的较适用 |
 |[Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
 |[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
