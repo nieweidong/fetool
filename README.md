@@ -20,7 +20,7 @@
 - [博客搭建](#blogbuild)
 - [CSS](#css)
 - [浏览端JS](#javascript)
-- Node
+- NodeJS
   - [推荐Package](#RecPackageForNode)
   - [Node学习资料](#RecBookForNode)
 - [Build 项目构建](#build)
@@ -106,7 +106,11 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的H5页完全不是问题哒___
 
-<h3>Node</h3>
+<h3>NodeJS</h3>
+
+> 作为一名大前端甚至是多端，Node绝逼是必备的一块
+
+> 社区活跃、部署方便都是令我对Node爱不释手的主要原因
 
 <h4 id="RecPackageForNode">推荐Package</h4>
 
@@ -118,17 +122,23 @@
 |[supervisor](https://www.npmjs.com/package/supervisor) |★★★★★ |监控Node代码，自动重启。 A supervisor program for running nodejs programs |
 |[nodemon](https://github.com/remy/nodemon) |★★★★★ |监控Node代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.|
 |[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的Node应用的进程管理器 |
-|[async](https://www.npmjs.com/package/async) |★★★★★ |一个流程控制工具包，提供直接而强大的异步功能 |
+|[async](https://www.npmjs.com/package/async) |★★★★☆ |一个流程控制工具包，提供直接而强大的异步功能 |
+|[lodash](https://www.npmjs.com/package/lodash) |★★★★☆ |JS工具库 ```Underscore.js```的一个fork发展而来 |
 |[socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计Node的实时框架 聊天室、页游等对实时性有高要求的较适用 |
 |[Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让NodeJS更容易操作Mongodb数据库；  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
 |[koa](http://koajs.com/) |★★★★☆ |玩Node都知道express，但使用koa的就少很多，门槛比Ex稍高 通过generator避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide) |
 |[Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit很多地方非常类似gulp，他们的核心都是任务系统。
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node调试工具，使用起来跟Chrome的JS调试器很相似 |
+|[winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node服务最流行的日志库之一 |
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |Node里最常用的测试框架； 它支持多种node的assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在browser上跑JS代码测试。 |
 |[everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth的集成解决方案 |
+|[hashids](https://www.npmjs.com/package/hashids) |★★★☆ |看名称就懂，给userid加解密用的 |
+|[colors](https://www.npmjs.com/package/colors) |★★☆ |花俏的小工具 让打印```console.log```时有更好的展示样式 |
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控Node代码，使得每次修改代码后会，开发Node程序必备
+
+> 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
 <h4 id="RecBookForNode">Node学习指南</h4>
 
