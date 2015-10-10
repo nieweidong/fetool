@@ -101,6 +101,7 @@
 |[PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的js库 官网上有这么一句很关键、重要"no dependencies" |
 |[Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |[Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚 |
+|[videojs](http://videojs.com/) |★★★☆ |当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给videojs搞定:) |
 |[impress.js](https://github.com/impress/impress.js) |★★☆ | 用来写PPT不错，偶也曾为其写过一篇[impress.js初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)|
 |[Cropper](http://fengyuanchen.github.io/cropper/) |★★☆ |国人开发的图片裁剪库 |
 
@@ -133,6 +134,7 @@
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |Node里最常用的测试框架； 它支持多种node的assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在browser上跑JS代码测试。 |
 |[everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth的集成解决方案 |
+|[shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写Node时难免需要用shell去操作些神马 shelljs是基于Node的shell工具，Api及其简单 |
 |[hashids](https://www.npmjs.com/package/hashids) |★★★☆ |看名称就懂，给userid加解密用的 |
 |[colors](https://www.npmjs.com/package/colors) |★★☆ |花俏的小工具 让打印```console.log```时有更好的展示样式 |
 
@@ -307,6 +309,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍不同语言项目的gitignore模板 |
+|[WeUI](https://github.com/weui/weui) |★★★★ |一套同微信原生视觉体验一致的基础样式库 为微信Web开发量身设计，令用户的使用感知更加统一 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 |[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 |
 
