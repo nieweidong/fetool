@@ -155,6 +155,8 @@
 
 > Gulp+Webpack的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
+> Gulp资料收集：[use-gulp](https://github.com/Platform-CUF/use-gulp)
+
 > 推荐篇与Webpack相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
 
 > Webpack用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
