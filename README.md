@@ -51,6 +51,7 @@
 | ----- | ----- | ------ |
 |[Git](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 |
 |[MDN](https://developer.mozilla.org/zh-CN/) |★★★★★ |不解释，无数的资源再等着你探索 |
+|[Awesomes.cn](http://www.awesomes.cn/) |★★★★☆ |国人维护的前端资源库，深度对接到 Github |
 |[慕课](http://www.imooc.com/) |★★★★☆ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
 |[W3Cplus](http://www.w3cplus.com/) |★★★★☆ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 Sass专家级 |
 |[百度Web前端研发部](http://fex.baidu.com/) |★★★★ |确实对得起“研发”这个称呼 |
@@ -86,6 +87,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[LoadersCSS](https://connoratherton.com/loaders) |★★★★☆ |用CSS技术实现loading动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:) |
+|[WeUI](https://github.com/weui/weui) |★★★★☆ |一套同微信原生视觉体验一致的基础样式库 为微信Web开发量身设计，令用户的使用感知更加统一 |
 |[HINT.css](https://github.com/chinchang/hint.css) |★★★★ |一款非常小巧的提示框效果 |
 |[Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标Hover态的效果，可以给产品学习一下:) |
 |[csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查css代码冗余 |
@@ -132,6 +134,7 @@
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node调试工具，使用起来跟Chrome的JS调试器很相似 |
 |[winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node服务最流行的日志库之一 |
 |[thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成Promise的 Promisifies all the selected functions in an object |
+|[PhantomJS](http://phantomjs.org/) |★★★★ |一般用来做抓取截图和无界面测试 也可以用来操作DOM和网络监测，很好玩的库 [Quick Start](http://phantomjs.org/quick-start.html) |
 |[Mocha](https://github.com/mochajs/mocha) |★★★★ |Node里最常用的测试框架； 它支持多种node的assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在browser上跑JS代码测试。 |
 |[everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth的集成解决方案 |
 |[shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写Node时难免需要用shell去操作些神马 shelljs是基于Node的shell工具，Api及其简单 |
@@ -198,6 +201,7 @@
 | ----- | ----- | ------ |
 |[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★★ |如果学习Nodejs，那么流一定是需要掌握的概念 |
 |[ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档 |
+|[Mac设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) |★★★★☆ |Mac使用必看 尤其适合 偏执狂/强迫症 患者:) |
 |[MongoDB极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★☆ |入门推荐的套路，非常浅显易懂 |
 |[ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。 |
 |[ReactNative学习指南](https://github.com/ele828/react-native-guide) |★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代 |
@@ -311,7 +315,6 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍不同语言项目的gitignore模板 |
-|[WeUI](https://github.com/weui/weui) |★★★★ |一套同微信原生视觉体验一致的基础样式库 为微信Web开发量身设计，令用户的使用感知更加统一 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 |[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 |
 
