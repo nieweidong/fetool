@@ -10,7 +10,7 @@
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
 - 个人Blog [fefork.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
-- QQ群 **214199415**，群名前端Club。PS:入群务必请提供__有内容的git或blog地址__，否则进不去哈:)
+- QQ群 **214199415**，群名__前端Club__。PS:入群务必请提供 __有内容的git或blog地址__，否则进不去哈:)
 
 ---
 
@@ -244,6 +244,7 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[印象笔记](https://www.yinxiang.com/) |★★★★★ |免费账号完全够用，跨平台跨终端的记录软件 |
+|[多看阅读](http://www.duokan.com/) |★★★★ |kindle确实好，但是懒得随身带着 多看还算不错，书较多且偶尔有特价比较爽 |
 
 <h5 id="android">Android</h5>
 
@@ -317,7 +318,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[QQ群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★★ |突然某天，有个QQ群让我加群 原本我是拒绝的，但当我看完这篇QQ群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:) |
+|[QQ群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★☆ |突然某天，有个QQ群让我加群 原本我是拒绝的，但当我看完这篇QQ群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:) |
 |[.gitignore文件](https://github.com/github/gitignore) |★★★★☆ |介绍不同语言项目的gitignore模板 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 |[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊... |
