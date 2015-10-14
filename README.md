@@ -102,6 +102,7 @@
 |[fullPage](http://alvarotrigo.com/fullPage/) |★★★★☆ |非常好用的全屏滑动库，看demo就明白 |
 |[PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的js库 官网上有这么一句很关键、重要"no dependencies" |
 |[Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习 |
+|[emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持 |
 |[Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚 |
 |[videojs](http://videojs.com/) |★★★☆ |当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给videojs搞定:) |
 |[clipboard](http://zenorocha.github.io/clipboard.js/) |★★★☆ |仅2kb大小，搞定剪贴板功能，屌不屌~ 但是，Safari不支持... |
@@ -242,13 +243,13 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[印象笔记](https://www.yinxiang.com/) |★★★★★ |免费账号完全够用，跨平台跨终端的记录软件|
+|[印象笔记](https://www.yinxiang.com/) |★★★★★ |免费账号完全够用，跨平台跨终端的记录软件 |
 
 <h5 id="android">Android</h5>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[小米桌面](http://zhuomian.xiaomi.com/) |★★★★★ |多好看、多漂亮谈不上，关键是没有广告|
+|[小米桌面](http://zhuomian.xiaomi.com/) |★★★★★ |多好看、多漂亮谈不上，关键是没有广告 |
 
 <h5 id="iphone">iPhone</h5>
 
@@ -289,7 +290,8 @@
 |[wappalyzer](https://wappalyzer.com/) |★★★★☆ |分析网站使用的技术 它可以检测网页的web服务器、JS框架等等 |
 |[二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★☆ |RT |
 |[User-Agent Switcher](http://spoofer-extension.appspot.com/) |★★★★ |模拟各种终端的UA，达到调试目的 |
-|[Infinity](http://infinitynewtab.com/) |★★★☆ |针对Chrome的插件，__新标签页__会让你耳目一新 |
+|[GitPlug](https://porter.io/plug/) |★★★☆ |在Git项目页中嵌入有关的图表信息 |
+|[Infinity](http://infinitynewtab.com/) |★★☆ |针对Chrome的插件，__新标签页__会让你耳目一新 |
 
 <h3 id="git">Git</h3>
 
