@@ -10,7 +10,7 @@
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
 - 个人Blog [fefork.com](http://www.fefork.com/ "一枚Web技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
-- QQ群 **214199415**，群名前端Club。PS:入群__务必请提供git或blog地址__，否则进不去哈:)
+- QQ群 **214199415**，群名前端Club。PS:入群务必请提供__有内容的git或blog地址__，否则进不去哈:)
 
 ---
 
@@ -49,14 +49,14 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[Git](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 |
+|[Git](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 没Git都不好意思面基有木有！ |
 |[MDN](https://developer.mozilla.org/zh-CN/) |★★★★★ |不解释，无数的资源再等着你探索 |
 |[Awesomes.cn](http://www.awesomes.cn/) |★★★★☆ |国人维护的前端资源库，深度对接到 Github |
 |[慕课](http://www.imooc.com/) |★★★★☆ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝 |
 |[W3Cplus](http://www.w3cplus.com/) |★★★★☆ |大漠(《图解CSS3》作者)在国内的影响力杠杠的 Sass专家级 |
-|[百度Web前端研发部](http://fex.baidu.com/) |★★★★ |确实对得起“研发”这个称呼 |
+|[百度Web前端研发部](http://fex.baidu.com/) |★★★★ |确实对得起“研发”这个称呼 FIS、UEditor等就是他们搞出来的 |
 |[前端乱炖](http://www.html-js.com) |★★★☆ |前端社区太多，乱炖还算做的不错的 |
-|[极客学院](http://www.jikexueyuan.com/course/web/) |★★★ |和慕课类似，但是内容更杂、更丰富 |
+|[极客学院](http://www.jikexueyuan.com/course/web/) |★★★ |和慕课类似，但是内容更杂、更丰富 PS：貌似比较新颖的教程都是收费的 |
 |[Div.IO](http://div.io/digg) |★★★ |主要内容是最新的前端库和前沿技术 |
 |[腾讯全端AlloyTeam](http://www.alloyteam.com/) |★★★ |腾讯Web前端团队 |
 
@@ -104,6 +104,7 @@
 |[Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习 |
 |[Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚 |
 |[videojs](http://videojs.com/) |★★★☆ |当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给videojs搞定:) |
+|[clipboard](http://zenorocha.github.io/clipboard.js/) |★★★☆ |仅2kb大小，搞定剪贴板功能，屌不屌~ 但是，Safari不支持... |
 |[impress.js](https://github.com/impress/impress.js) |★★☆ | 用来写PPT不错，偶也曾为其写过一篇[impress.js初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)|
 |[Cropper](http://fengyuanchen.github.io/cropper/) |★★☆ |国人开发的图片裁剪库 |
 
@@ -316,16 +317,16 @@
 | ----- | ----- | ------ |
 |[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍不同语言项目的gitignore模板 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
-|[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 |
+|[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊... |
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[windows93](http://www.windows93.net/) |★★★★★ |模拟Win93桌面，思路、体验和整体效果比较有意思 |
-|[GeekTyper](http://geektyper.com/) |★★★★★ |好玩又具有Geek精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙 |
-|[Mapbox](https://www.mapbox.com/) |★★★★★ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
-|[SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★★ |好玩好看的动画库，链接是SuperScrollorama的展示页 |
+|[windows93](http://www.windows93.net/) |★★★★☆ |模拟Win93桌面，思路、体验和整体效果比较有意思 |
+|[GeekTyper](http://geektyper.com/) |★★★★☆ |好玩又具有Geek精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙 |
+|[Mapbox](https://www.mapbox.com/) |★★★★ |非常叼的开源项目，有方便的JSAPI(还有SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙 |
+|[SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是SuperScrollorama的展示页 |
 |[parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验 |
 |[墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。 |
 
