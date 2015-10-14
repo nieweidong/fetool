@@ -300,7 +300,7 @@
 |[Git教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★☆ |俺有看过不少Git的文章，确实这个系列是最通俗易懂的 |
 |[GitAwards](http://github-awards.com/) |★★★★ |Git工具，可以查看Git排名 |
 |[Git速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表 |
-|[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★ |入门```Git```的简明指南，木有高深内容:) |
+|[Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★☆ |入门```Git```的简明指南，木有高深内容:) |
 |[git学习资料整理](https://github.com/xirong/my-git)|★★★ |内容包括很多git的相关资料，```star1200+``` |
 
 <h3 id="redis">Redis</h3>
@@ -309,7 +309,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[Mongoose](https://github.com/Automattic/mongoose) |★★★★★ |让NodeJS更容易操作Mongodb数据库。  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
+|[Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让NodeJS更容易操作Mongodb数据库。  附上一篇[Mongoose学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd) |
 
 <h3 id="other">杂七杂八</h3>
 
@@ -317,7 +317,8 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[.gitignore文件](https://github.com/github/gitignore) |★★★★ |介绍不同语言项目的gitignore模板 |
+|[QQ群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★★ |突然某天，有个QQ群让我加群 原本我是拒绝的，但当我看完这篇QQ群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:) |
+|[.gitignore文件](https://github.com/github/gitignore) |★★★★☆ |介绍不同语言项目的gitignore模板 |
 |[Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS:要翻墙哦~ |
 |[ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊... |
 
