@@ -170,8 +170,9 @@
 | ----- | ----- | ------ |
 |[Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍Webpack和React的工作机制。 |
 |[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp是基于Node实现Web前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) |
+|[Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower就是搞定这件事儿的，亲爹是Twitter 推荐篇Bower的中文文章：[《bower解决js的依赖管理》](http://blog.fens.me/nodejs-bower-intro/) |
+|Grunt(http://gruntjs.com/) |★★★★☆ |和Gulp类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt中文网](http://www.gruntjs.net/) |
 |[Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务 |
-|[Bower](http://bower.io/) |★★★★ |一句话解释：A package manager for the web |
 
 <h4 id="gulp">Gulp推荐包</h4>
 
