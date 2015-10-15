@@ -250,7 +250,7 @@
 
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
-|[小米桌面](http://zhuomian.xiaomi.com/) |★★★★★ |多好看、多漂亮谈不上，关键是没有广告 |
+|[小米桌面](http://zhuomian.xiaomi.com/) |★★★★☆ |多好看、多漂亮谈不上，关键是没有广告 |
 
 <h5 id="iphone">iPhone</h5>
 
@@ -265,10 +265,11 @@
 | 名称 | 推荐指数 | 备注/说明 |
 | ----- | ----- | ------ |
 |[Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包|
-|[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★★ |我正在使用的网页截图工具，强烈推荐 |
-|[马克鳗](http://www.getmarkman.com/) |★★★★☆ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
+|[iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac终端功能少又不好看，iTerm2可以解救你~ |
+|[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |我正在使用的网页截图工具，强烈推荐 |
 |[WebStorm](http://www.jetbrains.com/webstorm/) |★★★★☆ |功能超强的前端IDE，不多介绍，谁用谁知道 |
 |[Atom](https://atom.io) |★★★★ |2015年7月之前，在桌面环境下我最喜欢的编辑器是Sublime。 但之后就是Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___ |
+|[马克鳗](http://www.getmarkman.com/) |★★★★ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__ |
 |[Wireshark](https://www.wireshark.org/) |★★★☆ |说实话，Mac下木有Fiddler挺不习惯，不过在有更强大的替代品 |
 |[SourceTree](https://www.sourcetreeapp.com/) |★★★☆ |一款好用的的Git客户端工具，重点是支持中文:) |
 |[focus booster](https://www.focusboosterapp.com/) |★★★ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物 |
