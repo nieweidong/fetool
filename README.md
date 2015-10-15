@@ -1,7 +1,5 @@
 # 大前端工具集
 
-<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
-
 > 本篇文章记录了一枚程序猿的百宝箱。
 
 > 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
@@ -344,3 +342,7 @@
 ---
 
 完善ing，慢慢把 __Evernote__ 和 __浏览器书签__ 里面的好东西慢慢捣腾到这儿，更欢迎PR，谢谢。
+
+<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
+
+#### 用自己青涩时的照片镇楼，哇哈哈~
