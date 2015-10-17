@@ -102,7 +102,7 @@
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 [Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
-[onepage-scroll](https://github.com/peachananr/onepage-scroll) |★★★★☆ |依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
+[onepage-scroll](https://github.com/peachananr/onepage-scroll) |★★★☆ |依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
 [videojs](http://videojs.com/) |★★★☆ |当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给 videojs 搞定:)
 [clipboard](http://zenorocha.github.io/clipboard.js/) |★★★☆ |仅 2KB 大小，搞定剪贴板功能，屌不屌~ 但是，Safari 不支持...
 [impress.js](https://github.com/impress/impress.js) |★★☆ | 用来写 PPT 不错，偶也曾为其写过一篇[impress.js 初体验](http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html)
