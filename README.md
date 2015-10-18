@@ -100,6 +100,7 @@
 [fullPage](http://alvarotrigo.com/fullPage/) |★★★★☆ |非常好用的全屏滑动库，看 Demo 就明白
 [PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
+[favico.js](http://lab.ejci.net/favico.js/) |★★★★☆ |动态改变浏览器标签栏中的网站图标，非常好玩
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 [Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
 [onepage-scroll](https://github.com/peachananr/onepage-scroll) |★★★☆ |依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
@@ -125,7 +126,7 @@
 [anywhere](https://www.npmjs.com/package/anywhere) |★★★★★ |随时随地将你的当前目录变成一个静态文件服务器的根目录
 [supervisor](https://www.npmjs.com/package/supervisor) |★★★★★ |监控 Node 代码，自动重启。 A supervisor program for running nodejs programs
 [nodemon](https://github.com/remy/nodemon) |★★★★★ |监控 Node 代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
-[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器
+[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [async](https://www.npmjs.com/package/async) |★★★★☆ |一个流程控制工具包，提供直接而强大的异步功能
 [lodash](https://www.npmjs.com/package/lodash) |★★★★☆ |JS 工具库 ```Underscore.js```的一个 fork 发展而来
 [socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用
@@ -167,11 +168,13 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍 Webpack 和 React 的工作机制。
 [Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book)
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
-[Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
+[FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐使用和了解
+[Gitlab CI](https://ci.gitlab.org/) |★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
 <h4 id="gulp">Gulp 推荐包</h4>
 
