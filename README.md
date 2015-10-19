@@ -38,6 +38,8 @@
 - [MongoDB](#mongodb)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
+- [小结](#summary)
+- [TODO](#todo)
 
 ## 正文
 
@@ -95,6 +97,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[requirejs](https://github.com/jrburke/requirejs) |★★★★★ |JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 [ECharts](http://echarts.baidu.com/index.html) |★★★★★ |好用，最关键的是支持的图表展示非常之多，强烈推荐
 [Swiper](http://www.swiper.com.cn) |★★★★★ |强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
 [fullPage](http://alvarotrigo.com/fullPage/) |★★★★☆ |非常好用的全屏滑动库，看 Demo 就明白
@@ -126,7 +129,7 @@
 [anywhere](https://www.npmjs.com/package/anywhere) |★★★★★ |随时随地将你的当前目录变成一个静态文件服务器的根目录
 [supervisor](https://www.npmjs.com/package/supervisor) |★★★★★ |监控 Node 代码，自动重启。 A supervisor program for running nodejs programs
 [nodemon](https://github.com/remy/nodemon) |★★★★★ |监控 Node 代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
-[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [async](https://www.npmjs.com/package/async) |★★★★☆ |一个流程控制工具包，提供直接而强大的异步功能
 [lodash](https://www.npmjs.com/package/lodash) |★★★★☆ |JS 工具库 ```Underscore.js```的一个 fork 发展而来
 [socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用
@@ -158,7 +161,7 @@
 
 <h3 id="build">Build 项目构建</h3>
 
-> Gulp + Webpack 的使用套路参考: [learning-gulp](https://github.com/demohi/learning-gulp)
+> Gulp + Webpack 的使用__套路__参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
 > Gulp 资料收集：[use-gulp](https://github.com/Platform-CUF/use-gulp)
 
@@ -168,12 +171,12 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
-[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+[pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍 Webpack 和 React 的工作机制。
 [Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book)
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
-[FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐使用和了解
+[FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
 [Gitlab CI](https://ci.gitlab.org/) |★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
 <h4 id="gulp">Gulp 推荐包</h4>
@@ -338,6 +341,31 @@
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
 [墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
+
+<h3 id="summary">小结</h3>
+
+##### 背景
+  俺算个比较能自我总结的码农，所以偶尔喜欢写点东西做些记录或者自我熏陶陶醉一下。
+  可写着写着发现```Evernote```里面的东西太尼玛多(乱)了，于是想着把一些技术相关的资料都整理整理，都丢到```Git```上沉淀下来。 这样Evernote就可以只需要记录些偏生活方便的，看着清爽一些...
+
+  所以，这篇记录其实只是为偶自己而写，确信以后也一直会这样~~~
+
+##### 说说目标
+  其实与这篇记录类似的文章太多鸟，俺也不愿意成为一个单纯的收集资料，分享资料的这么个东西。
+  我希望 fetool 能更生动、更个性，最好能更另类点，对于每样工具的思考和解析更多点，吐槽也必须有理有据，然后再配上劳资收集的 low 图，完美！
+  __希望通过不停的完善这篇记录，能Push劳资多了解业内的新玩具和新创意，然后围绕这些新东西，客观的再写点好东西，比如文章、资料、开源项目这些，让其他伙伴们少走弯路或学的更顺畅点儿__
+  
+> 所以劳资对自己的要求是：这篇记录里列出的每样东西，自己都得的去了解、去尝试，然后再列出来。 能举一反三最好，如果达不到至少也能清楚的认识：列出来的这玩意对程序员有没有卵用，解决了啥痛点。
+
+<h3 id="todo">TODO</h3>
+
+1. 继续完善和扩充内容
+
+2. “备注/说明”这一栏不够犀利，希望再多加入自己的理解、点评、吐槽，让这篇记录更犀利和生动
+
+3. 支持导出多种格式，如```.pdf```、```.epub```、```.mobi```等
+
+4. 后续看看如果有必要，可以单独搞个页面，优化下阅读和展示效果
 
 ---
 
