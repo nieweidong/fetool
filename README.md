@@ -38,7 +38,7 @@
 - [MongoDB](#mongodb)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
-- [设计/交互](ux)
+- [设计/交互](#ux)
 - [速查手册](#handbook)
 - [小结](#summary)
 - [TODO](#todo)
