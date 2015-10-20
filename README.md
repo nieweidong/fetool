@@ -39,6 +39,7 @@
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
 - [设计/交互](ux)
+- [速查手册](#handbook)
 - [小结](#summary)
 - [TODO](#todo)
 
@@ -209,15 +210,16 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
-[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★★ |如果学习 NodeJS，那么流一定是需要掌握的概念
+[ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
-[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) |★★★★☆ |Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
+[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★☆ |如果学习 NodeJS，那么流一定是需要掌握的概念
 [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★☆ |入门推荐的套路，非常浅显易懂
 [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
-[ReactNative 学习指南](https://github.com/ele828/react-native-guide) |★★★★ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
+[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) |★★★★ |Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
+[ReactNative 学习指南](https://github.com/ele828/react-native-guide) |★★★☆ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
 [HTML/CSS 编码规范](http://www.css88.com/doc/codeguide/) |★★★☆ |编写灵活、稳定、高质量的```HTML```和```CSS```代码的规范
 [GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具
-[Markdown 资料](https://github.com/xirong/my-markdown) |★★★☆ |简单看些语法入门，快速用起来
+[Markdown 资料](https://github.com/xirong/my-markdown) |★★★ |简单看些语法入门，快速用起来
 
 <h3 id="interview">前端面试</h3>
 
@@ -353,6 +355,14 @@
 [站酷](http://www.zcool.com.cn/works/) |★★★★☆ |里面好东西太多，俺当年真没少再上面淘素材
 [UI中国](http://www.ui.cn/list.html) |★★★★ |光听名字就知道有多高大上鸟:) 
 [](http://www.s5themes.com/)
+
+<h3 id="handbook">速查手册</h3>
+
+> RT，这篇都是些文档或者API，一般这类东西都在大家浏览器的书签内，偶这也列一下大前端常用的手册地址
+
+ 名称 | 推荐指数 | 备注/说明
+ ----- | ----- | ------
+[jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI基本和jQuery一样，所以看一份就好
 
 <h3 id="summary">小结</h3>
 
