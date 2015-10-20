@@ -38,6 +38,7 @@
 - [MongoDB](#mongodb)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
+- [设计/交互](ux)
 - [小结](#summary)
 - [TODO](#todo)
 
@@ -140,6 +141,7 @@
 [winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node 服务最流行的日志库之一
 [thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成 Promise 的 Promisifies all the selected functions in an object
 [PhantomJS](http://phantomjs.org/) |★★★★ |一般用来做抓取截图和无界面测试 也可以用来操作 DOM 和网络监测，很好玩的库 [Quick Start](http://phantomjs.org/quick-start.html)
+[CNPM](http://npm.taobao.org/) |★★★★ |淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造__企业/个人__私有的 NPM 服务 推荐篇搭建私有NPM的文章：[《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
 [everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth 的集成解决方案
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
@@ -272,8 +274,8 @@
  ----- | ----- | ------
 [Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
 [iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~
-[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |我正在使用的网页截图工具，强烈推荐
-[WebStorm](http://www.jetbrains.com/webstorm/) |★★★★☆ |功能超强的前端 IDE，不多介绍，谁用谁知道
+[BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
+[WebStorm](http://www.jetbrains.com/webstorm/) |★★★★ |功能超强的前端 IDE，不多介绍，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...
 [Atom](https://atom.io) |★★★★ |2015 年 7 月之前，在桌面环境下我最喜欢的编辑器是 Sublime。 但之后就是 Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
 [马克鳗](http://www.getmarkman.com/) |★★★★ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__
 [Wireshark](https://www.wireshark.org/) |★★★☆ |说实话，Mac 下木有 Fiddler 挺不习惯，不过在有更强大的替代品
@@ -341,6 +343,16 @@
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
 [墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
+
+<h3 id="ux">设计/交互</h3>
+
+> 作为负责最终效果呈现的前端工程师，多少得了解些 __设计和交互__ 的，这也是为什么 fetool 会单独的存在这一章...当然话又说回来了，偶毕业的第一份工作是设计:)
+
+ 名称 | 推荐指数 | 备注/说明
+ ----- | ----- | ------
+[站酷](http://www.zcool.com.cn/works/) |★★★★☆ |里面好东西太多，俺当年真没少再上面淘素材
+[UI中国](http://www.ui.cn/list.html) |★★★★ |光听名字就知道有多高大上鸟:) 
+[](http://www.s5themes.com/)
 
 <h3 id="summary">小结</h3>
 
