@@ -362,6 +362,8 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[百度CDN公共库](http://cdn.code.baidu.com/) |★★★★☆ |基本常见的库都收录拉，搞demo的时候特方便
+[Linux命令中文手册](linux.51yip.com) |★★★★ |木有系统的好好学习Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
 [jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI基本和jQuery一样，所以看一份就好
 
 <h3 id="summary">小结</h3>
