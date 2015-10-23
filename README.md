@@ -106,6 +106,7 @@
 [PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
 [favico.js](http://lab.ejci.net/favico.js/) |★★★★☆ |动态改变浏览器标签栏中的网站图标，非常好玩
+[peity.js](http://benpickles.github.io/peity/) |★★★★ |jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 [Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
 [onepage-scroll](https://github.com/peachananr/onepage-scroll) |★★★☆ |依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
@@ -330,6 +331,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[租房要点](https://github.com/soulteary/tenant-point) |★★★★☆ |适用于北上广深杭，大城市打拼__租房__确实是硬伤
 [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★☆ |突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
 [.gitignore 文件](https://github.com/github/gitignore) |★★★★☆ |介绍不同语言项目的 gitignore 模板
 [Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
@@ -362,9 +364,15 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
-[百度CDN公共库](http://cdn.code.baidu.com/) |★★★★☆ |基本常见的库都收录拉，搞demo的时候特方便
-[Linux命令中文手册](linux.51yip.com) |★★★★ |木有系统的好好学习Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
-[jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI基本和jQuery一样，所以看一份就好
+[百度CDN公共库](http://cdn.code.baidu.com/) |★★★★☆ |基本常见的库都收录拉，搞 demo 的时候特方便
+[HTML 和 CSS 代码规范](http://codeguide.bootcss.com/) |★★★★☆ |编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
+[Linux命令中文手册](linux.51yip.com) |★★★★ |木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
+[Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表
+[jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI 基本和 jQuery 一样，所以看一份就好
+[CSS3](http://www.php100.com/manual/css3_0/index.html) |★★★★ |CSS3 的在线手册
+[CI用户指南](http://codeigniter.org.cn/user_guide/index.html) |★★ |一个轻量级的 PHP 框架用户指南
+[Yaf](http://www.laruence.com/manual/) |★★ |鸟哥(惠新宸)所写的 PHP 框架
+
 
 <h3 id="summary">小结</h3>
 
