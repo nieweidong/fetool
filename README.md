@@ -306,6 +306,7 @@
 [GitPlug](https://porter.io/plug/) |★★★☆ |在 Git 项目页中嵌入有关的图表信息
 [Swap My Cookie](https://chrome.google.com/webstore/detail/swap-my-cookies/dffhipnliikkblkhpjapbecpmoilcama) |★★★☆ |切换马甲非常方便
 [Infinity](http://infinitynewtab.com/) |★★☆ |针对 Chrome 的插件，__新标签页__ 会让你耳目一新
+[mm](https://chrome.google.com/webstore/detail/mm/gfnpjjbigbimbhnmpkhpaahmkchcicea?utm_source=chrome-ntp-icon) |★★☆☆☆ |调BUG心烦的时候看看mm，心情大好
 
 <h3 id="git">Git</h3>
 
