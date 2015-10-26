@@ -276,7 +276,7 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
-[iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~
+[iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~ 推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
 [WebStorm](http://www.jetbrains.com/webstorm/) |★★★★ |功能超强的前端 IDE，不多介绍，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...
 [Atom](https://atom.io) |★★★★ |2015 年 7 月之前，在桌面环境下我最喜欢的编辑器是 Sublime。 但之后就是 Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
@@ -312,6 +312,7 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★☆ |俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
+[GitHub 漫游指南](https://github.com/phodal/github-roam) |★★★★ |一篇不错的Git学习总结 看到作者为鸟达成Git连击的成就，也是蛮拼的:)
 [GitAwards](http://github-awards.com/) |★★★★ |Git 工具，可以查看 Git 排名
 [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表
 [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★☆ |入门```Git```的简明指南，木有高深内容:)
@@ -370,8 +371,8 @@
 [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表
 [jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI 基本和 jQuery 一样，所以看一份就好
 [CSS3](http://www.php100.com/manual/css3_0/index.html) |★★★★ |CSS3 的在线手册
-[CI用户指南](http://codeigniter.org.cn/user_guide/index.html) |★★ |一个轻量级的 PHP 框架用户指南
-[Yaf](http://www.laruence.com/manual/) |★★ |鸟哥(惠新宸)所写的 PHP 框架
+[CI用户指南](http://codeigniter.org.cn/user_guide/index.html) |★★ |一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧
+[Yaf](http://www.laruence.com/manual/) |★★ |鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
 
 
 <h3 id="summary">小结</h3>
