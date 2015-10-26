@@ -312,11 +312,11 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) |★★★★☆ |俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
-[GitHub 漫游指南](https://github.com/phodal/github-roam) |★★★★ |一篇不错的Git学习总结 看到作者为鸟达成Git连击的成就，也是蛮拼的:)
 [GitAwards](http://github-awards.com/) |★★★★ |Git 工具，可以查看 Git 排名
 [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表
 [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) |★★★☆ |入门```Git```的简明指南，木有高深内容:)
 [Git 学习资料整理](https://github.com/xirong/my-git)|★★★ |内容包括很多 Git 的相关资料，```star 1200+```
+[GitHub 漫游指南](https://github.com/phodal/github-roam) |★★☆ |一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
 <h3 id="redis">Redis</h3>
 
@@ -344,6 +344,7 @@
  ----- | ----- | ------
 [windows93](http://www.windows93.net/) |★★★★☆ |模拟 Win93 桌面，思路、体验和整体效果比较有意思
 [GeekTyper](http://geektyper.com/) |★★★★☆ |好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
+[前端技能栈](http://skill.phodal.com/) |★★★★ |好玩的前端技能栈展示
 [Mapbox](https://www.mapbox.com/) |★★★★ |非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
