@@ -90,6 +90,7 @@
  ----- | ----- | ------
 [LoadersCSS](https://connoratherton.com/loaders) |★★★★☆ |用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
 [WeUI](https://github.com/weui/weui) |★★★★☆ |一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一
+[CSSgram](https://github.com/una/CSSgram) |★★★★ |图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
 [HINT.css](https://github.com/chinchang/hint.css) |★★★★ |一款非常小巧的提示框效果
 [Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标 Hover 态的效果，可以给产品学习一下:)
 [csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查 CSS 代码冗余
@@ -106,6 +107,7 @@
 [PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
 [favico.js](http://lab.ejci.net/favico.js/) |★★★★☆ |动态改变浏览器标签栏中的网站图标，非常好玩
+[nodePPT](https://github.com/ksky521/nodePPT) |★★★★ |前同事三水的大作，好用必须得支持:) 用 Markdown 写 PPT，还可以 HTML 混排，上手飞快
 [peity.js](http://benpickles.github.io/peity/) |★★★★ |jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 [Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
