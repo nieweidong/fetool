@@ -139,13 +139,13 @@
 [lodash](https://www.npmjs.com/package/lodash) |★★★★☆ |JS 工具库 ```Underscore.js```的一个 fork 发展而来
 [socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用
 [Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让 NodeJS 更容易操作 Mongodb 数据库；  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
+[CNPM](http://npm.taobao.org/) |★★★★☆ |淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造__企业/个人__私有的 NPM 服务 推荐篇搭建私有NPM的文章：[《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
 [koa](http://koajs.com/) |★★★★☆ |玩 Node 都知道 express，但使用 koa 的就少很多，门槛比 Ex 稍高 通过 generator 避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide)
 [Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit 很多地方非常类似 gulp，他们的核心都是任务系统。
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node 调试工具，使用起来跟 Chrome 的 JS 调试器很相似
 [winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node 服务最流行的日志库之一
 [thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成 Promise 的 Promisifies all the selected functions in an object
 [PhantomJS](http://phantomjs.org/) |★★★★ |一般用来做抓取截图和无界面测试 也可以用来操作 DOM 和网络监测，很好玩的库 [Quick Start](http://phantomjs.org/quick-start.html)
-[CNPM](http://npm.taobao.org/) |★★★★ |淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造__企业/个人__私有的 NPM 服务 推荐篇搭建私有NPM的文章：[《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
 [everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth 的集成解决方案
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
@@ -280,6 +280,7 @@
 [Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
 [iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~ 推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
+[Manico](http://manico.im/) |★★★★ |快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用
 [WebStorm](http://www.jetbrains.com/webstorm/) |★★★★ |功能超强的前端 IDE，不多介绍，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...
 [Atom](https://atom.io) |★★★★ |2015 年 7 月之前，在桌面环境下我最喜欢的编辑器是 Sublime。 但之后就是 Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
 [马克鳗](http://www.getmarkman.com/) |★★★★ |MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，__强烈推荐__
@@ -303,7 +304,8 @@
  ----- | ----- | ------
 [JSONView](https://github.com/gildas-lormeau/JSONView-for-Chrome) |★★★★★ |麻麻再也不用担心偶调试接口啦
 [wappalyzer](https://wappalyzer.com/) |★★★★☆ |分析网站使用的技术 它可以检测网页的 Web 服务器、JS 框架等等
-[二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★☆ |RT
+[gitShare](https://github.com/LukyVj/gitShare) |★★★★ |用于方便把Github项目分享到 Twitter 或 Facebook
+[二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★ |RT
 [User-Agent Switcher](http://spoofer-extension.appspot.com/) |★★★★ |模拟各种终端的 UA，达到调试目的
 [GitPlug](https://porter.io/plug/) |★★★☆ |在 Git 项目页中嵌入有关的图表信息
 [Swap My Cookie](https://chrome.google.com/webstore/detail/swap-my-cookies/dffhipnliikkblkhpjapbecpmoilcama) |★★★☆ |切换马甲非常方便
