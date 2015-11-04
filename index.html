@@ -1,0 +1,1474 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Fetool by nieweidong</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/nieweidong/fetool">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/nieweidong/fetool/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/nieweidong/fetool/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Fetool</h1>
+          <p>大前端的瑞士军刀，只记录有用的</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/nieweidong">nieweidong</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+        <h1>
+<a id="大前端工具集" class="anchor" href="#%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7%E9%9B%86" aria-hidden="true"><span class="octicon octicon-link"></span></a>大前端工具集</h1>
+
+<blockquote>
+<p>本篇文章记录了一枚程序猿的百宝箱。</p>
+
+<p>主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 <strong>前端瑞士军刀</strong> 来总结这篇文章再合适不过鸟。</p>
+</blockquote>
+
+<h4>
+<a id="您可以通过以下方式联系到我" class="anchor" href="#%E6%82%A8%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E4%BB%A5%E4%B8%8B%E6%96%B9%E5%BC%8F%E8%81%94%E7%B3%BB%E5%88%B0%E6%88%91" aria-hidden="true"><span class="octicon octicon-link"></span></a>您可以通过以下方式联系到我：</h4>
+
+<ul>
+<li>微博 <a href="http://weibo.com/darrencode" title="Darren 聂微东">@聂微东</a>
+</li>
+<li>个人 Blog <a href="http://www.fefork.com/" title="一枚 Web 技术领域的手艺人">fefork.com</a>
+</li>
+<li>博客园 <a href="http://www.cnblogs.com/Darren_code/" title="关注前端技术">犀利的东哥</a>
+</li>
+<li>QQ 群 <strong>214199415</strong>，群名<strong>前端 Club</strong>。PS：入群务必请提供 <strong>有内容的 git 或 blog 地址</strong>，否则进不去哈:)</li>
+</ul>
+
+<hr>
+
+<h2>
+<a id="目录" class="anchor" href="#%E7%9B%AE%E5%BD%95" aria-hidden="true"><span class="octicon octicon-link"></span></a>目录</h2>
+
+<ul>
+<li><a href="#org">前端组织</a></li>
+<li><a href="#blogs">前端博客</a></li>
+<li><a href="#blogbuild">博客搭建</a></li>
+<li><a href="#css">CSS</a></li>
+<li><a href="#javascript">浏览端 JS</a></li>
+<li>NodeJS
+
+<ul>
+<li><a href="#RecPackageForNode">推荐 Package</a></li>
+<li><a href="#RecBookForNode">Node 学习资料</a></li>
+</ul>
+</li>
+<li>
+<a href="#build">Build 项目构建</a>
+
+<ul>
+<li><a href="#gulp">Gulp 推荐包</a></li>
+</ul>
+</li>
+<li><a href="#read">精选阅读</a></li>
+<li><a href="#interview">前端面试</a></li>
+<li>工具/软件
+
+<ul>
+<li><a href="#web">Web</a></li>
+<li>
+<a href="#app">APP</a>
+
+<ul>
+<li><a href="#android">Android</a></li>
+<li><a href="#iphone">iPhone</a></li>
+</ul>
+</li>
+<li><a href="#mac">Mac</a></li>
+<li><a href="#linux">Linux</a></li>
+</ul>
+</li>
+<li><a href="#BrowserPlugins">Chrome 浏览器插件</a></li>
+<li><a href="#git">Git</a></li>
+<li><a href="#redis">Redis</a></li>
+<li><a href="#mongodb">MongoDB</a></li>
+<li><a href="#other">杂七杂八</a></li>
+<li><a href="#cool">前端炫技-<strong>炫酷狂拽叼炸天的 Web</strong></a></li>
+<li><a href="#ux">设计/交互</a></li>
+<li><a href="#handbook">速查手册</a></li>
+<li><a href="#summary">小结</a></li>
+<li><a href="#todo">TODO</a></li>
+</ul>
+
+<h2>
+<a id="正文" class="anchor" href="#%E6%AD%A3%E6%96%87" aria-hidden="true"><span class="octicon octicon-link"></span></a>正文</h2>
+
+<h3 id="org">
+<a id="前端组织" class="anchor" href="#%E5%89%8D%E7%AB%AF%E7%BB%84%E7%BB%87" aria-hidden="true"><span class="octicon octicon-link"></span></a>前端组织</h3>
+
+<blockquote>
+<p>虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com">GitHub</a></td>
+<td>★★★★★</td>
+<td>劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 没 Git 都不好意思面基有木有！</td>
+</tr>
+<tr>
+<td><a href="https://developer.mozilla.org/zh-CN/">MDN</a></td>
+<td>★★★★★</td>
+<td>不解释，无数的资源再等着你探索</td>
+</tr>
+<tr>
+<td><a href="http://www.awesomes.cn/">Awesomes.cn</a></td>
+<td>★★★★☆</td>
+<td>国人维护的前端资源库，深度对接到 Github</td>
+</tr>
+<tr>
+<td><a href="http://www.imooc.com/">慕课</a></td>
+<td>★★★★☆</td>
+<td>大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝</td>
+</tr>
+<tr>
+<td><a href="http://www.w3cplus.com/">W3Cplus</a></td>
+<td>★★★★☆</td>
+<td>大漠(《图解 CSS3》作者)在国内的影响力杠杠的 Sass 专家级</td>
+</tr>
+<tr>
+<td><a href="http://fex.baidu.com/">百度 FEX</a></td>
+<td>★★★★</td>
+<td>代表作 FIS、UEditor、WebUploader、KityMinder</td>
+</tr>
+<tr>
+<td><a href="http://www.html-js.com">前端乱炖</a></td>
+<td>★★★☆</td>
+<td>前端社区太多，乱炖还算做的不错的</td>
+</tr>
+<tr>
+<td><a href="http://www.jikexueyuan.com/course/web/">极客学院</a></td>
+<td>★★★</td>
+<td>和慕课类似，但是内容更杂、更丰富 PS：貌似比较新颖的教程都是收费的</td>
+</tr>
+<tr>
+<td><a href="http://div.io/digg">Div.IO</a></td>
+<td>★★★</td>
+<td>主要内容是最新的前端库和前沿技术</td>
+</tr>
+<tr>
+<td><a href="http://www.alloyteam.com/">腾讯全端 AlloyTeam</a></td>
+<td>★★★</td>
+<td>腾讯 Web 前端团队</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="blogs">
+<a id="前端博客" class="anchor" href="#%E5%89%8D%E7%AB%AF%E5%8D%9A%E5%AE%A2" aria-hidden="true"><span class="octicon octicon-link"></span></a>前端博客</h3>
+
+<blockquote>
+<p>值得长期占坑的前端个人博客，都是偶经常关注的</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://uptodate.frontendrescue.org/zh/">如何跟上前端开发的最新前沿</a></td>
+<td>★★★★★</td>
+<td>RT</td>
+</tr>
+<tr>
+<td><a href="http://javascript.ruanyifeng.com/">阮一峰</a></td>
+<td>★★★★★</td>
+<td>关注多年，拜读其 ES6 系列... 虽网传靠写书进鸟阿里，但博客内容确实够丰富</td>
+</tr>
+<tr>
+<td><a href="http://blog.fens.me/">粉丝日志 for 张丹</a></td>
+<td>★★★★★</td>
+<td>大爱作者写的 Node 系列</td>
+</tr>
+<tr>
+<td><a href="www.zhangxinxu.com/wordpress/">张鑫旭</a></td>
+<td>★★★★★</td>
+<td>成名多年的、高产的前端大湿</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="blogbuild">
+<a id="博客搭建" class="anchor" href="#%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA" aria-hidden="true"><span class="octicon octicon-link"></span></a>博客搭建</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://hexo.io/zh-cn/">hexo</a></td>
+<td>★★★★★</td>
+<td>快速、简洁且高效的博客框架</td>
+</tr>
+<tr>
+<td><a href="http://jekyll.bootcss.com/">jekyll</a></td>
+<td>★★★★</td>
+<td>将纯文本转化为静态网站和博客</td>
+</tr>
+<tr>
+<td><a href="https://www.tumblr.com/">Tumblr</a></td>
+<td>★★★</td>
+<td>轻博客的祖师爷</td>
+</tr>
+<tr>
+<td><a href="https://zh-cn.wordpress.com/">Wordpress</a></td>
+<td>★</td>
+<td>这玩意古老到我都不想介绍鸟</td>
+</tr>
+</tbody>
+</table>
+
+<blockquote>
+<p><strong><em>使用 <code>hexo/jekyll + GitPage</code>，前端搭建静态博客那是相当 easy。用 Markdown 写文章做记录，再 push 到 Git 上，分分钟高大上有木有</em></strong></p>
+</blockquote>
+
+<h4 id="css">
+<a id="css" class="anchor" href="#css" aria-hidden="true"><span class="octicon octicon-link"></span></a>CSS</h4>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://connoratherton.com/loaders">LoadersCSS</a></td>
+<td>★★★★☆</td>
+<td>用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 <code>keyframes、animation、transform、transition</code> 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/weui/weui">WeUI</a></td>
+<td>★★★★☆</td>
+<td>一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一</td>
+</tr>
+<tr>
+<td><a href="https://github.com/postcss/postcss">PostCSS</a></td>
+<td>★★★★☆</td>
+<td>最近才知道大名鼎鼎<a href="https://github.com/postcss/autoprefixer">Autoprefixer</a>是其插件 推荐大漠的文章<a href="http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html">《PostCSS深入学习》</a>，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案</td>
+</tr>
+<tr>
+<td><a href="https://github.com/una/CSSgram">CSSgram</a></td>
+<td>★★★★</td>
+<td>图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 <a href="http://caniuse.com/#search=CSS%20Blend%20Modes">Can I Use</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/chinchang/hint.css">HINT.css</a></td>
+<td>★★★★</td>
+<td>一款非常小巧的提示框效果</td>
+</tr>
+<tr>
+<td><a href="http://ianlunn.github.io/Hover/">Hover.css</a></td>
+<td>★★★★</td>
+<td>很多鼠标 Hover 态的效果，可以给产品学习一下:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/zmoazeni/csscss">csscss</a></td>
+<td>★★★★</td>
+<td>用于检查 CSS 代码冗余</td>
+</tr>
+<tr>
+<td><a href="http://purecss.io/">purecss</a></td>
+<td>★★★☆</td>
+<td>小巧的响应式 CSS 库，Yahoo!出品</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="javascript">
+<a id="浏览端-js" class="anchor" href="#%E6%B5%8F%E8%A7%88%E7%AB%AF-js" aria-hidden="true"><span class="octicon octicon-link"></span></a>浏览端 JS</h4>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/jrburke/requirejs">requirejs</a></td>
+<td>★★★★★</td>
+<td>JS模块化是构建复杂项目的第一步 中文学习文档奉上：<a href="http://www.requirejs.cn/">RequireJS 中文网</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://echarts.baidu.com/index.html">ECharts</a></td>
+<td>★★★★★</td>
+<td>好用，最关键的是支持的图表展示非常之多，强烈推荐</td>
+</tr>
+<tr>
+<td><a href="http://www.swiper.com.cn">Swiper</a></td>
+<td>★★★★★</td>
+<td>强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟</td>
+</tr>
+<tr>
+<td><a href="http://alvarotrigo.com/fullPage/">fullPage</a></td>
+<td>★★★★☆</td>
+<td>非常好用的全屏滑动库，看 Demo 就明白</td>
+</tr>
+<tr>
+<td><a href="http://photoswipe.com/">PhotoSwipe</a></td>
+<td>★★★★☆</td>
+<td>偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"</td>
+</tr>
+<tr>
+<td><a href="http://cn.vuejs.org">Vuejs</a></td>
+<td>★★★★☆</td>
+<td>比较喜欢其作者... 所以劳资正在看源码学习学习</td>
+</tr>
+<tr>
+<td><a href="http://lab.ejci.net/favico.js/">favico.js</a></td>
+<td>★★★★☆</td>
+<td>动态改变浏览器标签栏中的网站图标，非常好玩</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ksky521/nodePPT">nodePPT</a></td>
+<td>★★★★</td>
+<td>前同事三水的大作，好用必须得支持:) 用 Markdown 写 PPT，还可以 HTML 混排，上手飞快</td>
+</tr>
+<tr>
+<td><a href="http://benpickles.github.io/peity/">peity.js</a></td>
+<td>★★★★</td>
+<td>jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的<code>&lt;svg&gt;</code>饼图、圆环图、折线图等等</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Ranks/emojify.js">emojify.js</a></td>
+<td>★★★★</td>
+<td>能够将<code>emoji</code>关键词转换为<code>emoji</code>图片的<code>JS</code>插件 可以快速的为你的网站提供<code>emoji</code>表情支持</td>
+</tr>
+<tr>
+<td><a href="http://www.hcharts.cn/">Highcharts</a></td>
+<td>★★★★</td>
+<td>Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚</td>
+</tr>
+<tr>
+<td><a href="https://github.com/peachananr/onepage-scroll">onepage-scroll</a></td>
+<td>★★★☆</td>
+<td>依赖 jQuery 的单页滚动库，和 <a href="http://alvarotrigo.com/fullPage/">fullPage</a> 类似</td>
+</tr>
+<tr>
+<td><a href="http://videojs.com/">videojs</a></td>
+<td>★★★☆</td>
+<td>当下视频需求都用上<code>&lt;video&gt;</code>鸟 样式和交互统一的问题交给 videojs 搞定:)</td>
+</tr>
+<tr>
+<td><a href="http://zenorocha.github.io/clipboard.js/">clipboard</a></td>
+<td>★★★☆</td>
+<td>仅 2KB 大小，搞定剪贴板功能，屌不屌~ 但是，Safari 不支持...</td>
+</tr>
+<tr>
+<td><a href="https://github.com/impress/impress.js">impress.js</a></td>
+<td>★★☆</td>
+<td>用来写 PPT 不错，偶也曾为其写过一篇<a href="http://www.cnblogs.com/Darren_code/archive/2013/01/04/impressjs.html">impress.js 初体验</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://fengyuanchen.github.io/cropper/">Cropper</a></td>
+<td>★★☆</td>
+<td>国人开发的图片裁剪库</td>
+</tr>
+</tbody>
+</table>
+
+<blockquote>
+<p><strong><em><code>Swiper/PhotoSwipe/fullPage</code> 有这仨库，微信里常见的 H5 页完全不是问题哒</em></strong></p>
+</blockquote>
+
+<h3>
+<a id="nodejs" class="anchor" href="#nodejs" aria-hidden="true"><span class="octicon octicon-link"></span></a>NodeJS</h3>
+
+<blockquote>
+<p>作为一名大前端甚至是多端，Node 绝逼是必备的一块</p>
+
+<p>社区活跃、部署方便都是令我对 Node 爱不释手的主要原因</p>
+</blockquote>
+
+<h4 id="RecPackageForNode">
+<a id="推荐-package" class="anchor" href="#%E6%8E%A8%E8%8D%90-package" aria-hidden="true"><span class="octicon octicon-link"></span></a>推荐 Package</h4>
+
+<h5>
+<a id="这里介绍些有特色且前端有必要知道的包" class="anchor" href="#%E8%BF%99%E9%87%8C%E4%BB%8B%E7%BB%8D%E4%BA%9B%E6%9C%89%E7%89%B9%E8%89%B2%E4%B8%94%E5%89%8D%E7%AB%AF%E6%9C%89%E5%BF%85%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E5%8C%85" aria-hidden="true"><span class="octicon octicon-link"></span></a>这里介绍些有特色且前端有必要知道的包</h5>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.npmjs.com/package/anywhere">anywhere</a></td>
+<td>★★★★★</td>
+<td>随时随地将你的当前目录变成一个静态文件服务器的根目录</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/supervisor">supervisor</a></td>
+<td>★★★★★</td>
+<td>监控 Node 代码，自动重启。 A supervisor program for running nodejs programs</td>
+</tr>
+<tr>
+<td><a href="https://github.com/remy/nodemon">nodemon</a></td>
+<td>★★★★★</td>
+<td>监控 Node 代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/pm2">pm2</a></td>
+<td>★★★★★</td>
+<td>是一个带有负载均衡功能的 Node 应用的进程管理器； 是 <a href="https://www.npmjs.com/package/forever">Forever</a> 的进阶库，想了解的可以看这篇文章<a href="http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/">《拥抱PM2》</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/async">async</a></td>
+<td>★★★★☆</td>
+<td>一个流程控制工具包，提供直接而强大的异步功能</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/lodash">lodash</a></td>
+<td>★★★★☆</td>
+<td>JS 工具库 <code>Underscore.js</code>的一个 fork 发展而来</td>
+</tr>
+<tr>
+<td><a href="https://github.com/socketio/socket.io">socket.io</a></td>
+<td>★★★★☆</td>
+<td>预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Automattic/mongoose">Mongoose</a></td>
+<td>★★★★☆</td>
+<td>让 NodeJS 更容易操作 Mongodb 数据库；  附上一篇<a href="https://cnodejs.org/topic/504b4924e2b84515770103dd">Mongoose 学习参考文档</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://npm.taobao.org/">CNPM</a></td>
+<td>★★★★☆</td>
+<td>淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造<strong>企业/个人</strong>私有的 NPM 服务 推荐篇搭建私有NPM的文章：<a href="http://blog.fens.me/nodejs-cnpm-npm/">《CNPM搭建私有的NPM服务》</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://koajs.com/">koa</a></td>
+<td>★★★★☆</td>
+<td>玩 Node 都知道 express，但使用 koa 的就少很多，门槛比 Ex 稍高 通过 generator 避免繁琐的回调函数嵌套，强烈推崇 <a href="https://github.com/turingou/koa-guide">官方的文章教程</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/shipitjs/shipit">Shipit</a></td>
+<td>★★★★☆</td>
+<td>一个强大的自动化部署工具。 shipit 很多地方非常类似 gulp，他们的核心都是任务系统。</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/node-inspector">node-inspector</a></td>
+<td>★★★★☆</td>
+<td>Node 调试工具，使用起来跟 Chrome 的 JS 调试器很相似</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/winston">winston</a></td>
+<td>★★★★☆</td>
+<td>Node 服务最流行的日志库之一</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/thenify-all">thenify-all</a></td>
+<td>★★★★</td>
+<td>把异步的方法变成 Promise 的 Promisifies all the selected functions in an object</td>
+</tr>
+<tr>
+<td><a href="http://phantomjs.org/">PhantomJS</a></td>
+<td>★★★★</td>
+<td>一般用来做抓取截图和无界面测试 也可以用来操作 DOM 和网络监测，很好玩的库 <a href="http://phantomjs.org/quick-start.html">Quick Start</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mochajs/mocha">Mocha</a></td>
+<td>★★★★</td>
+<td>Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/everyauth">everyauth</a></td>
+<td>★★★★</td>
+<td>OAuth 的集成解决方案</td>
+</tr>
+<tr>
+<td><a href="http://documentup.com/shelljs/shelljs">shelljs</a></td>
+<td>★★★☆</td>
+<td>写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/hashids">hashids</a></td>
+<td>★★★☆</td>
+<td>看名称就懂，给 userid 加解密用的</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/colors">colors</a></td>
+<td>★★☆</td>
+<td>花俏的小工具 让打印<code>console.log</code>时有更好的展示样式</td>
+</tr>
+</tbody>
+</table>
+
+<blockquote>
+<p><code>supervisor</code> 和 <code>nodemon</code> 这俩都是监控 Node 代码，使得每次修改代码后会，开发 Node 程序必备</p>
+
+<p>以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)</p>
+</blockquote>
+
+<h4 id="RecBookForNode">
+<a id="node-学习指南" class="anchor" href="#node-%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97" aria-hidden="true"><span class="octicon octicon-link"></span></a>Node 学习指南</h4>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/youyudehexie/node123">Node.js 中文资料导航</a></td>
+<td>★★★★★</td>
+<td>Node 的中文资料导航，<code>start1300+</code>
+</td>
+</tr>
+<tr>
+<td><a href="http://blog.fens.me/series-nodejs/">从零开始 NodeJS 系列文章</a></td>
+<td>★★★★★</td>
+<td>基本上每一篇都看过，强烈推荐</td>
+</tr>
+<tr>
+<td><a href="http://nqdeng.github.io/7-days-nodejs/">Node.js 包教不包会</a></td>
+<td>★★★★★</td>
+<td>值得阅读，看完绝不用买书鸟</td>
+</tr>
+<tr>
+<td><a href="https://github.com/alsotang/node-lessons">七天学会 NodeJS</a></td>
+<td>★★★★★</td>
+<td>劳资还没看，不过看目录还不错:)</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="build">
+<a id="build-项目构建" class="anchor" href="#build-%E9%A1%B9%E7%9B%AE%E6%9E%84%E5%BB%BA" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build 项目构建</h3>
+
+<blockquote>
+<p>Gulp + Webpack 的使用<strong>套路</strong>参考: <a href="https://github.com/demohi/learning-gulp">learning-gulp</a></p>
+
+<p>Gulp 资料收集：<a href="https://github.com/Platform-CUF/use-gulp">use-gulp</a></p>
+
+<p>推荐篇与 Webpack 相关的文章《<a href="http://boke.io/tan-tan-css-modules/">CSS Modules</a>》</p>
+
+<p>Webpack 用起来吼吼：<a href="https://github.com/petehunt/webpack-howto">webpack-howto</a></p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.npmjs.com/package/pm2">pm2</a></td>
+<td>★★★★★</td>
+<td>是一个带有负载均衡功能的 Node 应用的进程管理器； 是 <a href="https://www.npmjs.com/package/forever">Forever</a> 的进阶库，想了解的可以看这篇文章<a href="http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/">《拥抱PM2》</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://webpack.github.io/">Webpack</a></td>
+<td>★★★★★</td>
+<td>项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 <a href="#read">精选阅读</a>中有篇资料就是介绍 Webpack 和 React 的工作机制。</td>
+</tr>
+<tr>
+<td><a href="https://github.com/gulpjs/gulp/">Gulp</a></td>
+<td>★★★★★</td>
+<td>Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上<a href="https://github.com/nimojs/gulp-book">GulpBook</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://bower.io/">Bower</a></td>
+<td>★★★★☆</td>
+<td>前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：<a href="http://blog.fens.me/nodejs-bower-intro/">《bower 解决 js 的依赖管理》</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://gruntjs.com/">Grunt</a></td>
+<td>★★★★☆</td>
+<td>和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇<a href="http://www.benben.cc/blog/?p=407">《Gulp vs Grunt》</a> 英盲又想看文档，可以去<a href="http://www.gruntjs.net/">Grunt 中文网</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://fex-team.github.io/fis3/">FIS</a></td>
+<td>★★★★</td>
+<td>度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用</td>
+</tr>
+<tr>
+<td><a href="https://ci.gitlab.org/">Gitlab CI</a></td>
+<td>★★★</td>
+<td>一套基于<a href="https://about.gitlab.com/">Gitlab</a>的持续集成服务</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="gulp">
+<a id="gulp-推荐包" class="anchor" href="#gulp-%E6%8E%A8%E8%8D%90%E5%8C%85" aria-hidden="true"><span class="octicon octicon-link"></span></a>Gulp 推荐包</h4>
+
+<blockquote>
+<p>Gulp 最基础的库就不列在下表格中鸟，其中包括：</p>
+
+<ul>
+<li>
+<a href="https://www.npmjs.com/package/gulp-concat">gulp-concat</a> 作用是<strong><em>连接/合并</em></strong>文件</li>
+<li>
+<a href="https://www.npmjs.com/package/gulp-cssshrink">gulp-cssshrink</a> CSS 文件压缩</li>
+<li>
+<a href="https://www.npmjs.com/package/gulp-uglify">gulp-uglify</a> JS 文件压缩</li>
+</ul>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-webpack">gulp-webpack</a></td>
+<td>★★★★★</td>
+<td>webpack 与 gulp 配合，开启前端 Build 新纪元 webpack plugin for gulp</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-rev">gulp-rev</a></td>
+<td>★★★★☆</td>
+<td>高大上第一步，静态文件名称变成 HASH 名称</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-rev-collector">gulp-rev-collector</a></td>
+<td>★★★★☆</td>
+<td>配合<a href="https://www.npmjs.com/package/gulp-rev">gulp-rev</a>使用，自动用 HASH 替换模板内静态文件名</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/run-sequence">run-sequence</a></td>
+<td>★★★★</td>
+<td>Gulp 任务机制为并行，RS 使得有依赖的任务可串行执行 使用 gulp-rev 时得用 RS 配合 要不并行的生成配置和处理.html 文件不能同事生效</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-util">gulp-util</a></td>
+<td>★★★★</td>
+<td>内含一套方法库，功能太多 个人感觉更喜欢功能单一的包，不太喜欢这种大杂烩</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-connect">gulp-connect</a></td>
+<td>★★★★</td>
+<td>有 reload 功能的 Run WebServer 工具 我一般用来 LivereLoad，即保存之后自动刷新页面</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-load-plugins">gulp-load-plugins</a></td>
+<td>★★★★</td>
+<td>可加载 package.json 内与 Gulp 相关的插件 省去鸟一行一行 require 的功夫咯</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-clean">gulp-clean</a></td>
+<td>★★★☆</td>
+<td>移除文件或文件夹的包</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-replace">gulp-replace</a></td>
+<td>★★★☆</td>
+<td>其功能看名字就知道，用做字符串替换的</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-autoprefixer">gulp-autoprefixer</a></td>
+<td>★★★☆</td>
+<td>叼炸天的自动处理浏览器前缀的包 文档地址：<a href="https://github.com/postcss/autoprefixer#usage">usage</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-rename">gulp-rename</a></td>
+<td>★★★</td>
+<td>把文件重命名 结构设计的好不太会用到这个</td>
+</tr>
+<tr>
+<td><a href="https://www.npmjs.com/package/gulp-flatten">gulp-flatten</a></td>
+<td>★★★</td>
+<td>删除或替换文件的相对路径； 一般我这用来移动 img 或者其他静态文件到新目录 同上：结构设计的好不太会用到这个</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="read">
+<a id="精选阅读" class="anchor" href="#%E7%B2%BE%E9%80%89%E9%98%85%E8%AF%BB" aria-hidden="true"><span class="octicon octicon-link"></span></a>精选阅读</h3>
+
+<blockquote>
+<p>以下内容不包括 <a href="#RecBookForNode">NodeJS</a> 和 <a href="#interview">面试相关</a> 的，俺已经单独准备好鸟</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://es6.ruanyifeng.com/">ECMAScript 6入门</a></td>
+<td>★★★★☆</td>
+<td>阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性</td>
+</tr>
+<tr>
+<td><a href="http://wiki.jikexueyuan.com/project/react-native/">ReactNative 中文版</a></td>
+<td>★★★★☆</td>
+<td>翻译自官方的中文文档</td>
+</tr>
+<tr>
+<td><a href="https://github.com/jabez128/stream-handbook">stream-handbook</a></td>
+<td>★★★★☆</td>
+<td>如果学习 NodeJS，那么流一定是需要掌握的概念</td>
+</tr>
+<tr>
+<td><a href="https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md">MongoDB 极简实践入门</a></td>
+<td>★★★★☆</td>
+<td>入门推荐的套路，非常浅显易懂</td>
+</tr>
+<tr>
+<td><a href="https://fakefish.github.io/react-webpack-cookbook/index.html">ReactWebpackCookBook</a></td>
+<td>★★★★☆</td>
+<td>此书会引导读者是进入<code>React</code>和<code>Webpack</code>的世界。 俩都是非常前沿的技术，同时使用会更有趣。</td>
+</tr>
+<tr>
+<td><a href="https://github.com/macdao/ocds-guide-to-setting-up-mac">Mac 设置指南</a></td>
+<td>★★★★</td>
+<td>Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/ele828/react-native-guide">ReactNative 学习指南</a></td>
+<td>★★★☆</td>
+<td>新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代</td>
+</tr>
+<tr>
+<td><a href="http://www.css88.com/doc/codeguide/">HTML/CSS 编码规范</a></td>
+<td>★★★☆</td>
+<td>编写灵活、稳定、高质量的<code>HTML</code>和<code>CSS</code>代码的规范</td>
+</tr>
+<tr>
+<td><a href="https://github.com/nimojs/gulp-book">GulpBook</a></td>
+<td>★★★☆</td>
+<td>Gulp 是基于 Node 实现 Web 前端自动化开发的工具</td>
+</tr>
+<tr>
+<td><a href="https://github.com/xirong/my-markdown">Markdown 资料</a></td>
+<td>★★★</td>
+<td>简单看些语法入门，快速用起来</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="interview">
+<a id="前端面试" class="anchor" href="#%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95" aria-hidden="true"><span class="octicon octicon-link"></span></a>前端面试</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://dongfei.baijia.baidu.com/article/52449">在 LinkedIn 做面试官的故事</a></td>
+<td>★★★★★</td>
+<td>非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读</td>
+</tr>
+<tr>
+<td><a href="http://www.w3cplus.com/css/write-to-front-end-developer-interview.html">大漠：写给前端面试者</a></td>
+<td>★★★★★</td>
+<td>这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...</td>
+</tr>
+<tr>
+<td><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese">前端面试题</a></td>
+<td>★★★★☆</td>
+<td>Git 上非常火的前端面试题，<code>start17k+</code>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="工具软件" class="anchor" href="#%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6" aria-hidden="true"><span class="octicon octicon-link"></span></a>工具/软件</h3>
+
+<h4 id="web">
+<a id="web" class="anchor" href="#web" aria-hidden="true"><span class="octicon octicon-link"></span></a>Web</h4>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://caniuse.com/">CanIuse</a></td>
+<td>★★★★★</td>
+<td>
+<strong>前端必备</strong>；查看浏览器对各种新特性的兼容情况</td>
+</tr>
+<tr>
+<td><a href="http://naotu.baidu.com">百度脑图</a></td>
+<td>★★★★★</td>
+<td>非常方便的思维导图工具</td>
+</tr>
+<tr>
+<td><a href="https://www.processon.com/">ProcessOn</a></td>
+<td>★★★★☆</td>
+<td>和百度脑图的功能类似，脑图工具。</td>
+</tr>
+<tr>
+<td><a href="http://vimawesome.com/">VimAwesome</a></td>
+<td>★★★★☆</td>
+<td>Vim 插件集合，<strong>Vim 党必备</strong>
+</td>
+</tr>
+<tr>
+<td><a href="https://tower.im">Tower</a></td>
+<td>★★★★☆</td>
+<td>小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。</td>
+</tr>
+<tr>
+<td><a href="http://smallpdf.com/cn">smallpdf</a></td>
+<td>★★★★</td>
+<td>提供各种格式和 PDF 互相转换</td>
+</tr>
+<tr>
+<td><a href="https://www.zybuluo.com/mdeditor">Cmd Markdown</a></td>
+<td>★★★★</td>
+<td>好用的 Web 版 Markdown 编辑器</td>
+</tr>
+<tr>
+<td><a href="https://stackedit.io/editor">StackEdit</a></td>
+<td>★★★★</td>
+<td>又是一款 Web 版 Markdown 编辑器</td>
+</tr>
+<tr>
+<td><a href="https://modao.cc/">墨刀</a></td>
+<td>★★★★</td>
+<td>一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。</td>
+</tr>
+<tr>
+<td><a href="www.htm2pdf.co.uk/index.php">htm2pdf</a></td>
+<td>★★★★</td>
+<td>HTML to PDF</td>
+</tr>
+<tr>
+<td><a href="https://speakerdeck.com/p/featured">Speaker Deck</a></td>
+<td>★★★★</td>
+<td>在线的演讲稿展示平台</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="app">
+<a id="app" class="anchor" href="#app" aria-hidden="true"><span class="octicon octicon-link"></span></a>APP</h4>
+
+<blockquote>
+<p>以下列表中的 APP 都是不区分系统平台的</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.yinxiang.com/">印象笔记</a></td>
+<td>★★★★★</td>
+<td>免费账号完全够用，跨平台跨终端的记录软件</td>
+</tr>
+<tr>
+<td><a href="http://www.duokan.com/">多看阅读</a></td>
+<td>★★★★</td>
+<td>kindle 确实好，但是懒得随身带着 多看还算不错，书较多且偶尔有特价比较爽</td>
+</tr>
+</tbody>
+</table>
+
+<h5 id="android">
+<a id="android" class="anchor" href="#android" aria-hidden="true"><span class="octicon octicon-link"></span></a>Android</h5>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://zhuomian.xiaomi.com/">小米桌面</a></td>
+<td>★★★★☆</td>
+<td>多好看、多漂亮谈不上，关键是没有广告</td>
+</tr>
+</tbody>
+</table>
+
+<h5 id="iphone">
+<a id="iphone" class="anchor" href="#iphone" aria-hidden="true"><span class="octicon octicon-link"></span></a>iPhone</h5>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/coderyi/Monkey">Monkey</a></td>
+<td>★★★★</td>
+<td>Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="mac">
+<a id="mac" class="anchor" href="#mac" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mac</h4>
+
+<blockquote>
+<p>对于美好事务的追求无论何时都不算晚，前年公司给配了台 Mac 用做测试开发机，于是开始在 Mac 下办公。 <strong>Windows？</strong> 回不去鸟...</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://brew.sh/">Homebrew</a></td>
+<td>★★★★★</td>
+<td>没它程序猿没法好好干活... <code>Homebrew</code>使<code>OS X</code>更完美。 使用<code>gem</code>来安装<code>gems</code>、用<code>brew</code>来搞定那些依赖包</td>
+</tr>
+<tr>
+<td><a href="http://www.iterm2.com/">iTerm2</a></td>
+<td>★★★★☆</td>
+<td>Mac 终端功能少又不好看，iTerm2 可以解救你~ 推荐篇文章：<a href="http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io">《让你的命令行丰富多彩》</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://itunes.apple.com/cn/app/browseshot/id615916400">BrowseShot</a></td>
+<td>★★★★☆</td>
+<td>偶正在使用的网页截图工具，强烈推荐</td>
+</tr>
+<tr>
+<td><a href="http://manico.im/">Manico</a></td>
+<td>★★★★</td>
+<td>快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用</td>
+</tr>
+<tr>
+<td><a href="http://www.jetbrains.com/webstorm/">WebStorm</a></td>
+<td>★★★★</td>
+<td>功能超强的前端 IDE，不多介绍，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...</td>
+</tr>
+<tr>
+<td><a href="https://atom.io">Atom</a></td>
+<td>★★★★</td>
+<td>2015 年 7 月之前，在桌面环境下我最喜欢的编辑器是 Sublime。 但之后就是 Atom，俺也专门为它写了篇<strong><em><a href="https://github.com/nieweidong/learn-atom">使用纪要</a></em></strong>
+</td>
+</tr>
+<tr>
+<td><a href="http://www.getmarkman.com/">马克鳗</a></td>
+<td>★★★★</td>
+<td>MarkMan，非常强大好用的标注、测量工具。 日常工作免费版就完全可以满足，<strong>强烈推荐</strong>
+</td>
+</tr>
+<tr>
+<td><a href="https://www.wireshark.org/">Wireshark</a></td>
+<td>★★★☆</td>
+<td>说实话，Mac 下木有 Fiddler 挺不习惯，不过在有更强大的替代品</td>
+</tr>
+<tr>
+<td><a href="https://www.sourcetreeapp.com/">SourceTree</a></td>
+<td>★★★☆</td>
+<td>一款好用的的 Git 客户端工具，重点是支持中文:)</td>
+</tr>
+<tr>
+<td><a href="https://www.focusboosterapp.com/">focus booster</a></td>
+<td>★★★</td>
+<td>因为比较在意时间管理，所以这软件是俺工作时间的必备之物</td>
+</tr>
+<tr>
+<td><a href="http://25.io/mou/">Mou</a></td>
+<td>★★</td>
+<td>小清新的 Markdown 编辑器</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="linux">
+<a id="linux" class="anchor" href="#linux" aria-hidden="true"><span class="octicon octicon-link"></span></a>Linux</h4>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://ohmyz.sh/">oh-my-zsh</a></td>
+<td>★★★★★</td>
+<td>
+<strong><em>终端党</em></strong> 必用的好工具，强烈推荐</td>
+</tr>
+<tr>
+<td><a href="http://www.cnblogs.com/iadanac/p/3859481.html">tree</a></td>
+<td>★★★★</td>
+<td>linux 以树状图逐级列出目录的内容</td>
+</tr>
+<tr>
+<td><a href="http://www.oneapm.com/">oneapm</a></td>
+<td>★★★★</td>
+<td>强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/jkbrzt/httpie">httpie</a></td>
+<td>★★★☆</td>
+<td>一个 CLI 中的 HTTP 客户端 用法简单、易读</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="BrowserPlugins">
+<a id="chrome-浏览器插件" class="anchor" href="#chrome-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6" aria-hidden="true"><span class="octicon octicon-link"></span></a>Chrome 浏览器插件</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/gildas-lormeau/JSONView-for-Chrome">JSONView</a></td>
+<td>★★★★★</td>
+<td>麻麻再也不用担心偶调试接口啦</td>
+</tr>
+<tr>
+<td><a href="https://wappalyzer.com/">wappalyzer</a></td>
+<td>★★★★☆</td>
+<td>分析网站使用的技术 它可以检测网页的 Web 服务器、JS 框架等等</td>
+</tr>
+<tr>
+<td><a href="https://github.com/LukyVj/gitShare">gitShare</a></td>
+<td>★★★★</td>
+<td>用于方便把Github项目分享到 Twitter 或 Facebook</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg">二维码生成器</a></td>
+<td>★★★★</td>
+<td>RT</td>
+</tr>
+<tr>
+<td><a href="http://spoofer-extension.appspot.com/">User-Agent Switcher</a></td>
+<td>★★★★</td>
+<td>模拟各种终端的 UA，达到调试目的</td>
+</tr>
+<tr>
+<td><a href="https://porter.io/plug/">GitPlug</a></td>
+<td>★★★☆</td>
+<td>在 Git 项目页中嵌入有关的图表信息</td>
+</tr>
+<tr>
+<td><a href="https://chrome.google.com/webstore/detail/swap-my-cookies/dffhipnliikkblkhpjapbecpmoilcama">Swap My Cookie</a></td>
+<td>★★★☆</td>
+<td>切换马甲非常方便</td>
+</tr>
+<tr>
+<td><a href="http://infinitynewtab.com/">Infinity</a></td>
+<td>★★☆</td>
+<td>针对 Chrome 的插件，<strong>新标签页</strong> 会让你耳目一新</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="git">
+<a id="git" class="anchor" href="#git" aria-hidden="true"><span class="octicon octicon-link"></span></a>Git</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">Git 教程-廖雪峰</a></td>
+<td>★★★★☆</td>
+<td>俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的</td>
+</tr>
+<tr>
+<td><a href="http://github-awards.com/">GitAwards</a></td>
+<td>★★★★</td>
+<td>Git 工具，可以查看 Git 排名</td>
+</tr>
+<tr>
+<td><a href="https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md">Git 速查</a></td>
+<td>★★★★</td>
+<td>分类清晰的速查表</td>
+</tr>
+<tr>
+<td><a href="http://rogerdudler.github.io/git-guide/index.zh.html">Git 简明指南</a></td>
+<td>★★★☆</td>
+<td>入门<code>Git</code>的简明指南，木有高深内容:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/xirong/my-git">Git 学习资料整理</a></td>
+<td>★★★</td>
+<td>内容包括很多 Git 的相关资料，<code>star 1200+</code>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/phodal/github-roam">GitHub 漫游指南</a></td>
+<td>★★☆</td>
+<td>一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者<strong><em>漫游</em></strong>的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="redis">
+<a id="redis" class="anchor" href="#redis" aria-hidden="true"><span class="octicon octicon-link"></span></a>Redis</h3>
+
+<h3 id="mongodb">
+<a id="mongodb" class="anchor" href="#mongodb" aria-hidden="true"><span class="octicon octicon-link"></span></a>MongoDB</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Automattic/mongoose">Mongoose</a></td>
+<td>★★★★☆</td>
+<td>让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇<a href="https://cnodejs.org/topic/504b4924e2b84515770103dd">Mongoose 学习参考文档</a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="other">
+<a id="杂七杂八" class="anchor" href="#%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB" aria-hidden="true"><span class="octicon octicon-link"></span></a>杂七杂八</h3>
+
+<blockquote>
+<p>放些开发中较有用的杂物在这儿</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/soulteary/tenant-point">租房要点</a></td>
+<td>★★★★☆</td>
+<td>适用于北上广深杭，大城市打拼<strong>租房</strong>确实是硬伤</td>
+</tr>
+<tr>
+<td><a href="https://github.com/jsfront/src/blob/master/qq.md">QQ 群规</a></td>
+<td>★★★★☆</td>
+<td>突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/github/gitignore">.gitignore 文件</a></td>
+<td>★★★★☆</td>
+<td>介绍不同语言项目的 gitignore 模板</td>
+</tr>
+<tr>
+<td><a href="https://codebabes.com/">Codebabes</a></td>
+<td>★★★</td>
+<td>学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~</td>
+</tr>
+<tr>
+<td><a href="https://github.com/nieweidong/ReadmeSample">ReadmeSample</a></td>
+<td>☆</td>
+<td>项目高大上的第一步就是<strong>包装</strong>，所以来看看 <code>README</code> 的书写套路吧 PS：劳资怎么这么无聊...</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="cool">
+<a id="前端炫技-_炫酷狂拽叼炸天站点_" class="anchor" href="#%E5%89%8D%E7%AB%AF%E7%82%AB%E6%8A%80-_%E7%82%AB%E9%85%B7%E7%8B%82%E6%8B%BD%E5%8F%BC%E7%82%B8%E5%A4%A9%E7%AB%99%E7%82%B9_" aria-hidden="true"><span class="octicon octicon-link"></span></a>前端炫技-_炫酷狂拽叼炸天站点_</h3>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.windows93.net/">windows93</a></td>
+<td>★★★★☆</td>
+<td>模拟 Win93 桌面，思路、体验和整体效果比较有意思</td>
+</tr>
+<tr>
+<td><a href="http://geektyper.com/">GeekTyper</a></td>
+<td>★★★★☆</td>
+<td>好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙</td>
+</tr>
+<tr>
+<td><a href="http://skill.phodal.com/">前端技能栈</a></td>
+<td>★★★★</td>
+<td>好玩的前端技能栈展示</td>
+</tr>
+<tr>
+<td><a href="https://www.mapbox.com/">Mapbox</a></td>
+<td>★★★★</td>
+<td>非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙</td>
+</tr>
+<tr>
+<td><a href="http://johnpolacek.github.io/superscrollorama/">SuperScrollorama</a></td>
+<td>★★★☆</td>
+<td>好玩好看的动画库，链接是 SuperScrollorama 的展示页</td>
+</tr>
+<tr>
+<td><a href="http://matthew.wagerfield.com/parallax/">parallax.js</a></td>
+<td>★★★</td>
+<td>一个视差引擎的官网，在电脑和手机上都有很好的体验</td>
+</tr>
+<tr>
+<td><a href="https://modao.cc/">墨刀</a></td>
+<td>★★</td>
+<td>一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="ux">
+<a id="设计交互" class="anchor" href="#%E8%AE%BE%E8%AE%A1%E4%BA%A4%E4%BA%92" aria-hidden="true"><span class="octicon octicon-link"></span></a>设计/交互</h3>
+
+<blockquote>
+<p>作为负责最终效果呈现的前端工程师，多少得了解些 <strong>设计和交互</strong> 的，这也是为什么 fetool 会单独的存在这一章...当然话又说回来了，偶毕业的第一份工作是设计:)</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.zcool.com.cn/works/">站酷</a></td>
+<td>★★★★☆</td>
+<td>里面好东西太多，俺当年真没少再上面淘素材</td>
+</tr>
+<tr>
+<td><a href="http://www.ui.cn/list.html">UI中国</a></td>
+<td>★★★★</td>
+<td>光听名字就知道有多高大上鸟:)</td>
+</tr>
+</tbody>
+</table>
+
+<p><a href="http://www.s5themes.com/"></a></p>
+
+<h3 id="handbook">
+<a id="速查手册" class="anchor" href="#%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C" aria-hidden="true"><span class="octicon octicon-link"></span></a>速查手册</h3>
+
+<blockquote>
+<p>RT，这篇都是些文档或者API，一般这类东西都在大家浏览器的书签内，偶这也列一下大前端常用的手册地址</p>
+</blockquote>
+
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>推荐指数</th>
+<th>备注/说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://cdn.code.baidu.com/">百度CDN公共库</a></td>
+<td>★★★★☆</td>
+<td>基本常见的库都收录拉，搞 demo 的时候特方便</td>
+</tr>
+<tr>
+<td><a href="http://codeguide.bootcss.com/">HTML 和 CSS 代码规范</a></td>
+<td>★★★★☆</td>
+<td>编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范</td>
+</tr>
+<tr>
+<td><a href="linux.51yip.com">Linux命令中文手册</a></td>
+<td>★★★★</td>
+<td>木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)</td>
+</tr>
+<tr>
+<td><a href="https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md">Git 速查</a></td>
+<td>★★★★</td>
+<td>分类清晰的速查表</td>
+</tr>
+<tr>
+<td><a href="http://jquery.cuishifeng.cn/">jQueryAPI 1.11.3</a></td>
+<td>★★★★</td>
+<td>ZeptoAPI 基本和 jQuery 一样，所以看一份就好</td>
+</tr>
+<tr>
+<td><a href="http://www.php100.com/manual/css3_0/index.html">CSS3</a></td>
+<td>★★★★</td>
+<td>CSS3 的在线手册</td>
+</tr>
+<tr>
+<td><a href="http://www.expressjs.com.cn/4x/api.html">Express API</a></td>
+<td>★★★☆</td>
+<td>中文手册:) 4.x和3.x都有</td>
+</tr>
+<tr>
+<td><a href="http://codeigniter.org.cn/user_guide/index.html">CI用户指南</a></td>
+<td>★★</td>
+<td>一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧</td>
+</tr>
+<tr>
+<td><a href="http://www.laruence.com/manual/">Yaf</a></td>
+<td>★★</td>
+<td>鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="summary">
+<a id="小结" class="anchor" href="#%E5%B0%8F%E7%BB%93" aria-hidden="true"><span class="octicon octicon-link"></span></a>小结</h3>
+
+<h5>
+<a id="背景" class="anchor" href="#%E8%83%8C%E6%99%AF" aria-hidden="true"><span class="octicon octicon-link"></span></a>背景</h5>
+
+<p>俺算个比较能自我总结的码农，所以偶尔喜欢写点东西做些记录或者自我熏陶陶醉一下。
+  可写着写着发现<code>Evernote</code>里面的东西太尼玛多(乱)了，于是想着把一些技术相关的资料都整理整理，都丢到<code>Git</code>上沉淀下来。 这样Evernote就可以只需要记录些偏生活方便的，看着清爽一些...</p>
+
+<p>所以，这篇记录其实只是为偶自己而写，确信以后也一直会这样~~~</p>
+
+<h5>
+<a id="说说目标" class="anchor" href="#%E8%AF%B4%E8%AF%B4%E7%9B%AE%E6%A0%87" aria-hidden="true"><span class="octicon octicon-link"></span></a>说说目标</h5>
+
+<p>其实与这篇记录类似的文章太多鸟，俺也不愿意成为一个单纯的收集资料，分享资料的这么个东西。
+  我希望 fetool 能更生动、更个性，最好能更另类点，对于每样工具的思考和解析更多点，吐槽也必须有理有据，然后再配上劳资收集的 low 图，完美！
+  <strong>希望通过不停的完善这篇记录，能Push劳资多了解业内的新玩具和新创意，然后围绕这些新东西，客观的再写点好东西，比如文章、资料、开源项目这些，让其他伙伴们少走弯路或学的更顺畅点儿</strong></p>
+
+<blockquote>
+<p>所以劳资对自己的要求是：这篇记录里列出的每样东西，自己都得的去了解、去尝试，然后再列出来。 能举一反三最好，如果达不到至少也能清楚的认识：列出来的这玩意对程序员有没有卵用，解决了啥痛点。</p>
+</blockquote>
+
+<h3 id="todo">
+<a id="todo" class="anchor" href="#todo" aria-hidden="true"><span class="octicon octicon-link"></span></a>TODO</h3>
+
+<ol>
+<li><p>继续完善和扩充内容</p></li>
+<li><p>“备注/说明”这一栏不够犀利，希望再多加入自己的理解、点评、吐槽，让这篇记录更犀利和生动</p></li>
+<li><p>支持导出多种格式，如<code>.pdf</code>、<code>.epub</code>、<code>.mobi</code>等</p></li>
+<li><p>后续看看如果有必要，可以单独搞个页面，优化下阅读和展示效果</p></li>
+</ol>
+
+<hr>
+
+<p>以下是 <a href="http://weibo.com/jayli">@拔赤</a> 总结的前端技能图：
+<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/fe.jpg" alt="拔赤总结的前端技能图"></p>
+
+<hr>
+
+<p>完善 ing，慢慢把 <strong>Evernote</strong> 和 <strong>浏览器书签</strong> 里面的好东西慢慢捣腾到这儿，更欢迎 PR，谢谢。</p>
+
+<p><img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120"></p>
+
+<h4>
+<a id="用自己青涩时的照片镇楼哇哈哈" class="anchor" href="#%E7%94%A8%E8%87%AA%E5%B7%B1%E9%9D%92%E6%B6%A9%E6%97%B6%E7%9A%84%E7%85%A7%E7%89%87%E9%95%87%E6%A5%BC%E5%93%87%E5%93%88%E5%93%88" aria-hidden="true"><span class="octicon octicon-link"></span></a>用自己青涩时的照片镇楼，哇哈哈~</h4>
+      </section>
+
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
