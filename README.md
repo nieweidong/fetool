@@ -244,6 +244,7 @@
 [ProcessOn](https://www.processon.com/) |★★★★☆ |和百度脑图的功能类似，脑图工具。
 [VimAwesome](http://vimawesome.com/) |★★★★☆ |Vim 插件集合，__Vim 党必备__
 [Tower](https://tower.im) |★★★★☆ |小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
+[Slides](https://slides.com/) |★★★★☆ |一个所见即所得的 WebPPT 编辑器，非常推荐
 [smallpdf](http://smallpdf.com/cn) |★★★★ |提供各种格式和 PDF 互相转换
 [Cmd Markdown](https://www.zybuluo.com/mdeditor) |★★★★ |好用的 Web 版 Markdown 编辑器
 [StackEdit](https://stackedit.io/editor) |★★★★ |又是一款 Web 版 Markdown 编辑器
@@ -280,7 +281,7 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [Homebrew](http://brew.sh/) |★★★★★ |没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
-[iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~ 推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
 [LICEcap](http://www.cockos.com/licecap/) |★★★★ |屏幕录制工具，支持导出 GIF 动画图片格式 轻量级、使用简单，录制过程中可以改变录屏范围
 [Manico](http://manico.im/) |★★★★ |快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用
