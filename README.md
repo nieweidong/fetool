@@ -145,6 +145,7 @@
 [Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit 很多地方非常类似 gulp，他们的核心都是任务系统。
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node 调试工具，使用起来跟 Chrome 的 JS 调试器很相似
 [winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node 服务最流行的日志库之一
+[co](https://www.npmjs.com/package/co) |★★★★☆ |用 generator 写法让异步代码同步
 [thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成 Promise 的 Promisifies all the selected functions in an object
 [PhantomJS](http://phantomjs.org/) |★★★★ |一般用来做抓取截图和无界面测试 也可以用来操作 DOM 和网络监测，很好玩的库 [Quick Start](http://phantomjs.org/quick-start.html)
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
