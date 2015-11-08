@@ -112,6 +112,7 @@
 [peity.js](http://benpickles.github.io/peity/) |★★★★ |jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 [Highcharts](http://www.hcharts.cn/)|★★★★ |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
+[NProgress](https://github.com/rstacruz/nprogress/) |★★★★ |使页面加载时有更好的loading效果
 [onepage-scroll](https://github.com/peachananr/onepage-scroll) |★★★☆ |依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
 [videojs](http://videojs.com/) |★★★☆ |当下视频需求都用上```<video>```鸟 样式和交互统一的问题交给 videojs 搞定:)
 [clipboard](http://zenorocha.github.io/clipboard.js/) |★★★☆ |仅 2KB 大小，搞定剪贴板功能，屌不屌~ 但是，Safari 不支持...
@@ -355,6 +356,7 @@
 [GeekTyper](http://geektyper.com/) |★★★★☆ |好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
 [前端技能栈](http://skill.phodal.com/) |★★★★ |好玩的前端技能栈展示
 [Mapbox](https://www.mapbox.com/) |★★★★ |非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
+[Clark Duvall](http://www.clarkduvall.com/) |★★★★ |一枚歪果仁的个人blog，范儿叼叼的
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
 [墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
@@ -367,7 +369,6 @@
  ----- | ----- | ------
 [站酷](http://www.zcool.com.cn/works/) |★★★★☆ |里面好东西太多，俺当年真没少再上面淘素材
 [UI中国](http://www.ui.cn/list.html) |★★★★ |光听名字就知道有多高大上鸟:)
-[](http://www.s5themes.com/)
 
 <h3 id="handbook">速查手册</h3>
 
