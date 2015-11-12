@@ -217,6 +217,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) |★★★★☆ | 此手册主要实现的目标：代码一致性和最佳实践
 [ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
 [stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★☆ |如果学习 NodeJS，那么流一定是需要掌握的概念
