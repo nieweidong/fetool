@@ -236,6 +236,7 @@
 [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) |★★★★★ |非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
 [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
 [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) |★★★★☆ |Git 上非常火的前端面试题，```start17k+```
+[前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) |★★★★ |主要内容是些前端面试笔试题和面试套路，值得阅读
 
 <h3>工具/软件</h3>
 
