@@ -250,6 +250,7 @@
 [VimAwesome](http://vimawesome.com/) |★★★★☆ |Vim 插件集合，__Vim 党必备__
 [Tower](https://tower.im) |★★★★☆ |小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
 [Slides](https://slides.com/) |★★★★☆ |一个所见即所得的 WebPPT 编辑器，非常推荐
+[faviconer.co](http://www.faviconer.co/) |★★★★ |一个所见即所得的icon生成器，很好用
 [smallpdf](http://smallpdf.com/cn) |★★★★ |提供各种格式和 PDF 互相转换
 [Cmd Markdown](https://www.zybuluo.com/mdeditor) |★★★★ |好用的 Web 版 Markdown 编辑器
 [StackEdit](https://stackedit.io/editor) |★★★★ |又是一款 Web 版 Markdown 编辑器
