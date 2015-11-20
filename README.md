@@ -316,6 +316,7 @@
  ----- | ----- | ------
 [JSONView](https://github.com/gildas-lormeau/JSONView-for-Chrome) |★★★★★ |麻麻再也不用担心偶调试接口啦
 [wappalyzer](https://wappalyzer.com/) |★★★★☆ |分析网站使用的技术 它可以检测网页的 Web 服务器、JS 框架等等
+[Postman](https://www.getpostman.com/) |★★★★ |强大的调试工具，推荐之
 [gitShare](https://github.com/LukyVj/gitShare) |★★★★ |用于方便把Github项目分享到 Twitter 或 Facebook
 [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★ |RT
 [User-Agent Switcher](http://spoofer-extension.appspot.com/) |★★★★ |模拟各种终端的 UA，达到调试目的
