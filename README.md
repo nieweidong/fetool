@@ -246,7 +246,8 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [CanIuse](http://caniuse.com/) |★★★★★ |__前端必备__；查看浏览器对各种新特性的兼容情况
-[百度脑图](http://naotu.baidu.com) |★★★★★ |非常方便的思维导图工具
+[overapi](http://overapi.com/) |★★★★★ |最全的开发人员在线速查手册
+[百度脑图](http://naotu.baidu.com) |★★★★☆ |非常方便的思维导图工具
 [ProcessOn](https://www.processon.com/) |★★★★☆ |和百度脑图的功能类似，脑图工具。
 [VimAwesome](http://vimawesome.com/) |★★★★☆ |Vim 插件集合，__Vim 党必备__
 [Tower](https://tower.im) |★★★★☆ |小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
