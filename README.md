@@ -293,6 +293,7 @@
 [iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
 [BeyondCompare](http://www.scootersoftware.com) |★★★★☆ |在Windows下就开始用了 比对文件和文件夹杠杠好使，Merge必备工具
+[CheatSheet](http://www.mediaatelier.com/CheatSheet/) |★★★★ |能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
 [Sequel Pro](http://www.sequelpro.com) |★★★★ |免费好用的Mysql工具
 [LICEcap](http://www.cockos.com/licecap/) |★★★★ |屏幕录制工具，支持导出 GIF 动画图片格式 轻量级、使用简单，录制过程中可以改变录屏范围
 [Manico](http://manico.im/) |★★★★ |快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用
