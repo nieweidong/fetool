@@ -156,6 +156,7 @@
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
 [hashids](https://www.npmjs.com/package/hashids) |★★★☆ |看名称就懂，给 userid 加解密用的
 [colors](https://www.npmjs.com/package/colors) |★★☆ |花俏的小工具 让打印```console.log```时有更好的展示样式
+[n](https://www.npmjs.com/package/n) |★★ |控制Node的版本，想升级一行代码搞定
 
 > ```supervisor``` 和 ```nodemon``` 这俩都是监控 Node 代码，使得每次修改代码后会，开发 Node 程序必备
 
