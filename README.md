@@ -23,8 +23,10 @@
   - [Node 学习资料](#RecBookForNode)
 - [Build 项目构建](#build)
   - [Gulp 推荐包](#gulp)
-- [精选阅读](#read)
-- [前端面试](#interview)
+- 精选阅读
+  - [前端技术](#fedev)
+  - [前端面试](#interview)
+  - [其他技术](#otherdev)
 - 工具/软件
   - [Web](#web)
   - [APP](#app)
@@ -123,7 +125,7 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
-<h3>NodeJS</h3>
+### NodeJS
 
 > 作为一名大前端甚至是多端，Node 绝逼是必备的一块
 
@@ -184,7 +186,7 @@
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
-[Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。 [精选阅读](#read)中有篇资料就是介绍 Webpack 和 React 的工作机制。
+[Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。
 [Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book)
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
@@ -213,25 +215,22 @@
 [gulp-rename](https://www.npmjs.com/package/gulp-rename) |★★★ |把文件重命名 结构设计的好不太会用到这个
 [gulp-flatten](https://www.npmjs.com/package/gulp-flatten) |★★★ |删除或替换文件的相对路径； 一般我这用来移动 img 或者其他静态文件到新目录 同上：结构设计的好不太会用到这个
 
-<h3 id="read">精选阅读</h3>
+### 精选阅读
 
-> 以下内容不包括 [NodeJS](#RecBookForNode) 和 [面试相关](#interview) 的，俺已经单独准备好鸟
+<h4 id="fedev">前端技术</h4>
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
 [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) |★★★★☆ | 此手册主要实现的目标：代码一致性和最佳实践
 [ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
-[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★☆ |如果学习 NodeJS，那么流一定是需要掌握的概念
-[MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★☆ |入门推荐的套路，非常浅显易懂
 [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
-[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) |★★★★ |Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 [ReactNative 学习指南](https://github.com/ele828/react-native-guide) |★★★☆ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
 [HTML/CSS 编码规范](http://www.css88.com/doc/codeguide/) |★★★☆ |编写灵活、稳定、高质量的```HTML```和```CSS```代码的规范
 [GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具
-[Markdown 资料](https://github.com/xirong/my-markdown) |★★★ |简单看些语法入门，快速用起来
 
-<h3 id="interview">前端面试</h3>
+
+<h4 id="interview">前端面试</h4>
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
@@ -239,6 +238,24 @@
 [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) |★★★★★ |这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
 [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) |★★★★☆ |Git 上非常火的前端面试题，```start17k+```
 [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) |★★★★ |主要内容是些前端面试笔试题和面试套路，值得阅读
+
+<h4 id="nodejsdev">Nodejs</h4>
+
+ 名称 | 推荐指数 | 备注/说明
+ ----- | ----- | ------
+[Node.js 中文资料导航](https://github.com/youyudehexie/node123) |★★★★★ |Node 的中文资料导航，```start1300+```
+[从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) |★★★★★ |基本上每一篇都看过，强烈推荐
+[Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) |★★★★★ |值得阅读，看完绝不用买书鸟
+[七天学会 NodeJS](https://github.com/alsotang/node-lessons) |★★★★★ |劳资还没看，不过看目录还不错:)
+[stream-handbook](https://github.com/jabez128/stream-handbook) |★★★★☆ |如果学习 NodeJS，那么流一定是需要掌握的概念
+
+<h4 id="otherdev">其他技术</h4>
+
+ 名称 | 推荐指数 | 备注/说明
+ ----- | ----- | ------
+[MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) |★★★★☆ |入门推荐的套路，非常浅显易懂
+[Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) |★★★★ |Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
+[Markdown 资料](https://github.com/xirong/my-markdown) |★★★ |简单看些语法入门，快速用起来
 
 <h3>工具/软件</h3>
 
