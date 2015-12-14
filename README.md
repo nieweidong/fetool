@@ -389,6 +389,7 @@
 [Clark Duvall](http://www.clarkduvall.com/) |★★★★ |一枚歪果仁的个人blog，范儿叼叼的
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
+[CSS字母](http://yusugomori.com/projects/css-sans/fonts) |★★ |用CSS实现英文字母，叼叼的
 [墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
 
 <h3 id="ux">设计/交互</h3>
