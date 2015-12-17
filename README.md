@@ -100,6 +100,7 @@
 [Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标 Hover 态的效果，可以给产品学习一下:)
 [csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查 CSS 代码冗余
 [purecss](http://purecss.io/) |★★★☆ |小巧的响应式 CSS 库，Yahoo!出品
+[cssmatic](http://www.cssmatic.com) |★★★ |一个帮忙调试CSS效果的工具
 
 <h4 id="javascript">浏览端 JS</h4>
 
