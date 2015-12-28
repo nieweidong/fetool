@@ -98,6 +98,7 @@
 [CSSgram](https://github.com/una/CSSgram) |★★★★ |图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
 [HINT.css](https://github.com/chinchang/hint.css) |★★★★ |一款非常小巧的提示框效果
 [Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标 Hover 态的效果，可以给产品学习一下:)
+[Cursor](http://css-cursor.techstream.org/) |★★★★ |记录各浏览器对Cursor的支持情况
 [csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查 CSS 代码冗余
 [purecss](http://purecss.io/) |★★★☆ |小巧的响应式 CSS 库，Yahoo!出品
 [cssmatic](http://www.cssmatic.com) |★★★ |一个帮忙调试CSS效果的工具
