@@ -226,6 +226,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[2015D2前端论坛](www.imooc.com/learn/590) |★★★★★ |Node方向的非常非常值得看，相信东哥推荐哈
 [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) |★★★★☆ | 此手册主要实现的目标：代码一致性和最佳实践
 [ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
