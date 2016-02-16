@@ -233,8 +233,8 @@
 [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
 [ReactNative 学习指南](https://github.com/ele828/react-native-guide) |★★★☆ |新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
 [HTML/CSS 编码规范](http://www.css88.com/doc/codeguide/) |★★★☆ |编写灵活、稳定、高质量的```HTML```和```CSS```代码的规范
+[移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) |★★★☆ |入门价值高，移动方向常见问题的较好总结
 [GulpBook](https://github.com/nimojs/gulp-book) |★★★☆ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具
-
 
 <h4 id="interview">前端面试</h4>
 
