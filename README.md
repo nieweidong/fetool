@@ -74,7 +74,7 @@
 [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) |★★★★★ |RT
 [阮一峰](http://javascript.ruanyifeng.com/) |★★★★★ |关注多年，拜读其 ES6 系列... 虽网传靠写书进鸟阿里，但博客内容确实够丰富
 [粉丝日志 for 张丹](http://blog.fens.me/) |★★★★★ |大爱作者写的 Node 系列
-[张鑫旭](www.zhangxinxu.com/wordpress/) |★★★★★ |成名多年的、高产的前端大湿
+[张鑫旭](http://www.zhangxinxu.com/wordpress/) |★★★★★ |成名多年的、高产的前端大湿
 
 <h3 id="blogbuild">博客搭建</h3>
 
@@ -281,7 +281,7 @@
 [Cmd Markdown](https://www.zybuluo.com/mdeditor) |★★★★ |好用的 Web 版 Markdown 编辑器
 [StackEdit](https://stackedit.io/editor) |★★★★ |又是一款 Web 版 Markdown 编辑器
 [墨刀](https://modao.cc/) |★★★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
-[htm2pdf](www.htm2pdf.co.uk/index.php)|★★★★ |HTML to PDF
+[htm2pdf](http://www.htm2pdf.co.uk)|★★★★ |HTML to PDF
 [Speaker Deck](https://speakerdeck.com/p/featured) |★★★★ |在线的演讲稿展示平台
 
 <h4 id="app">APP</h4>
@@ -415,7 +415,7 @@
  ----- | ----- | ------
 [百度CDN公共库](http://cdn.code.baidu.com/) |★★★★☆ |基本常见的库都收录拉，搞 demo 的时候特方便
 [HTML 和 CSS 代码规范](http://codeguide.bootcss.com/) |★★★★☆ |编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
-[Linux命令中文手册](linux.51yip.com) |★★★★ |木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
+[Linux命令中文手册](http://linux.51yip.com) |★★★★ |木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
 [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) |★★★★ |分类清晰的速查表
 [jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) |★★★★ |ZeptoAPI 基本和 jQuery 一样，所以看一份就好
 [CSS3](http://www.php100.com/manual/css3_0/index.html) |★★★★ |CSS3 的在线手册
