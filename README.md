@@ -97,10 +97,12 @@
 [PostCSS](https://github.com/postcss/postcss) |★★★★☆ |最近才知道大名鼎鼎[Autoprefixer](https://github.com/postcss/autoprefixer)是其插件 推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案
 [CSSgram](https://github.com/una/CSSgram) |★★★★ |图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
 [HINT.css](https://github.com/chinchang/hint.css) |★★★★ |一款非常小巧的提示框效果
+[Balloon.css](http://kazzkiq.github.io/balloon.css/)|★★★★ |同上，一款非常小巧的提示框效果
 [Hover.css](http://ianlunn.github.io/Hover/) |★★★★ |很多鼠标 Hover 态的效果，可以给产品学习一下:)
 [Cursor](http://css-cursor.techstream.org/) |★★★★ |记录各浏览器对Cursor的支持情况
 [csscss](https://github.com/zmoazeni/csscss) |★★★★ |用于检查 CSS 代码冗余
 [purecss](http://purecss.io/) |★★★☆ |小巧的响应式 CSS 库，Yahoo!出品
+[hamburgers](https://jonsuh.com/hamburgers/) |★★★☆ |简单的动画库，让 Click(or Tap) 变得美妙
 [cssmatic](http://www.cssmatic.com) |★★★ |一个帮忙调试CSS效果的工具
 
 <h4 id="javascript">浏览端 JS</h4>
@@ -380,7 +382,8 @@
 [租房要点](https://github.com/soulteary/tenant-point) |★★★★☆ |适用于北上广深杭，大城市打拼__租房__确实是硬伤
 [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★☆ |突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
 [.gitignore 文件](https://github.com/github/gitignore) |★★★★☆ |介绍不同语言项目的 gitignore 模板
-[git-draw](https://github.com/ben174/git-draw) |★★★ |黑魔法，可以修改自己Git上的Contributions
+[git-draw](https://github.com/ben174/git-draw) |★★★ |黑魔法，可以修改自己 Git 上的 Contributions
+[GitBook](https://www.gitbook.com) |★★★ |写记录的好地方
 [Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
 [ReadmeSample](https://github.com/nieweidong/ReadmeSample)|☆ |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
 
@@ -392,10 +395,10 @@
 [GeekTyper](http://geektyper.com/) |★★★★☆ |好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
 [前端技能栈](http://skill.phodal.com/) |★★★★ |好玩的前端技能栈展示
 [Mapbox](https://www.mapbox.com/) |★★★★ |非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
-[Clark Duvall](http://www.clarkduvall.com/) |★★★★ |一枚歪果仁的个人blog，范儿叼叼的
+[Clark Duvall](http://www.clarkduvall.com/) |★★★★ |一枚歪果仁的个人 blog，范儿叼叼的
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) |★★★☆ |好玩好看的动画库，链接是 SuperScrollorama 的展示页
 [parallax.js](http://matthew.wagerfield.com/parallax/) |★★★ |一个视差引擎的官网，在电脑和手机上都有很好的体验
-[CSS字母](http://yusugomori.com/projects/css-sans/fonts) |★★ |用CSS实现英文字母，叼叼的
+[CSS字母](http://yusugomori.com/projects/css-sans/fonts) |★★ |用 CSS 实现英文字母，叼叼的
 [墨刀](https://modao.cc/) |★★ |一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
 
 <h3 id="ux">设计/交互</h3>
