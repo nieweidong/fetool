@@ -56,7 +56,7 @@
  ----- | ----- | ------
 [GitHub](https://github.com) |★★★★★ |劳资清楚这不是个纯粹的前端社区... 但作为全球最大的搞基社区，无数前端项目在这启航 没 Git 都不好意思面基有木有！
 [MDN](https://developer.mozilla.org/zh-CN/) |★★★★★ |不解释，无数的资源再等着你探索
-[Awesomes.cn](http://www.awesomes.cn/) |★★★★☆ |国人维护的前端资源库，深度对接到 Github
+[Awesomes.cn](https://www.awesomes.cn/) |★★★★☆ |国人维护的前端资源库，深度对接到 Github
 [慕课](http://www.imooc.com/) |★★★★☆ |大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
 [W3Cplus](http://www.w3cplus.com/) |★★★★☆ |大漠(《图解 CSS3》作者)在国内的影响力杠杠的 Sass 专家级
 [百度 FEX](http://fex.baidu.com/) |★★★★ |代表作 FIS、UEditor、WebUploader、KityMinder
@@ -109,7 +109,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
-[requirejs](https://github.com/jrburke/requirejs) |★★★★★ |JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
+[requirejs](https://github.com/requirejs/requirejs) |★★★★★ |JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 [ECharts](http://echarts.baidu.com/index.html) |★★★★★ |好用，最关键的是支持的图表展示非常之多，强烈推荐
 [Swiper](http://www.swiper.com.cn) |★★★★★ |强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
 [fullPage](http://alvarotrigo.com/fullPage/) |★★★★☆ |非常好用的全屏滑动库，看 Demo 就明白
@@ -152,7 +152,7 @@
 [socket.io](https://github.com/socketio/socket.io) |★★★★☆ |预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用
 [Mongoose](https://github.com/Automattic/mongoose) |★★★★☆ |让 NodeJS 更容易操作 Mongodb 数据库；  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 [CNPM](http://npm.taobao.org/) |★★★★☆ |淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造__企业/个人__私有的 NPM 服务 推荐篇搭建私有NPM的文章：[《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
-[koa](http://koajs.com/) |★★★★☆ |玩 Node 都知道 express，但使用 koa 的就少很多，门槛比 Ex 稍高 通过 generator 避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/turingou/koa-guide)
+[koa](http://koajs.com/) |★★★★☆ |玩 Node 都知道 express，但使用 koa 的就少很多，门槛比 Ex 稍高 通过 generator 避免繁琐的回调函数嵌套，强烈推崇 [官方的文章教程](https://github.com/guo-yu/koa-guide)
 [Shipit](https://github.com/shipitjs/shipit) |★★★★☆ |一个强大的自动化部署工具。 shipit 很多地方非常类似 gulp，他们的核心都是任务系统。
 |[node-inspector](https://www.npmjs.com/package/node-inspector) |★★★★☆ |Node 调试工具，使用起来跟 Chrome 的 JS 调试器很相似
 [winston](https://www.npmjs.com/package/winston) |★★★★☆ |Node 服务最流行的日志库之一
@@ -319,7 +319,7 @@
 [iTerm2](http://www.iterm2.com/) |★★★★☆ |Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) |★★★★☆ |偶正在使用的网页截图工具，强烈推荐
 [BeyondCompare](http://www.scootersoftware.com) |★★★★☆ |在Windows下就开始用了 比对文件和文件夹杠杠好使，Merge必备工具
-[CheatSheet](http://www.mediaatelier.com/CheatSheet/) |★★★★ |能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
+[CheatSheet](https://www.mediaatelier.com/CheatSheet/) |★★★★ |能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
 [Sequel Pro](http://www.sequelpro.com) |★★★★ |免费好用的Mysql工具
 [LICEcap](http://www.cockos.com/licecap/) |★★★★ |屏幕录制工具，支持导出 GIF 动画图片格式 轻量级、使用简单，录制过程中可以改变录屏范围
 [Manico](http://manico.im/) |★★★★ |快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用
