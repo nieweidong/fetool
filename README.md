@@ -179,6 +179,7 @@
 [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) |★★★★★ |值得阅读，看完绝不用买书鸟
 [七天学会 NodeJS](https://github.com/alsotang/node-lessons) |★★★★★ |劳资还没看，不过看目录还不错:)
 [Style Guide](https://github.com/dead-horse/node-style-guide) |★★★★ |这是一份关于如何写出一致且美观的 ```Node.js``` 代码的风格指南
+[koa实战](http://book.apebook.org/minghe/koa-action/index.html) |★★★★ |“[明河](https://github.com/minghe)出品”这四字已经说明一切
 
 <h3 id="build">Build 项目构建</h3>
 
