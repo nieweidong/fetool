@@ -383,6 +383,7 @@
 [租房要点](https://github.com/soulteary/tenant-point) |★★★★☆ |适用于北上广深杭，大城市打拼__租房__确实是硬伤
 [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) |★★★★☆ |突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
 [.gitignore 文件](https://github.com/github/gitignore) |★★★★☆ |介绍不同语言项目的 gitignore 模板
+[程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money) |★★★★ |中肯的文章，如果读完能有些许收获，那么恭喜你
 [git-draw](https://github.com/ben174/git-draw) |★★★ |黑魔法，可以修改自己 Git 上的 Contributions
 [GitBook](https://www.gitbook.com) |★★★ |写记录的好地方
 [Codebabes](https://codebabes.com/) |★★★ |学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
