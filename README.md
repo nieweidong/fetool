@@ -179,7 +179,7 @@
 [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) |★★★★★ |值得阅读，看完绝不用买书鸟
 [七天学会 NodeJS](https://github.com/alsotang/node-lessons) |★★★★★ |劳资还没看，不过看目录还不错:)
 [Style Guide](https://github.com/dead-horse/node-style-guide) |★★★★ |这是一份关于如何写出一致且美观的 ```Node.js``` 代码的风格指南
-[koa实战](http://book.apebook.org/minghe/koa-action/index.html) |★★★★ |“[明河](https://github.com/minghe)出品”这四字已经说明一切
+[koa实战](http://book.apebook.org/minghe/koa-action/index.html) |★★★★ |“[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
 
 <h3 id="build">Build 项目构建</h3>
 
@@ -199,7 +199,7 @@
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
 [FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
-[Gitlab CI](https://ci.gitlab.org/) |★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
+[Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
 <h4 id="gulp">Gulp 推荐包</h4>
 
@@ -229,7 +229,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
-[2015D2前端论坛](http://www.imooc.com/learn/590) |★★★★★ |Node方向的非常非常值得看，相信东哥推荐哈
+[2015D2前端论坛](http://www.imooc.com/learn/590) |★★★★★ |Node方向非常值得看，有干货，相信东哥推荐哈
 [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) |★★★★☆ | 此手册主要实现的目标：代码一致性和最佳实践
 [ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
@@ -396,6 +396,7 @@
  ----- | ----- | ------
 [windows93](http://www.windows93.net/) |★★★★☆ |模拟 Win93 桌面，思路、体验和整体效果比较有意思
 [GeekTyper](http://geektyper.com/) |★★★★☆ |好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
+[2016.makemepulse.com](http://2016.makemepulse.com/) |★★★★☆ |帅哭了。请使用现代浏览器打开
 [前端技能栈](http://skill.phodal.com/) |★★★★ |好玩的前端技能栈展示
 [Mapbox](https://www.mapbox.com/) |★★★★ |非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
 [Clark Duvall](http://www.clarkduvall.com/) |★★★★ |一枚歪果仁的个人 blog，范儿叼叼的
