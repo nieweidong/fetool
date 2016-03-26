@@ -112,7 +112,7 @@
 [requirejs](https://github.com/requirejs/requirejs) |★★★★★ |JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 [ECharts](http://echarts.baidu.com/index.html) |★★★★★ |好用，最关键的是支持的图表展示非常之多，强烈推荐
 [Swiper](http://www.swiper.com.cn) |★★★★★ |强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
-[babel](https://babeljs.io/) |★★★★☆ |```ES6``` 用起来。这个插件可以让我们用新的 **标准/提案** 写 ```JavaScript``` 代码，然后再向下 **转换编译**，最终生成随处可用的 ```JavaScript``` 代码
+[babel](https://babeljs.io/) |★★★★☆ |```ES6``` 用起来。这个插件可以让我们用新的 **标准/提案** 写 ```JavaScript``` 代码，然后再向下 **转换编译**，最终生成随处可用的 ```JavaScript``` 代码。中文文档奉上[《babel-handbook》](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/README.md)
 [fullPage](http://alvarotrigo.com/fullPage/) |★★★★☆ |非常好用的全屏滑动库，看 Demo 就明白
 [PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
@@ -233,6 +233,7 @@
  ----- | ----- | ------
 [2015D2前端论坛](http://www.imooc.com/learn/590) |★★★★★ |Node方向非常值得看，有干货，相信东哥推荐哈
 [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) |★★★★☆ | 此手册主要实现的目标：代码一致性和最佳实践
+[《babel-handbook》](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/README.md) |★★★★☆ |可以用新的规范(如 ```ES6```)写代码，经过 ```babel``` 编译后生成没有兼容问题的代码
 [ECMAScript 6入门](http://es6.ruanyifeng.com/) |★★★★☆ |阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) |★★★★☆ |翻译自官方的中文文档
 [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |★★★★☆  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
