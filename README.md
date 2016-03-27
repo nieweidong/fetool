@@ -117,7 +117,7 @@
 [PhotoSwipe](http://photoswipe.com/) |★★★★☆ |偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 [Vuejs](http://cn.vuejs.org) |★★★★☆ |比较喜欢其作者... 所以劳资正在看源码学习学习
 [favico.js](http://lab.ejci.net/favico.js/) |★★★★☆ |动态改变浏览器标签栏中的网站图标，非常好玩
-[ant.design](http://ant.design) |★★★★☆ |淘宝搞的良心项目，文档美好的令人发指 样式优雅，强烈推荐内部系统尝试此库
+[ant.design](http://ant.design) |★★★★☆ |蚂蚁金服搞的良心项目，文档美好的令人发指 样式优雅，强烈推荐内部系统尝试此库
 [highlightjs](https://highlightjs.org/) |★★★★☆ |代码高亮库，支持非常多的语言
 [nodePPT](https://github.com/ksky521/nodePPT) |★★★★ |前同事三水的大作，好用必须得支持:) 用 Markdown 写 PPT，还可以 HTML 混排，上手飞快
 [toastr](https://github.com/CodeSeven/toastr) |★★★★ |信息提示的库，推荐的原因是卖相好、功能强大  [demo](http://codeseven.github.io/toastr/demo.html)
