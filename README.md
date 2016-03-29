@@ -222,8 +222,10 @@
 [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★ |可加载 package.json 内与 Gulp 相关的插件 省去鸟一行一行 require 的功夫咯
 [gulp-clean](https://www.npmjs.com/package/gulp-clean) |★★★☆ |移除文件或文件夹的包
 [gulp-replace](https://www.npmjs.com/package/gulp-replace) |★★★☆ |其功能看名字就知道，用做字符串替换的
+[gulp-git](https://www.npmjs.com/package/gulp-git) |★★★☆ |直接在 ```Build``` 时把代码都提交到 ```git```上了...特么劳资懒起来另我自己都害怕
 [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) |★★★☆ |叼炸天的自动处理浏览器前缀的包 文档地址：[usage](https://github.com/postcss/autoprefixer#usage)
 [gulp-rename](https://www.npmjs.com/package/gulp-rename) |★★★ |把文件重命名 结构设计的好不太会用到这个
+[gulp-qiniu](https://www.npmjs.com/package/gulp-qiniu) |★★★ |用于把指定文件上传至七牛的指定路径下(PS:首先，你得有自己的七牛账号和空间)
 [gulp-flatten](https://www.npmjs.com/package/gulp-flatten) |★★★ |删除或替换文件的相对路径； 一般我这用来移动 img 或者其他静态文件到新目录 同上：结构设计的好不太会用到这个
 
 ### 精选阅读
