@@ -336,7 +336,7 @@
 [Wireshark](https://www.wireshark.org/) |★★★☆ |说实话，Mac 下木有 Fiddler 挺不习惯，不过在有更强大的替代品
 [SourceTree](https://www.sourcetreeapp.com/) |★★★☆ |一款好用的的 Git 客户端工具，重点是支持中文:)
 [focus booster](https://www.focusboosterapp.com/) |★★★ |因为比较在意时间管理，所以这软件是俺工作时间的必备之物
-[Mou](http://25.io/mou/) |★★ |小清新的 Markdown 编辑器
+[Mou](http://25.io/mou/) |☆ |我曾使用过的 mk 编辑器。原本准备去掉这个推荐，但是我想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
 
 <h4 id="linux">Linux</h4>
 
