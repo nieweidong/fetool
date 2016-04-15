@@ -120,6 +120,7 @@
 [ant.design](http://ant.design) |★★★★☆ |蚂蚁金服搞的良心项目，文档美好的令人发指 样式优雅，强烈推荐内部系统尝试此库
 [highlightjs](https://highlightjs.org/) |★★★★☆ |代码高亮库，支持非常多的语言
 [nodePPT](https://github.com/ksky521/nodePPT) |★★★★ |前同事三水的大作，好用必须得支持:) 用 Markdown 写 PPT，还可以 HTML 混排，上手飞快
+[Sortable](https://github.com/RubaXa/Sortable) |★★★★ |拖拽神器，用了就知道
 [toastr](https://github.com/CodeSeven/toastr) |★★★★ |信息提示的库，推荐的原因是卖相好、功能强大  [demo](http://codeseven.github.io/toastr/demo.html)
 [peity.js](http://benpickles.github.io/peity/) |★★★★ |jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 [emojify.js](https://github.com/Ranks/emojify.js) |★★★★ |能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
