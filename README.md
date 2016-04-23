@@ -164,6 +164,7 @@
 [co](https://www.npmjs.com/package/co) |★★★★☆ |用 generator 写法让异步代码同步
 [thenify-all](https://www.npmjs.com/package/thenify-all) |★★★★ |把异步的方法变成 Promise 的 Promisifies all the selected functions in an object
 [PhantomJS](http://phantomjs.org/) |★★★★ |一般用来做抓取截图和无界面测试 也可以用来操作 DOM 和网络监测，很好玩的库 [Quick Start](http://phantomjs.org/quick-start.html)
+[ava](https://www.npmjs.com/package/ava) |★★★★ |偶是应TJ大神推荐而得之的 ```ava``` 未来的测试运行器
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
 [everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth 的集成解决方案
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
