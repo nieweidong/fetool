@@ -203,13 +203,15 @@
  ----- | ----- | ------
 [pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。
-[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book)
+[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) 俺总结了篇[《gulp使用小结》](http://www.fefork.com/gulp_1/)，推荐您阅读:)
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
 [FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
 [Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
 <h4 id="gulp">Gulp 推荐包</h4>
+
+> 俺总结了篇[《gulp使用小结》](http://www.fefork.com/gulp_1/)，推荐您阅读:)
 
 > Gulp 最基础的库就不列在下表格中鸟，其中包括：
   - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是___连接/合并___文件
