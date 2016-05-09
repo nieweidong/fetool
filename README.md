@@ -167,6 +167,7 @@
 [ava](https://www.npmjs.com/package/ava) |★★★★ |偶是应TJ大神推荐而得之的 ```ava``` 未来的测试运行器
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
 [koa-validate](https://www.npmjs.com/package/koa-validate) |★★★★ |```koa``` 的校验库 可以非常方便的对 ```queryString``` 或 ```postBody``` 的信息进行验证
+[line-reader](https://www.npmjs.com/package/line-reader) |★★★★ |基于```steam```的按行读文件，偶处理日志时用哒
 [everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth 的集成解决方案
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
 [hashids](https://www.npmjs.com/package/hashids) |★★★☆ |看名称就懂，给 userid 加解密用的
@@ -203,7 +204,7 @@
  ----- | ----- | ------
 [pm2](https://www.npmjs.com/package/pm2) |★★★★★ |是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
 [Webpack](http://webpack.github.io/) |★★★★★ |项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。
-[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上[GulpBook](https://github.com/nimojs/gulp-book) 或 [《gulp使用小结》](http://www.fefork.com/gulp_1/)
+[Gulp](https://github.com/gulpjs/gulp/) |★★★★★ |Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 学习资料附上： [GulpBook](https://github.com/nimojs/gulp-book) 和 [《gulp使用小结》](http://www.fefork.com/gulp_1/)
 [Bower](http://bower.io/) |★★★★☆ |前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
 [Grunt](http://gruntjs.com/) |★★★★☆ |和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
 [FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
