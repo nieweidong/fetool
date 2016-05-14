@@ -167,7 +167,7 @@
 [ava](https://www.npmjs.com/package/ava) |★★★★ |偶是应TJ大神推荐而得之的 ```ava``` 未来的测试运行器
 [Mocha](https://github.com/mochajs/mocha) |★★★★ |Node 里最常用的测试框架； 它支持多种 Node 的 Assert libs； 同时支持异步和同步的测试，同时支持多种方式导出结果； 也支持直接在 browser 上跑 JS 代码测试。
 [koa-validate](https://www.npmjs.com/package/koa-validate) |★★★★ |```koa``` 的校验库 可以非常方便的对 ```queryString``` 或 ```postBody``` 的信息进行验证
-[line-reader](https://www.npmjs.com/package/line-reader) |★★★★ |基于```steam```的按行读文件，偶处理日志时用哒
+[line-reader](https://www.npmjs.com/package/line-reader) |★★★★ |基于```steam```的按行读文件，偶处理日志时用哒 要不实现一个按行读文件，又得 ```steam```、 又得 ```chunk```，还是比较麻烦的
 [everyauth](https://www.npmjs.com/package/everyauth)|★★★★ |OAuth 的集成解决方案
 [shelljs](http://documentup.com/shelljs/shelljs) |★★★☆ |写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
 [hashids](https://www.npmjs.com/package/hashids) |★★★☆ |看名称就懂，给 userid 加解密用的
@@ -365,6 +365,7 @@
 [JSONView](https://github.com/gildas-lormeau/JSONView-for-Chrome) |★★★★★ |麻麻再也不用担心偶调试接口啦
 [wappalyzer](https://wappalyzer.com/) |★★★★☆ |分析网站使用的技术 它可以检测网页的 Web 服务器、JS 框架等等
 [Postman](https://www.getpostman.com/) |★★★★ |强大的调试工具，推荐之
+[Octotree](https://github.com/buunguyen/octotree) |★★★★ |在浏览器左侧展示 ```Github``` 项目的文件导航 对经常使用 ```Github``` 的同学强烈推荐
 [gitShare](https://github.com/LukyVj/gitShare) |★★★★ |用于方便把Github项目分享到 Twitter 或 Facebook
 [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) |★★★★ |RT
 [User-Agent Switcher](http://spoofer-extension.appspot.com/) |★★★★ |模拟各种终端的 UA，达到调试目的
