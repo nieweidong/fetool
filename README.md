@@ -36,9 +36,9 @@
 - [Git](#git)
 - [数据端](#backend)
 - [杂七杂八](#other)
-- [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
 - [设计/交互](#ux)
 - [速查手册](#handbook)
+- [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
 - [小结](#summary)
 - [TODO](#todo)
 
@@ -49,21 +49,20 @@
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
 - [GitHub](https://github.com) - 没 ```Git``` 都不好意思面基有木有！！！
-- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的地方
+- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的网站
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
+- [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度游深度，要广度有广度
+- [奇舞团博客](http://www.75team.com/) - 坚持是最宝贵的，别人的奇舞周刊早已经过百期了
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
-- [前端乱炖](http://www.html-js.com) - 前端社区太多，乱炖还算做的不错的
-- [极客学院](http://www.jikexueyuan.com/course/web/) - 和慕课类似，但是内容更杂、更丰富 PS：貌似比较新颖的教程都是收费的
-- [Div.IO](http://div.io/digg) - 主要内容是最新的前端库和前沿技术
-- [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队
+- [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，排最后的原因是因为博客真的有点丑...
 
 <h3 id="blogs">前端博客</h3>
 
 > 值得长期占坑的前端个人博客，都是偶经常关注的
 
-- [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT
+- [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
 - [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 ```ES6``` 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
@@ -72,12 +71,13 @@
 
 - [hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
 - [jekyll](http://jekyll.bootcss.com/) - 将纯文本转化为静态网站和博客
+- [GithubPages](https://pages.github.com/) - 免费的静态站点。配合着 ```hexo``` 或 ```jekyll``` 的模板，分分搭建出一套炫酷的个人博客
 - [Tumblr](https://www.tumblr.com/) - 轻博客的祖师爷
 - [Wordpress](https://zh-cn.wordpress.com/) - 这玩意古老到我都不想介绍鸟
 
-> ___使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 Markdown 写文章做记录，再 push 到 Git 上，分分钟高大上有木有___
+> 使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Git``` 上，分分钟高大上有木有
 
-<h4 id="css">CSS</h4>
+<h3 id="css">CSS</h3>
 
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
@@ -93,7 +93,7 @@
 - [hamburgers](https://jonsuh.com/hamburgers/) - 简单的动画库，让 Click(or Tap) 变得美妙
 - [cssmatic](http://www.cssmatic.com) - 一个帮忙调试CSS效果的工具
 
-<h4 id="javascript">浏览端 JS</h4>
+<h3 id="javascript">浏览端 JS</h3>
 
 - [requirejs](https://github.com/requirejs/requirejs) - JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
@@ -128,7 +128,7 @@
 
 > 社区活跃、部署方便都是令我对 Node 爱不释手的主要原因
 
-<h4 id="RecPackageForNode">推荐 Package</h4>
+<h3 id="RecPackageForNode">推荐 Package</h3>
 
 ##### 这里介绍些有特色且前端有必要知道的包
 
@@ -163,7 +163,7 @@
 
 > 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
-<h4 id="RecBookForNode">Node 学习指南</h4>
+<h3 id="RecBookForNode">Node 学习指南</h3>
 
 - [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
 - [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) - 基本上每一篇都看过，强烈推荐
@@ -192,7 +192,7 @@
 
 ## 精选阅读
 
-<h4 id="fedev">前端技术</h4>
+<h3 id="fedev">前端技术</h3>
 
 - [2015D2前端论坛](http://www.imooc.com/learn/590) - Node方向非常值得看，有干货，相信东哥推荐哈
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) -  此手册主要实现的目标：代码一致性和最佳实践
@@ -205,14 +205,14 @@
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
 - [GulpBook](https://github.com/nimojs/gulp-book) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具
 
-<h4 id="interview">前端面试</h4>
+<h3 id="interview">前端面试</h3>
 
 - [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) - 非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
 - [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) - 这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
 - [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - Git 上非常火的前端面试题，```start17k+```
 - [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 主要内容是些前端面试笔试题和面试套路，值得阅读
 
-<h4 id="nodejsdev">Nodejs</h4>
+<h3 id="nodejsdev">Nodejs</h3>
 
 - [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
 - [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) - 基本上每一篇都看过，强烈推荐
@@ -220,7 +220,7 @@
 - [七天学会 NodeJS](https://github.com/alsotang/node-lessons) - 劳资还没看，不过看目录还不错:)
 - [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
 
-<h4 id="otherdev">其他技术</h4>
+<h3 id="otherdev">其他技术</h3>
 
 - [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) - 入门推荐的套路，非常浅显易懂
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
@@ -228,7 +228,7 @@
 
 ## 工具/软件
 
-<h4 id="web">Web</h4>
+<h3 id="web">Web</h3>
 
 - [CanIuse](http://caniuse.com/) - __前端必备__；查看浏览器对各种新特性的兼容情况
 - [overapi](http://overapi.com/) - 最全的开发人员在线速查手册
@@ -248,7 +248,7 @@
 - [Bootswatch](https://bootswatch.com/) - ```Bootstrap``` 的免费模板
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE/) -  又是一个 ```Bootstrap``` 的免费管理后台
 
-<h4 id="app">APP</h4>
+<h3 id="app">APP</h3>
 
 > 以下列表中的 APP 都是不区分系统平台的
 
@@ -258,7 +258,7 @@
 - [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-proxy/id1040100637?mt=8&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=&ign-mpt=uo%3D4) - 非免费 牛逼的网络开发与调试工具，前端必备
 - [Monkey](https://github.com/coderyi/Monkey) - Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名
 
-<h4 id="mac">Mac</h4>
+<h3 id="mac">Mac</h3>
 
 > 对于美好事务的追求无论何时都不算晚，前年公司给配了台 Mac 用做测试开发机，于是开始在 Mac 下办公。 __Windows？__ 回不去鸟...
 
@@ -278,7 +278,7 @@
 - [focus booster](https://www.focusboosterapp.com/) - 因为比较在意时间管理，所以这软件是俺工作时间的必备之物
 - [Mou](http://25.io/mou/) - 我曾使用过的 mk 编辑器。原本准备去掉这个推荐，但是我想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
 
-<h4 id="linux">Linux</h4>
+<h3 id="linux">Linux</h3>
 
 - [oh-my-zsh](http://ohmyz.sh/) - ___终端党___ 必用的好工具，强烈推荐
 - [tree](http://www.cnblogs.com/iadanac/p/3859481.html) - linux 以树状图逐级列出目录的内容
