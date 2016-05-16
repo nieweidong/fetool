@@ -32,7 +32,7 @@
   - [APP](#app)
   - [Mac](#mac)
   - [Linux](#linux)
-- [Chrome 浏览器插件](#BrowserPlugins)
+- [Chrome Plugins](#BrowserPlugins)
 - [Git](#git)
 - [数据端](#backend)
 - [杂七杂八](#other)
