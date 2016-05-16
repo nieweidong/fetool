@@ -122,7 +122,7 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
-### NodeJS
+## NodeJS
 
 > 作为一名大前端甚至是多端，Node 绝逼是必备的一块
 
@@ -190,7 +190,7 @@
 
 > Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
 
-### 精选阅读
+## 精选阅读
 
 <h4 id="fedev">前端技术</h4>
 
@@ -226,7 +226,7 @@
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 - [Markdown 资料](https://github.com/xirong/my-markdown) - 简单看些语法入门，快速用起来
 
-<h3>工具/软件</h3>
+## 工具/软件
 
 <h4 id="web">Web</h4>
 
