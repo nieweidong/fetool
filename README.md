@@ -35,8 +35,7 @@
   - [Linux](#linux)
 - [Chrome 浏览器插件](#BrowserPlugins)
 - [Git](#git)
-- [Redis](#redis)
-- [MongoDB](#mongodb)
+- [数据端](#backend)
 - [杂七杂八](#other)
 - [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
 - [设计/交互](#ux)
@@ -50,11 +49,11 @@
 
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
-- [GitHub](https://github.com) - 没 ```Git``` 都不好意思面基有木有！
+- [GitHub](https://github.com) - 没 ```Git``` 都不好意思面基有木有！！！
 - [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的地方
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
-- [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的 ```Sass``` 专家级
+- [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
 - [前端乱炖](http://www.html-js.com) - 前端社区太多，乱炖还算做的不错的
 - [极客学院](http://www.jikexueyuan.com/course/web/) - 和慕课类似，但是内容更杂、更丰富 PS：貌似比较新颖的教程都是收费的
@@ -68,7 +67,7 @@
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT
 - [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 ```ES6``` 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
-- [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿
+- [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
 
 <h3 id="blogbuild">博客搭建</h3>
 
@@ -313,9 +312,7 @@
 - [Git 学习资料整理](https://github.com/xirong/my-git)| |内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
-<h3 id="redis">Redis</h3>
-
-<h3 id="mongodb">MongoDB</h3>
+<h3 id="mongodb">数据端</h3>
 
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 
