@@ -210,31 +210,9 @@
 [FIS](http://fex-team.github.io/fis3/) |★★★★ |度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
 [Gitlab CI](https://ci.gitlab.org/) |★★★★ |一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
-<h4 id="gulp">Gulp 推荐包</h4>
+<h4 id="gulp">Gulp 套路</h4>
 
 > 俺总结了篇[《gulp使用小结》](http://www.fefork.com/gulp_1/)，推荐您阅读:)
-
-> Gulp 最基础的库就不列在下表格中鸟，其中包括：
-  - [gulp-concat](https://www.npmjs.com/package/gulp-concat) 作用是___连接/合并___文件
-  - [gulp-cssshrink](https://www.npmjs.com/package/gulp-cssshrink) CSS 文件压缩
-  - [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) JS 文件压缩
-
- 名称 | 推荐指数 | 备注/说明
- ----- | ----- | ------
-[gulp-webpack](https://www.npmjs.com/package/gulp-webpack) |★★★★★ |webpack 与 gulp 配合，开启前端 Build 新纪元 webpack plugin for gulp
-[gulp-rev](https://www.npmjs.com/package/gulp-rev) |★★★★☆ |高大上第一步，静态文件名称变成 HASH 名称
-[gulp-rev-collector](https://www.npmjs.com/package/gulp-rev-collector) |★★★★☆ |配合[gulp-rev](https://www.npmjs.com/package/gulp-rev)使用，自动用 HASH 替换模板内静态文件名
-[run-sequence](https://www.npmjs.com/package/run-sequence) |★★★★ |Gulp 任务机制为并行，RS 使得有依赖的任务可串行执行 使用 gulp-rev 时得用 RS 配合 要不并行的生成配置和处理.html 文件不能同事生效
-[gulp-util](https://www.npmjs.com/package/gulp-util) |★★★★ |内含一套方法库，功能太多 个人感觉更喜欢功能单一的包，不太喜欢这种大杂烩
-[gulp-connect](https://www.npmjs.com/package/gulp-connect) |★★★★ |有 reload 功能的 Run WebServer 工具 我一般用来 LivereLoad，即保存之后自动刷新页面
-[gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins) |★★★★ |可加载 package.json 内与 Gulp 相关的插件 省去鸟一行一行 require 的功夫咯
-[gulp-clean](https://www.npmjs.com/package/gulp-clean) |★★★☆ |移除文件或文件夹的包
-[gulp-replace](https://www.npmjs.com/package/gulp-replace) |★★★☆ |其功能看名字就知道，用做字符串替换的
-[gulp-git](https://www.npmjs.com/package/gulp-git) |★★★☆ |直接在 ```Build``` 时把代码都提交到 ```git```上了...特么劳资懒起来另我自己都害怕
-[gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer) |★★★☆ |叼炸天的自动处理浏览器前缀的包 文档地址：[usage](https://github.com/postcss/autoprefixer#usage)
-[gulp-rename](https://www.npmjs.com/package/gulp-rename) |★★★ |把文件重命名 结构设计的好不太会用到这个
-[gulp-qiniu](https://www.npmjs.com/package/gulp-qiniu) |★★★ |用于把指定文件上传至七牛的指定路径下(PS:首先，你得有自己的七牛账号和空间)
-[gulp-flatten](https://www.npmjs.com/package/gulp-flatten) |★★★ |删除或替换文件的相对路径； 一般我这用来移动 img 或者其他静态文件到新目录 同上：结构设计的好不太会用到这个
 
 ### 精选阅读
 
@@ -438,6 +416,7 @@
 
  名称 | 推荐指数 | 备注/说明
  ----- | ----- | ------
+[HEAD](https://github.com/joshbuchea/HEAD) |★★★★★ |最全的<head>列表，真心佩服这种偏执的整理能力
 [百度CDN公共库](http://cdn.code.baidu.com/) |★★★★☆ |基本常见的库都收录拉，搞 demo 的时候特方便
 [HTML 和 CSS 代码规范](http://codeguide.bootcss.com/) |★★★★☆ |编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
 [Linux命令中文手册](http://linux.51yip.com) |★★★★ |木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
