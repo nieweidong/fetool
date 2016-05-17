@@ -20,12 +20,12 @@
 - [Project Build](#project_build)
 - [Node Package](#node_package)
 - [Node Project](#node_project)
-- 精选阅读
+- [精选阅读](#read)
   - [前端技术](#fedev)
   - [Node 学习资料](#node_read)
   - [前端面试](#interview)
   - [其他技术](#otherdev)
-- 工具/软件
+- [工具/软件](#tools)
   - [Web](#web)
   - [APP](#app)
   - [Mac](#mac)
@@ -33,10 +33,10 @@
 - [Chrome Plugins](#BrowserPlugins)
 - [Git](#git)
 - [数据端](#backend)
-- [杂七杂八](#other)
 - [设计/交互](#ux)
 - [速查手册](#handbook)
-- [前端炫技-__炫酷狂拽叼炸天的 Web__](#cool)
+- [杂七杂八](#other)
+- [前端炫技-炫酷狂拽叼炸天的 Web](#cool)
 - [小结](#summary)
 - [TODO](#todo)
 
@@ -60,6 +60,7 @@
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
 
+
 <h3 id="blog_build">博客搭建</h3>
 
 - [hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
@@ -69,6 +70,7 @@
 - [Wordpress](https://zh-cn.wordpress.com/) - 这玩意古老到都不想介绍
 
 > 使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Git``` 上，分分钟高大上有木有
+
 
 <h3 id="html_css">HTML/CSS</h3>
 
@@ -86,6 +88,7 @@
 - [purecss](http://purecss.io/) - 小巧的响应式 CSS 库，Yahoo!出品
 - [hamburgers](https://jonsuh.com/hamburgers/) - 简单的动画库，让 Click(or Tap) 变得美妙
 - [cssmatic](http://www.cssmatic.com) - 一个帮忙调试CSS效果的工具
+
 
 <h3 id="javascript">浏览端 JS</h3>
 
@@ -116,6 +119,7 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
+
 <h3 id="project_build">Project Build</h3>
 
 - [pm2](https://www.npmjs.com/package/pm2) - 是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
@@ -133,6 +137,7 @@
 > 推荐篇与 Webpack 相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
 
 > Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
+
 
 <h3 id="node_package">Node Package</h3>
 
@@ -173,9 +178,13 @@
 
 > 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
+
 <h3 id="node_project">Node Project</h3>
 
-## 精选阅读
+  _暂无_
+
+
+<h2 id="read">精选阅读</h2>
 
 <h3 id="fedev">前端技术</h3>
 
@@ -190,6 +199,7 @@
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
 - [GulpBook](https://github.com/nimojs/gulp-book) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具
 
+
 <h3 id="node_read">Node 学习资料</h3>
 
 - [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
@@ -199,6 +209,7 @@
 - [Style Guide](https://github.com/dead-horse/node-style-guide) - 这是一份关于如何写出一致且美观的 ```Node``` 代码的风格指南
 - [koa实战](http://book.apebook.org/minghe/koa-action/index.html) - “[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
 - [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
+
 
 <h3 id="interview">前端面试</h3>
 
@@ -214,7 +225,8 @@
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 - [Markdown 资料](https://github.com/xirong/my-markdown) - 简单看些语法入门，快速用起来
 
-## 工具/软件
+
+<h2 id="tools">工具/软件</h2>
 
 <h3 id="web">Web</h3>
 
@@ -236,6 +248,7 @@
 - [Bootswatch](https://bootswatch.com/) - ```Bootstrap``` 的免费模板
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE/) -  又是一个 ```Bootstrap``` 的免费管理后台
 
+
 <h3 id="app">APP</h3>
 
 > 以下列表中的 APP 都是不区分系统平台的
@@ -245,6 +258,7 @@
 - [多看阅读](http://www.duokan.com/) - kindle 确实好，但是懒得随身带着 多看还算不错，书较多且偶尔有特价比较爽
 - [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-proxy/id1040100637?mt=8&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=&ign-mpt=uo%3D4) - 非免费 牛逼的网络开发与调试工具，前端必备
 - [Monkey](https://github.com/coderyi/Monkey) - Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名
+
 
 <h3 id="mac">Mac</h3>
 
@@ -266,12 +280,14 @@
 - [focus booster](https://www.focusboosterapp.com/) - 因为比较在意时间管理，所以这软件是俺工作时间的必备之物
 - [Mou](http://25.io/mou/) - 我曾使用过的 mk 编辑器。原本准备去掉这个推荐，但是我想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
 
+
 <h3 id="linux">Linux</h3>
 
 - [oh-my-zsh](http://ohmyz.sh/) - ___终端党___ 必用的好工具，强烈推荐
 - [tree](http://www.cnblogs.com/iadanac/p/3859481.html) - linux 以树状图逐级列出目录的内容
 - [oneapm](http://www.oneapm.com/) - 强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦)
 - [httpie](https://github.com/jkbrzt/httpie) - 一个 CLI 中的 HTTP 客户端 用法简单、易读
+
 
 <h3 id="BrowserPlugins">Chrome 浏览器插件</h3>
 
@@ -286,6 +302,7 @@
 - [Swap My Cookie](https://chrome.google.com/webstore/detail/swap-my-cookies/dffhipnliikkblkhpjapbecpmoilcama) - 切换马甲非常方便
 - [Infinity](http://infinitynewtab.com/) - 针对 Chrome 的插件，__新标签页__ 会让你耳目一新
 
+
 <h3 id="git">Git</h3>
 
 - [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
@@ -295,36 +312,11 @@
 - [Git 学习资料整理](https://github.com/xirong/my-git)| |内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
+
 <h3 id="mongodb">数据端</h3>
 
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 
-<h3 id="other">杂七杂八</h3>
-
-> 放些开发中较有用的杂物在这儿
-
-- [租房要点](https://github.com/soulteary/tenant-point) - 适用于北上广深杭，大城市打拼__租房__确实是硬伤
-- [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) - 突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
-- [.gitignore 文件](https://github.com/github/gitignore) - 介绍不同语言项目的 gitignore 模板
-- [程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money) - 中肯的文章，如果读完能有些许收获，那么恭喜你
-- [git-draw](https://github.com/ben174/git-draw) - 黑魔法，可以修改自己 Git 上的 Contributions
-- [GitBook](https://www.gitbook.com) - 写记录的好地方
-- [Codebabes](https://codebabes.com/) - 学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
-- [emailframe](http://emailframe.work/) - 邮件展示确实比较坑，建议有需要的收藏
-- [ReadmeSample](https://github.com/nieweidong/ReadmeSample)| |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
-
-<h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
-
-- [windows93](http://www.windows93.net/) - 模拟 Win93 桌面，思路、体验和整体效果比较有意思
-- [GeekTyper](http://geektyper.com/) - 好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
-- [2016.makemepulse.com](http://2016.makemepulse.com/) - 帅哭了。请使用现代浏览器打开
-- [前端技能栈](http://skill.phodal.com/) - 好玩的前端技能栈展示
-- [Mapbox](https://www.mapbox.com/) - 非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
-- [Clark Duvall](http://www.clarkduvall.com/) - 一枚歪果仁的个人 blog，范儿叼叼的
-- [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) - 好玩好看的动画库，链接是 SuperScrollorama 的展示页
-- [parallax.js](http://matthew.wagerfield.com/parallax/) - 一个视差引擎的官网，在电脑和手机上都有很好的体验
-- [CSS字母](http://yusugomori.com/projects/css-sans/fonts) - 用 CSS 实现英文字母，叼叼的
-- [墨刀](https://modao.cc/) - 一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
 
 <h3 id="ux">设计/交互</h3>
 
@@ -332,6 +324,7 @@
 
 - [站酷](http://www.zcool.com.cn/works/) - 里面好东西太多，俺当年真没少再上面淘素材
 - [UI中国](http://www.ui.cn/list.html) - 光听名字就知道有多高大上鸟:)
+
 
 <h3 id="handbook">速查手册</h3>
 
@@ -349,6 +342,35 @@
 - [Yaf](http://www.laruence.com/manual/) - 鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
 
 
+<h3 id="other">杂七杂八</h3>
+
+> 放些开发中较有用的杂物在这儿
+
+- [租房要点](https://github.com/soulteary/tenant-point) - 适用于北上广深杭，大城市打拼__租房__确实是硬伤
+- [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) - 突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
+- [.gitignore 文件](https://github.com/github/gitignore) - 介绍不同语言项目的 gitignore 模板
+- [程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money) - 中肯的文章，如果读完能有些许收获，那么恭喜你
+- [git-draw](https://github.com/ben174/git-draw) - 黑魔法，可以修改自己 Git 上的 Contributions
+- [GitBook](https://www.gitbook.com) - 写记录的好地方
+- [Codebabes](https://codebabes.com/) - 学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
+- [emailframe](http://emailframe.work/) - 邮件展示确实比较坑，建议有需要的收藏
+- [ReadmeSample](https://github.com/nieweidong/ReadmeSample)| |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
+
+
+<h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
+
+- [windows93](http://www.windows93.net/) - 模拟 Win93 桌面，思路、体验和整体效果比较有意思
+- [GeekTyper](http://geektyper.com/) - 好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
+- [2016.makemepulse.com](http://2016.makemepulse.com/) - 帅哭了。请使用现代浏览器打开
+- [前端技能栈](http://skill.phodal.com/) - 好玩的前端技能栈展示
+- [Mapbox](https://www.mapbox.com/) - 非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
+- [Clark Duvall](http://www.clarkduvall.com/) - 一枚歪果仁的个人 blog，范儿叼叼的
+- [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) - 好玩好看的动画库，链接是 SuperScrollorama 的展示页
+- [parallax.js](http://matthew.wagerfield.com/parallax/) - 一个视差引擎的官网，在电脑和手机上都有很好的体验
+- [CSS字母](http://yusugomori.com/projects/css-sans/fonts) - 用 CSS 实现英文字母，叼叼的
+- [墨刀](https://modao.cc/) - 一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
+
+
 <h3 id="summary">小结</h3>
 
 ##### 背景
@@ -363,6 +385,7 @@
   __希望通过不停的完善这篇记录，能Push劳资多了解业内的新玩具和新创意，然后围绕这些新东西，客观的再写点好东西，比如文章、资料、开源项目这些，让其他伙伴们少走弯路或学的更顺畅点儿__
 
 > 所以劳资对自己的要求是：这篇记录里列出的每样东西，自己都得的去了解、去尝试，然后再列出来。 能举一反三最好，如果达不到至少也能清楚的认识：列出来的这玩意对程序员有没有卵用，解决了啥痛点。
+
 
 <h3 id="todo">TODO</h3>
 
