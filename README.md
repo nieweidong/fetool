@@ -13,19 +13,17 @@
 ---
 
 ## 目录
-- [前端组织](#org)
-- [前端博客](#blogs)
-- [博客搭建](#blogbuild)
-- [CSS](#css)
+- [前端组织/前端博客](#blogs)
+- [博客搭建](#blog_build)
+- [HTML/CSS](#html_css)
 - [浏览端 JS](#javascript)
-- NodeJS
-  - [推荐 Package](#RecPackageForNode)
-  - [Node 学习资料](#RecBookForNode)
-- [Build 项目构建](#build)
+- [Project Build](#project_build)
+- [Node Package](#node_package)
+- [Node Project](#node_project)
 - 精选阅读
   - [前端技术](#fedev)
+  - [Node 学习资料](#node_read)
   - [前端面试](#interview)
-  - [Nodejs](#nodejsdev)
   - [其他技术](#otherdev)
 - 工具/软件
   - [Web](#web)
@@ -44,41 +42,37 @@
 
 ## 正文
 
-<h3 id="org">前端组织</h3>
+<h3 id="blogs">前端组织/前端博客</h3>
 
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
 - [GitHub](https://github.com) - 没 ```Git``` 都不好意思面基有木有！！！
 - [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的网站
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
+- [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
+- [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 [ES6](http://es6.ruanyifeng.com/) 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度游深度，要广度有广度
 - [奇舞团博客](http://www.75team.com/) - 坚持是最宝贵的，别人的奇舞周刊早已经过百期了
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
-- [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，排最后的原因是因为博客真的有点丑...
-
-<h3 id="blogs">前端博客</h3>
-
-> 值得长期占坑的前端个人博客，都是偶经常关注的
-
-- [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
-- [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 ```ES6``` 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
+- [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，博客真的有点丑...
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
 
-<h3 id="blogbuild">博客搭建</h3>
+<h3 id="blog_build">博客搭建</h3>
 
 - [hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
 - [jekyll](http://jekyll.bootcss.com/) - 将纯文本转化为静态网站和博客
 - [GithubPages](https://pages.github.com/) - 免费的静态站点。配合着 ```hexo``` 或 ```jekyll``` 的模板，分分搭建出一套炫酷的个人博客
-- [Tumblr](https://www.tumblr.com/) - 轻博客的祖师爷
-- [Wordpress](https://zh-cn.wordpress.com/) - 这玩意古老到我都不想介绍鸟
+- [Tumblr](https://www.tumblr.com/) - 轻博客的祖师爷，各种各样的主题感觉不错
+- [Wordpress](https://zh-cn.wordpress.com/) - 这玩意古老到都不想介绍
 
 > 使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Git``` 上，分分钟高大上有木有
 
-<h3 id="css">CSS</h3>
+<h3 id="html_css">HTML/CSS</h3>
 
+- [HEAD](https://github.com/joshbuchea/HEAD) - 最全的 ```<head>``` 列表，真心佩服这种偏执的整理能力
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
 - [WeUI](https://github.com/weui/weui) - 一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一
@@ -122,13 +116,29 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
-## NodeJS
+<h3 id="project_build">Project Build</h3>
 
-> 作为一名大前端甚至是多端，Node 绝逼是必备的一块
+- [pm2](https://www.npmjs.com/package/pm2) - 是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+- [Webpack](http://webpack.github.io/) - 项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。
+- [Gulp](https://github.com/gulpjs/gulp/) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 俺总结了篇[《gulp使用小结》](http://www.fefork.com/gulp_1/)，推荐您阅读:)
+- [Bower](http://bower.io/) - 前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
+- [Grunt](http://gruntjs.com/) - 和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
+- [FIS](http://fex-team.github.io/fis3/) - 度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
+- [Gitlab CI](https://ci.gitlab.org/) - 一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
 
-> 社区活跃、部署方便都是令我对 Node 爱不释手的主要原因
+> Gulp + Webpack 的使用__套路__参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
-<h3 id="RecPackageForNode">推荐 Package</h3>
+> Gulp 资料收集：[use-gulp](https://github.com/Platform-CUF/use-gulp)
+
+> 推荐篇与 Webpack 相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
+
+> Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
+
+<h3 id="node_package">Node Package</h3>
+
+> 作为一名大前端甚至是多端，```Node``` 绝逼是必备的一块
+
+> 有关 ```Node``` 的学习资料，请访问
 
 ##### 这里介绍些有特色且前端有必要知道的包
 
@@ -163,32 +173,7 @@
 
 > 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
-<h3 id="RecBookForNode">Node 学习指南</h3>
-
-- [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
-- [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) - 基本上每一篇都看过，强烈推荐
-- [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) - 值得阅读，看完绝不用买书鸟
-- [七天学会 NodeJS](https://github.com/alsotang/node-lessons) - 劳资还没看，不过看目录还不错:)
-- [Style Guide](https://github.com/dead-horse/node-style-guide) - 这是一份关于如何写出一致且美观的 ```Node.js``` 代码的风格指南
-- [koa实战](http://book.apebook.org/minghe/koa-action/index.html) - “[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
-
-<h3 id="build">Build 项目构建</h3>
-
-- [pm2](https://www.npmjs.com/package/pm2) - 是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
-- [Webpack](http://webpack.github.io/) - 项目构建工具，由于过于复杂和太强大，所以劳资还没去深入研究。
-- [Gulp](https://github.com/gulpjs/gulp/) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具。 俺总结了篇[《gulp使用小结》](http://www.fefork.com/gulp_1/)，推荐您阅读:)
-- [Bower](http://bower.io/) - 前端项目的包管理其实是件复杂的事 谁谁谁依赖谁谁谁，谁谁谁依赖谁谁谁的某个版本...卧槽 Bower 就是搞定这件事儿的，亲爹是 Twitter 推荐篇 Bower 的中文文章：[《bower 解决 js 的依赖管理》](http://blog.fens.me/nodejs-bower-intro/)
-- [Grunt](http://gruntjs.com/) - 和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
-- [FIS](http://fex-team.github.io/fis3/) - 度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
-- [Gitlab CI](https://ci.gitlab.org/) - 一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
-
-> Gulp + Webpack 的使用__套路__参考: [learning-gulp](https://github.com/demohi/learning-gulp)
-
-> Gulp 资料收集：[use-gulp](https://github.com/Platform-CUF/use-gulp)
-
-> 推荐篇与 Webpack 相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
-
-> Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
+<h3 id="node_project">Node Project</h3>
 
 ## 精选阅读
 
@@ -205,6 +190,16 @@
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
 - [GulpBook](https://github.com/nimojs/gulp-book) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具
 
+<h3 id="node_read">Node 学习资料</h3>
+
+- [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
+- [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) - 基本上每一篇都看过，强烈推荐
+- [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) - 值得阅读，看完绝不用买书鸟
+- [七天学会 NodeJS](https://github.com/alsotang/node-lessons) - 劳资还没看，不过看目录还不错:)
+- [Style Guide](https://github.com/dead-horse/node-style-guide) - 这是一份关于如何写出一致且美观的 ```Node``` 代码的风格指南
+- [koa实战](http://book.apebook.org/minghe/koa-action/index.html) - “[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
+- [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
+
 <h3 id="interview">前端面试</h3>
 
 - [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) - 非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
@@ -212,13 +207,6 @@
 - [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - Git 上非常火的前端面试题，```start17k+```
 - [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 主要内容是些前端面试笔试题和面试套路，值得阅读
 
-<h3 id="nodejsdev">Nodejs</h3>
-
-- [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
-- [从零开始 NodeJS 系列文章](http://blog.fens.me/series-nodejs/) - 基本上每一篇都看过，强烈推荐
-- [Node.js 包教不包会](http://nqdeng.github.io/7-days-nodejs/) - 值得阅读，看完绝不用买书鸟
-- [七天学会 NodeJS](https://github.com/alsotang/node-lessons) - 劳资还没看，不过看目录还不错:)
-- [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
 
 <h3 id="otherdev">其他技术</h3>
 
@@ -349,7 +337,7 @@
 
 > RT，这篇都是些文档或者API，一般这类东西都在大家浏览器的书签内，偶这也列一下大前端常用的手册地址
 
-- [HEAD](https://github.com/joshbuchea/HEAD) - 最全的<head>列表，真心佩服这种偏执的整理能力
+- [HEAD](https://github.com/joshbuchea/HEAD) - 最全的 ```<head>``` 列表，真心佩服这种偏执的整理能力
 - [百度CDN公共库](http://cdn.code.baidu.com/) - 基本常见的库都收录拉，搞 demo 的时候特方便
 - [HTML 和 CSS 代码规范](http://codeguide.bootcss.com/) - 编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
 - [Linux命令中文手册](http://linux.51yip.com) - 木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
