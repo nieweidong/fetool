@@ -15,7 +15,8 @@
 ## 目录
 - [前端组织/前端博客](#blogs)
 - [博客搭建](#blog_build)
-- [HTML/CSS](#html_css)
+- [HTML](#html)
+- [CSS](#css)
 - [浏览端 JS](#javascript)
 - [Project Build](#project_build)
 - [Node Package](#node_package)
@@ -46,7 +47,7 @@
 
 > 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
 
-- [GitHub](https://github.com) - 没 ```Git``` 都不好意思面基有木有！！！
+- [GitHub](https://github.com) - 没 ```Github``` 都不好意思面基有木有！！！
 - [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的网站
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
@@ -63,18 +64,36 @@
 
 <h3 id="blog_build">博客搭建</h3>
 
-- [hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
-- [jekyll](http://jekyll.bootcss.com/) - 将纯文本转化为静态网站和博客
-- [GithubPages](https://pages.github.com/) - 免费的静态站点。配合着 ```hexo``` 或 ```jekyll``` 的模板，分分搭建出一套炫酷的个人博客
+- [Hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架，```Github``` 地址:[Hexo](https://github.com/hexojs/hexo)
+- [Jekyll](http://jekyll.bootcss.com/) - 将纯文本转化为静态网站和博客，```Github``` 地址：[Jekyll](https://github.com/jekyll/jekyll)
+- [GithubPages](https://pages.github.com/) - 免费的静态站点。配合着 ```Hexo``` 或 ```Jekyll``` 的模板，分分搭建出一套炫酷的个人博客
 - [Tumblr](https://www.tumblr.com/) - 轻博客的祖师爷，各种各样的主题感觉不错
 - [Wordpress](https://zh-cn.wordpress.com/) - 这玩意古老到都不想介绍
 
-> 使用 ```hexo/jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Git``` 上，分分钟高大上有木有
+> 使用 ```Hexo/Jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Github``` 上，分分钟高大上有木有
 
+再推荐三款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错。
+- [NexT](https://github.com/iissnan/hexo-theme-next)
+- [Yilia](https://github.com/litten/hexo-theme-yilia)
+- [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 
-<h3 id="html_css">HTML/CSS</h3>
+不能偏心，所以也推荐三款 ```Jekyll``` 的好主题
+- [So Simple](https://github.com/mmistakes/so-simple-theme) 如果你看过俺的博客，对这个主题就肯定不会陌生啦
+- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
+- [beautiful](https://github.com/daattali/beautiful-jekyll#readme)
+
+<h3 id="html">HTML</h3>
+
+纯 ```HTML``` 相关其实没有好玩的项目，所以这儿展示的内容主要都是一些模板，而且以下列出来的都是免费的，方便拿取搭架后台或者博客
 
 - [HEAD](https://github.com/joshbuchea/HEAD) - 最全的 ```<head>``` 列表，真心佩服这种偏执的整理能力
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - 很小清新的后台模板，每次看[preview](https://almsaeedstudio.com/preview) 页面都觉得很有视觉冲击
+- [gentelella](https://github.com/puikinsh/gentelella) - 刚用这个搭建了我司内部用的的数据平台，效果喜人。模板实现的功能比较全，比如登录、注册甚至各种 ```widget```，所以最终交付的时候，自己几乎没写几行CSS。
+- [material-design-lite](https://github.com/google/material-design-lite) - ```Star``` 数超过2W的开源模板项目，包含了多套简洁的 ```templates```，可以用于博客、后台或者企业首页。
+
+
+<h3 id="css">CSS</h3>
+
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
 - [WeUI](https://github.com/weui/weui) - 一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一
@@ -108,6 +127,7 @@
 - [toastr](https://github.com/CodeSeven/toastr) - 信息提示的库，推荐的原因是卖相好、功能强大  [demo](http://codeseven.github.io/toastr/demo.html)
 - [peity.js](http://benpickles.github.io/peity/) - jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 - [emojify.js](https://github.com/Ranks/emojify.js) - 能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
+- [Push.js](https://github.com/Nickersoft/push.js) - 基于 ```Notification API``` 实现的桌面效果的提示栏。浏览器支持情况不错，如[http://caniuse.com/#search=Notification](http://caniuse.com/#search=Notification)
 - [Highcharts](http://www.hcharts.cn/)| |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
 - [NProgress](https://github.com/rstacruz/nprogress/) - 使页面加载时有更好的loading效果
 - [Noticejs](https://github.com/jaredreich/notie.js) - 一个简单的通知库，木有依赖
@@ -303,10 +323,10 @@
 - [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) 可以截取整个网页、部分页面，然后支持导出为各种格式。俺微博上发的网页全景图都是靠这个插件截取的
 - [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) - 好不好用有点见仁见智了，但是我个人比较喜欢。使用后会让你的 **新标签页** 耳目一新，有漂亮的背景和各种常用的功能，比如地图、天气、```Gmail```、```Chrome```商店等等。当然，在这个插件的设置中还可以设置壁纸、动画效果等等
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) 同样也是 **新标签页** 的插件，但是不管是视觉上(高清大图)还是功能上，都比 [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) 高大上不少，```Setting``` 里面有不少设置和快捷键，都很好上手的。[Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg)胜在中文和直观，[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)胜在视觉冲击。俺基本上这俩款看心情换着用，所以希望你也都能喜欢:)
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 在浏览器左侧展示 ```Github``` 项目的文件导航，使目录结构一目了然，而且我们国内 ```Git``` 的访问速度又不稳定，用这个工具也就很提效率了。对经常使用 ```Github``` 的同学强烈推荐
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 在浏览器左侧展示 ```Github``` 项目的文件导航，使目录结构一目了然，而且我们国内 ```Github``` 的访问速度又不稳定，用这个工具也就很提效率了。对经常使用 ```Github``` 的同学强烈推荐
 - [BuiltWith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn) / [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) / [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - 几款超强的网站分析工具，可以给出网站非常多的技术栈信息。大到 ```Web Servers```、服务端的 ```Frameworks``` 或 ```JS``` 框架，小到 ```meta```、编码格式甚至 ```Analytics```，非常推荐
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related) 非常非常有名的免费的过滤广告的插件。PS：广告屏蔽这个见仁见智，其实俺个人还是比较接受一些个性化推荐的广告
-- [GitPlug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp) - 在 ```Git``` 项目页中嵌入有关的图表信息，直观的展示当前项目的 ```Star Trend```，能方便看到当前这个开源项目的发起时间，火爆趋势；对比较知名的项目还有相关的 ```News``` 展示
+- [GitPlug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp) - 在 ```Github``` 项目页中嵌入有关的图表信息，直观的展示当前项目的 ```Star Trend```，能方便看到当前这个开源项目的发起时间，火爆趋势；对比较知名的项目还有相关的 ```News``` 展示
 
 补充：
 
@@ -319,7 +339,7 @@
 - [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
 - [GitAwards](http://github-awards.com/) - Git 工具，可以查看 Git 排名
 - [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
-- [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 入门```Git```的简明指南，木有高深内容:)
+- [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 入门```Github```的简明指南，木有高深内容:)
 - [Git 学习资料整理](https://github.com/xirong/my-git)| |内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
@@ -386,7 +406,7 @@
 
 ##### 背景
   俺算个比较能自我总结的码农，所以偶尔喜欢写点东西做些记录或者自我熏陶陶醉一下。
-  可写着写着发现```Evernote```里面的东西太尼玛多(乱)了，于是想着把一些技术相关的资料都整理整理，都丢到```Git```上沉淀下来。 这样Evernote就可以只需要记录些偏生活方便的，看着清爽一些...
+  可写着写着发现```Evernote```里面的东西太尼玛多(乱)了，于是想着把一些技术相关的资料都整理整理，都丢到```Github```上沉淀下来。 这样Evernote就可以只需要记录些偏生活方便的，看着清爽一些...
 
   所以，这篇记录其实只是为偶自己而写，确信以后也一直会这样~~~
 
