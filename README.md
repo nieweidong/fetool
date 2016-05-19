@@ -315,9 +315,9 @@
 
 以下插件都是俺多年积累淘出来的，数量不多，所以就不区分 ```Github``` 插件和非 ```Github``` 插件了。按照俺推荐的强度自上向下展示，且大多数插件就是偶工作和生活必备，希望能对大家有用。后续如有新发现好插件，偶也会及时更新哒。
 
-- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - ```POST``` 接口调试终结者，异常强大的接口调试工具，稍稍有一点学习成本，推荐之
-- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - 就是一个 ```JSON``` 的查看工具，可以很方便的展示数据，麻麻再也不用担心偶调试接口啦。PS：同类插件有不少，所以用的开心就行
-- [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) - RT，不多说明了。PS：这FF早已经自带生成二维码工具了，```Chrome``` 还得装插件才行，任性...
+- [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - ```POST``` 接口调试终结者，异常强大的接口调试工具。稍稍有一点学习成本，推荐之
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - 就是个 ```JSON``` 格式的查看工具，可以很方便的展示数据，麻麻再也不用担心偶调试接口啦。PS：同类插件有不少，所以用的开心就行
+- [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) - RT。PS：这FF早已经自带生成二维码工具了，```Chrome``` 还得装插件才行，任性...
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) 前端必备的颜色提取神器，操作简单容易上手
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) 前端必备的尺子。计算页面元素间距、位置等信息的时候，你就知道它的好了，无脑上手，你值得拥有
 - [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) 可以截取整个网页、部分页面，然后支持导出为各种格式。俺微博上发的网页全景图都是靠这个插件截取的
@@ -326,7 +326,7 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 在浏览器左侧展示 ```Github``` 项目的文件导航，使目录结构一目了然，而且我们国内 ```Github``` 的访问速度又不稳定，用这个工具也就很提效率了。对经常使用 ```Github``` 的同学强烈推荐
 - [BuiltWith](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn) / [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) / [Chrome Sniffer Plus](https://chrome.google.com/webstore/detail/chrome-sniffer-plus/fhhdlnnepfjhlhilgmeepgkhjmhhhjkh) - 几款超强的网站分析工具，可以给出网站非常多的技术栈信息。大到 ```Web Servers```、服务端的 ```Frameworks``` 或 ```JS``` 框架，小到 ```meta```、编码格式甚至 ```Analytics```，非常推荐
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/related) 非常非常有名的免费的过滤广告的插件。PS：广告屏蔽这个见仁见智，其实俺个人还是比较接受一些个性化推荐的广告
-- [Wide Github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj/related) 无聊又实用的 ```Github``` 插件。无聊是因为这个插件就特么一个功能，**加宽**，能让 ```Github``` 页面变宽，每行展示更多的内容。非常推荐 ```Mac``` 用户实用，因为屏幕比较不大，变宽后阅读感觉更好
+- [Wide Github](https://chrome.google.com/webstore/detail/wide-github/kaalofacklcidaampbokdplbklpeldpj/related) 无聊又实用的 ```Github``` 插件。无聊是因为这个插件就特么一个功能，**加宽**，能让 ```Github``` 页面变宽，每行展示更多的内容，尤其配合着[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)，展示效果极佳。非常推荐 ```Mac``` 用户实用，因为屏幕比较不大，变宽后阅读感觉更好
 - [GitPlug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp) - 在 ```Github``` 项目页中嵌入有关的图表信息，直观的展示当前项目的 ```Star Trend```，能方便看到当前这个开源项目的发起时间，火爆趋势；对比较知名的项目还有相关的 ```News``` 展示
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 在 ```package.json``` 或任意 ```.js``` 文件中，可以方便的对 ```require()``` 的 ```package``` 进去点击，跳转去对应的 ```Github``` 页面。PS：特么不太好表达，建议你去这个插件的概述页，里面有个十来秒的视频，看完就明白鸟
 
