@@ -33,6 +33,7 @@
   - [Linux](#linux)
 - [Chrome Plugins](#BrowserPlugins)
 - [Git](#git)
+- [服务端](#servers)
 - [数据端](#backend)
 - [设计/交互](#ux)
 - [速查手册](#handbook)
@@ -96,6 +97,7 @@
 <h3 id="css">CSS</h3>
 
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
+- [Font-Awesome](http://fontawesome.io/) - 图标字体库。相类似的库有不少，大厂都喜欢造轮子嘛:)
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
 - [WeUI](https://github.com/weui/weui) - 一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一
 - [PostCSS](https://github.com/postcss/postcss) - 最近才知道大名鼎鼎[Autoprefixer](https://github.com/postcss/autoprefixer)是其插件 推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案
@@ -202,7 +204,7 @@
 
 <h3 id="node_project">Node Project</h3>
 
-  _暂无_
+_暂无_
 
 
 <h2 id="read">精选阅读</h2>
@@ -347,7 +349,14 @@
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
 
-<h3 id="mongodb">数据端</h3>
+<h3 id="servers">服务端</h3>
+
+如 ```Ruby、Python、Perl``` 等相似的服务端语言的学习资源。
+
+_暂无_
+
+
+<h3 id="backend">数据端</h3>
 
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 
