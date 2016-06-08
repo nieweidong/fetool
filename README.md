@@ -287,6 +287,7 @@ _暂无_
 
 > 对于美好事务的追求无论何时都不算晚，前年公司给配了台 Mac 用做测试开发机，于是开始在 Mac 下办公。 __Windows？__ 回不去鸟...
 
+- [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - **Free** 绝对的Top1。如果想知道具体咋用，推荐阅读老池(池建强)的一篇文章：[《神兵利器—Alfred》](http://www.cnblogs.com/chijianqiang/p/alfred.html)
 - [Homebrew](http://brew.sh/) - 没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
 - [iTerm2](http://www.iterm2.com/) - Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) - 偶正在使用的网页截图工具，强烈推荐
