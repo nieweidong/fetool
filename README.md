@@ -287,7 +287,7 @@ _暂无_
 
 > 对于美好事务的追求无论何时都不算晚，前年公司给配了台 Mac 用做测试开发机，于是开始在 Mac 下办公。 __Windows？__ 回不去鸟...
 
-- [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - **Free** 绝对的Top1。如果想知道具体咋用，推荐阅读老池(池建强)的一篇文章：[《神兵利器—Alfred》](http://www.cnblogs.com/chijianqiang/p/alfred.html)
+- [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - 绝对的Top1。除了打开应用程序之外，查找文件、全文检索、调起浏览器搜索和计数器都是俺经常使用的功能。如果想知道具体咋用，推荐阅读老池(池建强)的一篇文章：[《神兵利器—Alfred》](http://www.cnblogs.com/chijianqiang/p/alfred.html)
 - [Homebrew](http://brew.sh/) - 没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
 - [iTerm2](http://www.iterm2.com/) - Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) - 偶正在使用的网页截图工具，强烈推荐
@@ -295,6 +295,7 @@ _暂无_
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - 能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
 - [Sequel Pro](http://www.sequelpro.com) - 免费好用的Mysql工具
 - [LICEcap](http://www.cockos.com/licecap/) - 屏幕录制工具，支持导出 GIF 动画图片格式 轻量级、使用简单，录制过程中可以改变录屏范围
+- [Bartender](https://www.macbartender.com/) - 有免费试用版(一个月)。Mac右上角菜单的管理工具，试用之后右上角的菜单瞬间清爽了
 - [Manico](http://manico.im/) - 快捷启动和切换 APP 的工具，高效的第一步 AppStore 上收费，不过可以免费试用
 - [WebStorm](http://www.jetbrains.com/webstorm/) - 功能超强的前端 IDE，不多介绍，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...
 - [Atom](https://atom.io) - 2015 年 7 月之前，在桌面环境下我最喜欢的编辑器是 Sublime。 但之后就是 Atom，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
