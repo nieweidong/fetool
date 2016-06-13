@@ -393,7 +393,7 @@ _暂无_
 
 > 放些开发中较有用的杂物在这儿
 
-- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - RT。“當你拋出一個技術問題時，最終是否能得到有用的回答，往往取決於你所提問和追問的方式。本指南將教你如何正確的提問以獲得你滿意的答案。”——摘自原文
+- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - RT，[简体版](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)。“當你拋出一個技術問題時，最終是否能得到有用的回答，往往取決於你所提問和追問的方式。本指南將教你如何正確的提問以獲得你滿意的答案。”——摘自原文
 - [租房要点](https://github.com/soulteary/tenant-point) - 适用于北上广深杭，大城市打拼__租房__确实是硬伤
 - [QQ 群规](https://github.com/jsfront/src/blob/master/qq.md) - 突然某天，有个 QQ 群让我加群 原本我是拒绝的，但当我看完这篇 QQ 群规后... 劳资真的被感动到了，太牛逼、够专业！ 最后，我默默加群鸟:)
 - [.gitignore 文件](https://github.com/github/gitignore) - 介绍不同语言项目的 gitignore 模板
