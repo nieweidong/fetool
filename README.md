@@ -289,6 +289,7 @@ _暂无_
 
 - [Alfred](https://www.macupdate.com/app/mac/34344/alfred) - 绝对的Top1。除了打开应用程序之外，查找文件、全文检索、调起浏览器搜索和计数器都是俺经常使用的功能。如果想知道具体咋用，推荐阅读老池(池建强)的一篇文章：[《神兵利器—Alfred》](http://www.cnblogs.com/chijianqiang/p/alfred.html)
 - [Homebrew](http://brew.sh/) - 没它程序猿没法好好干活... ```Homebrew```使```OS X```更完美。 使用```gem```来安装```gems```、用```brew```来搞定那些依赖包
+- [HyperDock](https://bahoom.com/hyperdock/) - 价格￥68，但感觉还是比较值的。预览和快速切换不说，能用快捷键控制窗口，能让拖拽到边缘的窗口自动调整大小(window早就有的功能)，真心能提高效率。推荐篇中文的文章：[让Mac的窗口飞](http://www.cnblogs.com/ider/p/let-mac-window-fly-with-hyperdock.html)
 - [iTerm2](http://www.iterm2.com/) - Mac 终端功能少又不好看，iTerm2 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) - 偶正在使用的网页截图工具，强烈推荐
 - [BeyondCompare](http://www.scootersoftware.com) - 在Windows下就开始用了 比对文件和文件夹杠杠好使，Merge必备工具
