@@ -29,7 +29,8 @@
 - [工具/软件](#tools)
   - [Web](#web)
   - [APP](#app)
-  - [Mac](#mac)
+  - [Mac 软件篇](#mac_soft)
+  - [Mac 开发篇](#mac_dev)
   - [Linux](#linux)
 - [Chrome Plugins](#BrowserPlugins)
 - [Git](#git)
@@ -283,7 +284,7 @@ _暂无_
 - [Monkey](https://github.com/coderyi/Monkey) - Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名
 
 
-<h3 id="mac">Mac</h3>
+<h3 id="mac_soft">Mac 软件篇</h3>
 
 > 对于美好事务的追求无论何时都不算晚，前年公司给配了台 Mac 用做测试开发机，于是开始在 Mac 下办公。 __Windows？__ 回不去鸟...
 
@@ -307,6 +308,11 @@ _暂无_
 - [Mou](http://25.io/mou/) - 我曾使用过的 mk 编辑器。原本准备去掉这个推荐，但是我想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
 
 
+<h3 id="mac_dev">Mac 开发篇</h3>
+
+__暂无__
+
+
 <h3 id="linux">Linux</h3>
 
 - [oh-my-zsh](http://ohmyz.sh/) - ___终端党___ 必用的好工具，强烈推荐
@@ -326,6 +332,7 @@ _暂无_
 - [二维码生成器](https://chrome.google.com/webstore/detail/%E4%BA%8C%E7%BB%B4%E7%A0%81qr%E7%A0%81%E7%94%9F%E6%88%90%E5%99%A8/pflgjjogbmmcmfhfcnlohagkablhbpmg) - RT。PS：这FF早已经自带生成二维码工具了，```Chrome``` 还得装插件才行，任性...
 - [WEB前端助手(FeHelper)](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad) - [百度FE](https://www.baidufe.com/)出品，功能超全的 Chrome 插件。简单列一下其功能：QR码生成器、字符串编解码工具、JSON格式化查看器、前端编码规范检测、代码压缩工具、页面取色工具、统计并分析网页加载性能等等
 - [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) - 前端必备的颜色提取神器，操作简单容易上手
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 和 ```Vim``` 快捷键一样，浏览网站时不需要鼠标咯
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) - 前端必备的尺子。计算页面元素间距、位置等信息的时候，你就知道它的好了，无脑上手，你值得拥有
 - [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 可以截取整个网页、部分页面，然后支持导出为各种格式。俺微博上发的网页全景图都是靠这个插件截取的
 - [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) - 好不好用有点见仁见智了，但是我个人比较喜欢。使用后会让你的 **新标签页** 耳目一新，有漂亮的背景和各种常用的功能，比如地图、天气、```Gmail```、```Chrome```商店等等。当然，在这个插件的设置中还可以设置壁纸、动画效果等等
