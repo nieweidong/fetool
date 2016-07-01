@@ -121,6 +121,7 @@
 - [fullPage](http://alvarotrigo.com/fullPage/) - 非常好用的全屏滑动库，看 Demo 就明白
 - [PhotoSwipe](http://photoswipe.com/) - 偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 - [Vuejs](http://cn.vuejs.org) - 比较喜欢其作者... 所以劳资正在看源码学习学习
+- [mixitup](https://github.com/patrickkunka/mixitup) 一款基于 ```jQuery``` 的 **排序/过滤** 的JS库，最关键是有着美妙的动画效果
 - [favico.js](http://lab.ejci.net/favico.js/) - 动态改变浏览器标签栏中的网站图标，非常好玩
 - [ant.design](http://ant.design) - 蚂蚁金服搞的良心项目，文档美好的令人发指 样式优雅，强烈推荐内部系统尝试此库
 - [highlightjs](https://highlightjs.org/) - 代码高亮库，支持非常多的语言
