@@ -440,6 +440,7 @@ _暂无_
 - [2016.makemepulse.com](http://2016.makemepulse.com/) - 帅哭了。请使用现代浏览器打开
 - [前端技能栈](http://skill.phodal.com/) - 好玩的前端技能栈展示
 - [Mapbox](https://www.mapbox.com/) - 非常叼的开源项目，有方便的 JSAPI(还有 SDK)。 不过免费版只能浅尝，流量有限。 PS：网站需要翻墙
+- [mixitup](https://mixitup.kunkalabs.com/) 一款基于 ```jQuery``` 的 **排序/过滤** 的JS库，最关键是有着美妙的动画效果
 - [Clark Duvall](http://www.clarkduvall.com/) - 一枚歪果仁的个人 blog，范儿叼叼的
 - [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/) - 好玩好看的动画库，链接是 SuperScrollorama 的展示页
 - [parallax.js](http://matthew.wagerfield.com/parallax/) - 一个视差引擎的官网，在电脑和手机上都有很好的体验
