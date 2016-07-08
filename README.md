@@ -114,6 +114,7 @@
 
 <h3 id="javascript">浏览端 JS</h3>
 
+- [JavaScript Standard Style](http://standardjs.com/) - 强烈推荐，尤其适合技术 Leader。优秀的 JS 编码规范是好前端团队的开始
 - [requirejs](https://github.com/requirejs/requirejs) - JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
 - [Swiper](http://www.swiper.com.cn) - 强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
