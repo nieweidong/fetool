@@ -114,7 +114,6 @@
 
 <h3 id="javascript">浏览端 JS</h3>
 
-- [JavaScript Standard Style](http://standardjs.com/) - 强烈推荐，尤其适合技术 Leader。优秀的 JS 编码规范是好前端团队的开始
 - [requirejs](https://github.com/requirejs/requirejs) - JS模块化是构建复杂项目的第一步 中文学习文档奉上：[RequireJS 中文网](http://www.requirejs.cn/)
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
 - [Swiper](http://www.swiper.com.cn) - 强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
@@ -218,6 +217,7 @@ _暂无_
 - [2015D2前端论坛](http://www.imooc.com/learn/590) - Node方向非常值得看，有干货，相信东哥推荐哈
 - [前端开发规范手册](http://zhibimo.com/read/Ashu/front-end-style-guide/index.html) -  此手册主要实现的目标：代码一致性和最佳实践
 - [《babel-handbook》](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/README.md) - 可以用新的规范(如 ```ES6```)写代码，经过 ```babel``` 编译后生成没有兼容问题的代码
+- [JavaScript Standard Style](http://standardjs.com/) - 强烈推荐，尤其适合技术 Leader。优秀的 JS 编码规范是好前端团队的开始
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 - [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) - 翻译自官方的中文文档
 - [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
@@ -406,6 +406,7 @@ _暂无_
 
 > RT，这篇都是些文档或者API，一般这类东西都在大家浏览器的书签内，偶这也列一下大前端常用的手册地址
 
+- [JavaScript Standard Style](http://standardjs.com/) - 强烈推荐，尤其适合技术 Leader。优秀的 JS 编码规范是好前端团队的开始
 - [HEAD](https://github.com/joshbuchea/HEAD) - 最全的 ```<head>``` 列表，真心佩服这种偏执的整理能力
 - [百度CDN公共库](http://cdn.code.baidu.com/) - 基本常见的库都收录拉，搞 demo 的时候特方便
 - [HTML 和 CSS 代码规范](http://codeguide.bootcss.com/) - 编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范
