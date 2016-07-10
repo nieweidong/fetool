@@ -323,9 +323,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 
 > 作为一名程序员兼工具控，我期待自己无比高效
 
-- 首先，以下所有项目都是免费哒；
-- 然后，除了 ```Homebrew``` 和 ```Xcode``` 是 ```OS X``` 特有，其他的工具 ```Linux``` 和 ```Mac``` 都可以使用哈
-- 最后，以下所有项目都是针对 ```CLI(命令行界面)``` 哒
+首先，都是免费哒；然后，所列项目都是针对 ```CLI(命令行界面)``` 哒；最后，探索无止境
 
 - [oh-my-zsh](http://ohmyz.sh/) - ___终端党___ 必备，好处太多太多，比如炫酷的外观，超强的易用性...推荐大家阅读知乎的问题：[《为什么说 zsh 是 shell 中的极品？》](https://www.zhihu.com/question/21418449)
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - Vim 党必备。用于管理各种 Vim 插件，有 Git 就可以安装 ```$ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle```
