@@ -333,6 +333,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [oneapm](http://www.oneapm.com/) - 强大的运维工具，提供多种监控客户端； 有采集、分析、展示等一套功能； PS：我这用了服务器监控(免费哦)
 - [httpie](https://github.com/jkbrzt/httpie) - 一个 CLI 中的 HTTP 客户端，用法简单，非常适合用来搞调试、测试
 - [ESLint](http://eslint.org/) - 前端大神[Nicholas C. Zakas](http://nczonline.net/)创建。JavaScript 辅助编码的规范工具，有效控制偶们的代码质量
+- [cmatrix](http://www.asty.org/cmatrix/) - 作用就是装逼，可以在屏幕上显示经典的黑客帝国的数码雨效果(看官方文档上也有其他效果，俺就不往细研究了)。在 Mac 下安装非常简单，一步搞定：`$ brew install cmatrix`
 
 **Mac**
 - [Homebrew](http://brew.sh/) - 有了他 ```OS X``` 程序猿能更好的专注代码层面。最近在看《七周七语言》，里面出现各种语言环境，用 ```brew``` 来安装、管理各种解释器和编译器，省心省力！
