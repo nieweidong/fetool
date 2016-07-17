@@ -327,7 +327,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 首先，都是免费哒；然后，所列项目都是针对 ```CLI(命令行界面)``` 哒；最后，探索无止境
 
 - [oh-my-zsh](http://ohmyz.sh/) - ___终端党___ 必备，好处太多太多，比如炫酷的外观，超强的易用性...推荐大家阅读知乎的问题：[《为什么说 zsh 是 shell 中的极品？》](https://www.zhihu.com/question/21418449)
-- [spf13-vim](https://github.com/spf13/spf13-vim) - 对于 Vim 偶之前做了好多文档和记录，但是自从了解有这套 spf13，那些记录都可以丢掉了。不过建议想了解的去看看 .vimrc 中的 Plugin，确实足够大而全
+- [spf13-vim](https://github.com/spf13/spf13-vim) - 对于 Vim 偶之前做了好多文档和记录，但是自从了解有这个套路，那些记录都可以丢掉了。不过建议想了解的去看看 .vimrc 中的 Plugin，确实足够大而全。PS：如果遇见 ```neocomplete does not work``` 之类的错误，可以参考 [Problems with Vim and lua?](http://stackoverflow.com/questions/26724859/problems-with-vim-and-lua)
 - [Vundle](https://github.com/VundleVim/Vundle.vim) - Vim 党必备。用于管理各种 Vim 插件，有 Git 就可以安装 ```$ git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle```
 - [tree](http://mama.indstate.edu/users/ice/tree/) - linux 以树状图逐级列出目录的内容，装逼效果和实用功能都不错
 - [cloc](http://cloc.sourceforge.net/) - 可用来计算 文件夹中各种语言的代码占比情况。展示内容非常直观，如某目录下 ```JavaScript``` 有多少个文件，共多少空格行数、注释行数、代码行数，就这些简单粗暴的内容。常见的安装方式可通过 ```npm``` 来进行安装。
