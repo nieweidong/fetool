@@ -103,7 +103,7 @@
 - [PostCSS](https://github.com/postcss/postcss) - 最近才知道大名鼎鼎[Autoprefixer](https://github.com/postcss/autoprefixer)是其插件 推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案
 - [CSSgram](https://github.com/una/CSSgram) - 图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
 - [HINT.css](https://github.com/chinchang/hint.css) - 一款非常小巧的提示框效果
-- [Balloon.css](http://kazzkiq.github.io/balloon.css/)| |同上，一款非常小巧的提示框效果
+- [Balloon.css](http://kazzkiq.github.io/balloon.css/) - 同上，一款非常小巧的提示框效果
 - [Hover.css](http://ianlunn.github.io/Hover/) - 很多鼠标 Hover 态的效果，可以给产品学习一下:)
 - [Cursor](http://css-cursor.techstream.org/) - 记录各浏览器对Cursor的支持情况
 - [csscss](https://github.com/zmoazeni/csscss) - 用于检查 CSS 代码冗余
@@ -133,7 +133,7 @@
 - [peity.js](http://benpickles.github.io/peity/) - jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 - [emojify.js](https://github.com/Ranks/emojify.js) - 能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
 - [Push.js](https://github.com/Nickersoft/push.js) - 基于 ```Notification API``` 实现的桌面效果的提示栏。浏览器支持情况不错，如[http://caniuse.com/#search=Notification](http://caniuse.com/#search=Notification)
-- [Highcharts](http://www.hcharts.cn/)| |Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
+- [Highcharts](http://www.hcharts.cn/) - Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
 - [NProgress](https://github.com/rstacruz/nprogress/) - 使页面加载时有更好的loading效果
 - [Noticejs](https://github.com/jaredreich/notie.js) - 一个简单的通知库，木有依赖
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 依赖 jQuery 的单页滚动库，和 [fullPage](http://alvarotrigo.com/fullPage/) 类似
@@ -168,7 +168,7 @@
 
 > 作为一名大前端甚至是多端，```Node``` 绝逼是必备的一块
 
-> 有关 ```Node``` 的学习资料，请访问
+> 有关 ```Node``` 的学习资料，请访问 [Node 学习资料](https://github.com/nieweidong/fetool#node_read)
 
 ##### 这里介绍些有特色且前端有必要知道的包
 
@@ -194,7 +194,7 @@
 - [koa-validate](https://www.npmjs.com/package/koa-validate) - ```koa``` 的校验库 可以非常方便的对 ```queryString``` 或 ```postBody``` 的信息进行验证
 - [line-reader](https://www.npmjs.com/package/line-reader) - 基于```steam```的按行读文件，偶处理日志时用哒 要不实现一个按行读文件，又得 ```steam```、 又得 ```chunk```，还是比较麻烦的
 - [binary](https://github.com/substack/node-binary) 作者是大神 [substack](https://github.com/substack)，对应的处理 ```PHP/Python``` 中的 ```unpack``` 方法。英文解释：Unpack multibyte binary values from buffers and streams.
-- [everyauth](https://www.npmjs.com/package/everyauth)| |OAuth 的集成解决方案
+- [everyauth](https://www.npmjs.com/package/everyauth) - OAuth 的集成解决方案
 - [shelljs](http://documentup.com/shelljs/shelljs) - 写 Node 时难免需要用 shell 去操作些神马 shelljs 是基于 Node 的 shell 工具，API 及其简单
 - [hashids](https://www.npmjs.com/package/hashids) - 看名称就懂，给 userid 加解密用的
 - [node-pool](https://github.com/coopernurse/node-pool) - 让 ```Node``` 有连接池的概念
@@ -221,7 +221,7 @@ _暂无_
 - [JavaScript Standard Style](http://standardjs.com/) - 强烈推荐，尤其适合技术 Leader。优秀的 JS 编码规范是好前端团队的开始
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/) - 阮一峰大神所著，一本开源的JS教程 全面介绍 ECMAScript 6新引入的语法特性
 - [ReactNative 中文版](http://wiki.jikexueyuan.com/project/react-native/) - 翻译自官方的中文文档
-- [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) |  |此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
+- [ReactWebpackCookBook](https://fakefish.github.io/react-webpack-cookbook/index.html) - 此书会引导读者是进入```React```和```Webpack```的世界。 俩都是非常前沿的技术，同时使用会更有趣。
 - [ReactNative 学习指南](https://github.com/ele828/react-native-guide) - 新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
 - [HTML/CSS 编码规范](http://www.css88.com/doc/codeguide/) - 编写灵活、稳定、高质量的```HTML```和```CSS```代码的规范
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
@@ -270,7 +270,7 @@ _暂无_
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 好用的 Web 版 Markdown 编辑器
 - [StackEdit](https://stackedit.io/editor) - 又是一款 Web 版 Markdown 编辑器
 - [墨刀](https://modao.cc/) - 一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
-- [htm2pdf](http://www.htm2pdf.co.uk)| |HTML to PDF
+- [htm2pdf](http://www.htm2pdf.co.uk) - HTML to PDF
 - [Speaker Deck](https://speakerdeck.com/p/featured) - 在线的演讲稿展示平台
 - [RunJS](http://runjs.cn/) - 在线编辑、展示、分享、交流你的 ```JavaScript``` 代码
 - [Bootswatch](https://bootswatch.com/) - ```Bootstrap``` 的免费模板
@@ -380,7 +380,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [GitAwards](http://github-awards.com/) - Git 工具，可以查看 Git 排名
 - [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
 - [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 入门```Github```的简明指南，木有高深内容:)
-- [Git 学习资料整理](https://github.com/xirong/my-git)| |内容包括很多 Git 的相关资料，```star 1200+```
+- [Git 学习资料整理](https://github.com/xirong/my-git) - 内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
 
@@ -434,7 +434,7 @@ _暂无_
 - [GitBook](https://www.gitbook.com) - 写记录的好地方
 - [Codebabes](https://codebabes.com/) - 学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
 - [emailframe](http://emailframe.work/) - 邮件展示确实比较坑，建议有需要的收藏
-- [ReadmeSample](https://github.com/nieweidong/ReadmeSample)| |项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
+- [ReadmeSample](https://github.com/nieweidong/ReadmeSample) - 项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
 
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
