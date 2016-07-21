@@ -249,6 +249,7 @@ _暂无_
 
 <h3 id="otherdev">其他技术</h3>
 
+- [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) - 熟练使用命令行是优秀工程师的基础
 - [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) - 入门推荐的套路，非常浅显易懂
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 - [Markdown 资料](https://github.com/xirong/my-markdown) - 简单看些语法入门，快速用起来
