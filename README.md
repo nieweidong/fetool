@@ -4,13 +4,17 @@
 
 > 期待大家的 PR，我会及时关注和回复的
 
-### 图标说明
+#### 图标解释
 
-![opensource][opensource_icon] 表示开源软件；
-![free][free_icon] 表示免费使用，或者个人免费；
-![hot][hot_icon] 表示近期热门
-![rec][rec_icon] 表示推荐使用和了解
-![must][must_icon] 表示装机必备的软件；
+![opensource][opensource_icon] 开源项目
+
+![free][free_icon] 可 **免费** 使用
+
+![hot][hot_icon] 近期热门的 Case
+
+![rec][rec_icon] 推荐使用和了解
+
+![must][must_icon] 表示必备，最强的推荐意愿
 
 ---
 
@@ -504,6 +508,8 @@ _暂无_
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
 
 **[⬆ 返回顶部](#catalog)**
 
