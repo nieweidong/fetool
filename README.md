@@ -4,11 +4,18 @@
 
 > 期待大家的 PR，我会及时关注和回复的
 
+### 图标说明
 
+![opensource][opensource_icon] 表示开源软件；
+![free][free_icon] 表示免费使用，或者个人免费；
+![hot][hot_icon] 表示近期热门
+![rec][rec_icon] 表示推荐使用和了解
+![must][must_icon] 表示装机必备的软件；
 
 ---
 
-## 目录
+<h2 id="catalog">目录</h2>
+
 - [前端组织/前端博客](#blogs)
 - [博客搭建](#blog_build)
 - [HTML](#html)
@@ -494,6 +501,14 @@ _暂无_
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
 
-### License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**[⬆ 返回顶部](#catalog)**
+
+[opensource_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/open_source.svg
+[free_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/freeware.svg
+[hot_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/hot.svg
+[rec_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/rec.svg
+[must_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/must.svg
