@@ -1,20 +1,16 @@
 # 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这个仓库的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node 方向。主要内容是我了解过的库、工具、套路或关注的前端组织等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
+这个项目的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node方向。主要内容是我了解过的库、工具、套路、设计/交互或关注的前端组织/博客等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
 
-> 期待大家的 PR，我会及时关注和回复的
+> 感谢和期待大家的 PR，我会及时回复的~
 
 #### 图标解释
 
-![opensource][opensource_icon] 开源项目
-
-![free][free_icon] 可 **免费** 使用
-
-![hot][hot_icon] 近期热门的 Case
-
-![rec][rec_icon] 推荐使用和了解
-
-![must][must_icon] 表示必备，最强的推荐意愿
+![opensource][opensource_icon] 开源项目；  
+![free][free_icon] 可 **免费** 使用；  
+![hot][hot_icon] 近期热门的 Case；  
+![rec][rec_icon] 推荐使用和了解；  
+![must][must_icon] 表示必备，最强的推荐意愿；
 
 ---
 
@@ -64,6 +60,7 @@
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度游深度，要广度有广度
 - [奇舞团博客](http://www.75team.com/) - 坚持是最宝贵的，别人的奇舞周刊早已经过百期了
+- [大搜车前端](http://f2e.souche.com/blog/) - 前端网红 [小芋头君](http://weibo.com/676588498) 所在的团队，文章质量非常高，尤其是 Node 方向的
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
 - [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，博客真的有点丑...
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
