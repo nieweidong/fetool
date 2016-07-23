@@ -1,14 +1,8 @@
 # 大前端工具集
 
-> 本篇文章记录了一枚程序猿的百宝箱。PS：每个分类的都按照推荐的先后排列。
+这个仓库的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node 方向。主要内容是我了解过的库、工具、套路或关注的前端组织等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
 
-> 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
-
-#### 您可以通过以下方式联系到我：
-- 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
-- 个人 Blog [fefork.com](http://www.fefork.com/ "一枚 Web 技术领域的手艺人")
-- 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
-- QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
+> 期待大家的 PR，我会及时关注和回复的
 
 ---
 
@@ -491,4 +485,10 @@ _暂无_
 
 <img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
 
-#### 用自己青涩时的照片镇楼，哇哈哈~
+用自己青涩时的照片镇楼，哇哈哈~
+
+#### 您可以通过以下方式联系到我：
+- 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
+- 个人 Blog [fefork.com](http://www.fefork.com/ "一枚 Web 技术领域的手艺人")
+- 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
+- QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
