@@ -1,8 +1,10 @@
-# 大前端工具集
+# 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这个仓库的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node 方向。主要内容是我了解过的库、工具、套路或关注的前端组织等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
 
 > 期待大家的 PR，我会及时关注和回复的
+
+
 
 ---
 
@@ -447,7 +449,6 @@ _暂无_
 - [CSS字母](http://yusugomori.com/projects/css-sans/fonts) - 用 CSS 实现英文字母，叼叼的
 - [墨刀](https://modao.cc/) - 一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
 
-
 <h3 id="summary">小结</h3>
 
 ##### 背景
@@ -492,3 +493,7 @@ _暂无_
 - 个人 Blog [fefork.com](http://www.fefork.com/ "一枚 Web 技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
