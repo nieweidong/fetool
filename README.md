@@ -507,8 +507,8 @@ _暂无_
 
 **[⬆ 返回顶部](#catalog)**
 
-[opensource_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/open_source.svg
-[free_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/freeware.svg
-[hot_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/hot.svg
-[rec_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/rec.svg
-[must_icon]: https://raw.githubusercontent.com/nieweidong/fetool/7d509c615613bcaf41bec73a45edc4cce656731a/img/must.svg
+[opensource_icon]: http://nieweidong.github.com/images/open_source.svg
+[free_icon]: http://nieweidong.github.com/images/freeware.svg
+[hot_icon]: http://nieweidong.github.com/images/hot.svg
+[rec_icon]: http://nieweidong.github.com/images/rec.svg
+[must_icon]: http://nieweidong.github.com/images/must.svg
