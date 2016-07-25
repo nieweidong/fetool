@@ -60,7 +60,7 @@
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度游深度，要广度有广度
 - [奇舞团博客](http://www.75team.com/) - 坚持是最宝贵的，别人的奇舞周刊早已经过百期了
-- [大搜车前端](http://f2e.souche.com/blog/) - 前端网红 [小芋头君](http://weibo.com/676588498) 所在的团队，文章质量非常高，尤其是 Node 方向的
+- [大搜车前端](http://f2e.souche.com/blog/) - 前端网红 [小芋头君](http://weibo.com/676588498) 所在的团队，文章质量高，尤其是 Node 方向的
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
 - [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，博客真的有点丑...
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
@@ -184,6 +184,7 @@
 - [optimist](https://www.npmjs.com/package/optimist) - 当需要处理 ```CLI``` 中的 ```argv``` 时(即命令行传参)，用它就行了
 - [lodash](https://www.npmjs.com/package/lodash) - JS 工具库 ```Underscore.js```的一个 fork 发展而来
 - [socket.io](https://github.com/socketio/socket.io) - 预计 Node 的实时框架 聊天室、页游等对实时性有高要求的较适用
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - 实现的效果比 [Commander](https://github.com/tj/commander.js) 简单、有趣，贴个 GIF供大家参考：[loc](https://raw.githubusercontent.com/nieweidong/local-info/master/img/loc.gif)
 - [Commander](https://github.com/tj/commander.js) - 用 Commander.js 可以方便的创建基于 Node 的命令行工具，比如 [vue-cli](https://github.com/vuejs/vue-cli) 这类，瞬间觉得自己又高大上了呢~
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库；  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
 - [CNPM](http://npm.taobao.org/) - 淘宝 NPM 镜像，提供了 NPM 同步的服务 当然可不仅仅这样，利用 CNPM 可以打造__企业/个人__私有的 NPM 服务 推荐篇搭建私有NPM的文章：[《CNPM搭建私有的NPM服务》](http://blog.fens.me/nodejs-cnpm-npm/)
