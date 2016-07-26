@@ -6,14 +6,6 @@
 
 > 感谢和期待大家的 PR，我会及时回复的~
 
-#### 图标解释
-
-![opensource][opensource_icon] 开源项目；  
-![free][free_icon] 可 **免费** 使用；  
-![hot][hot_icon] 近期热门的 Case；  
-![rec][rec_icon] 推荐使用和了解；  
-![must][must_icon] 表示必备，最强的推荐意愿；
-
 ---
 
 <h2 id="catalog">目录</h2>
@@ -267,16 +259,16 @@ _暂无_
 
 <h3 id="web">Web</h3>
 
+- [百度脑图](http://naotu.baidu.com) - 非常方便的思维导图工具。功能强、样式佳、无广告，算百度出的良心产品之一。除了 Evernote，脑图是我非常依赖的记录工具
 - [CanIuse](http://caniuse.com/) - __前端必备__；查看浏览器对各种新特性的兼容情况
 - [overapi](http://overapi.com/) - 最全的开发人员在线速查手册
-- [百度脑图](http://naotu.baidu.com) - 非常方便的思维导图工具
-- [ProcessOn](https://www.processon.com/) - 和百度脑图的功能类似，脑图工具。
-- [VimAwesome](http://vimawesome.com/) - Vim 插件集合，__Vim 党必备__
-- [Tower](https://tower.im) - 小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
-- [Slides](https://slides.com/) - 一个所见即所得的 WebPPT 编辑器，非常推荐
+- [ProcessOn](https://www.processon.com/) - 和百度脑图的功能类似，脑图工具。但是还有社交、通讯的功能，提倡 **协作绘图** 的理念
+- [Slides](https://slides.com/) - 一个所见即所得的 WebPPT 编辑器。虽然装X效果一般，但是比较推荐，因为无论懂不懂 UI，做出来的效果不会太难看
 - [faviconer.co](http://www.faviconer.co/) - 一个所见即所得的icon生成器，很好用
 - [smallpdf](http://smallpdf.com/cn) - 提供各种格式和 PDF 互相转换
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 好用的 Web 版 Markdown 编辑器
+- [VimAwesome](http://vimawesome.com/) - Vim 插件集合，__Vim 党必备__
+- [Tower](https://tower.im) - 小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
 - [StackEdit](https://stackedit.io/editor) - 又是一款 Web 版 Markdown 编辑器
 - [墨刀](https://modao.cc/) - 一个在线移动应用原型制作工具。 旨在帮助产品经理快速制作可在手机端展示的移动应用原型。
 - [htm2pdf](http://www.htm2pdf.co.uk) - HTML to PDF
