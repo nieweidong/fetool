@@ -424,7 +424,7 @@ _暂无_
 - [Linux命令中文手册](http://linux.51yip.com) - 木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
 - [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
 - [jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) - ZeptoAPI 基本和 jQuery 一样，所以看一份就好
-- [CSS3](http://www.css88.com/book/css/) - CSS3 的在线手册
+- [CSS](http://www.css88.com/book/css/) - CSS 在线参考手册
 - [Express API](http://www.expressjs.com.cn/4x/api.html) - 中文手册:) 4.x和3.x都有
 - [CI用户指南](http://codeigniter.org.cn/user_guide/index.html) - 一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧
 - [Yaf](http://www.laruence.com/manual/) - 鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
