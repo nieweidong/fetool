@@ -1,6 +1,8 @@
 # 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这个项目的定位是 **大前端程序猿的百宝箱**，主要针对 前端方向和 Node方向。主要内容是我了解过的库、工具、套路、设计/交互或关注的前端组织/博客等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
+这个项目的定位是 **大前端程序猿的百宝箱**。主要针对 前端方向和 Node 方向；主要内容是国内外优秀的库、工具、套路、设计/交互或关注的前端组织/博客等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
+
+对于列在这里的几乎所有项目，我都有去实践与了解，所以我会尽量给出中肯的建议和理解，也希望大家能多关注我的评语:)
 
 > 感谢和期待大家的 PR，我会及时回复的~
 
@@ -422,7 +424,7 @@ _暂无_
 - [Linux命令中文手册](http://linux.51yip.com) - 木有系统的好好学习 Linux，所以命令更不熟悉 真羡慕那些CLI玩的飞起的:)
 - [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
 - [jQueryAPI 1.11.3](http://jquery.cuishifeng.cn/) - ZeptoAPI 基本和 jQuery 一样，所以看一份就好
-- [CSS3](http://www.php100.com/manual/css3_0/index.html) - CSS3 的在线手册
+- [CSS3](http://www.css88.com/book/css/) - CSS3 的在线手册
 - [Express API](http://www.expressjs.com.cn/4x/api.html) - 中文手册:) 4.x和3.x都有
 - [CI用户指南](http://codeigniter.org.cn/user_guide/index.html) - 一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧
 - [Yaf](http://www.laruence.com/manual/) - 鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
