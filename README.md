@@ -152,7 +152,7 @@
 - [Grunt](http://gruntjs.com/) - 和 Gulp 类似，都是项目构建的常见选择 对比这俩的文章可谓不少，推荐篇[《Gulp vs Grunt》](http://www.benben.cc/blog/?p=407) 英盲又想看文档，可以去[Grunt 中文网](http://www.gruntjs.net/)
 - [FIS](http://fex-team.github.io/fis3/) - 度厂出品的前端构建工具 文档清晰，功能强大，推荐了解和使用
 - [Gitlab CI](https://ci.gitlab.org/) - 一套基于[Gitlab](https://about.gitlab.com/)的持续集成服务
-- [Travis CI](https://travis-ci.org/) - 为 Github 上的项目打造的 CI 服务。记得 2013年 开始陆续看到文章介绍，刚在官网上看到，目前已经有 30W 开源项目和 23.5W 用户在使用。大概看了一下 ```getting started```，简单几步就可以实现开源项目的持续集成。
+- [Travis CI](https://travis-ci.org/) - 为 Github 上的项目打造的 CI 服务。记得 2013年 开始陆续看到文章介绍，刚在官网上看到，目前已经有 30W 开源项目和 23.5W 用户在使用。大概看了一下 [getting started](https://travis-ci.org/getting_started)，简单几步就可以实现开源项目的持续集成。
 
 > Gulp + Webpack 的使用__套路__参考: [learning-gulp](https://github.com/demohi/learning-gulp)
 
