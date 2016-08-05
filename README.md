@@ -242,6 +242,7 @@ _暂无_
 
 <h3 id="interview">前端面试</h3>
 
+- [笔试面试知识整理](https://github.com/HIT-Alibaba/interview) - 打开其 Gitbook 上的地址我都惊呆了。虽然有部分内容待完善，但是光浏览目录都是享受。
 - [在 LinkedIn 做面试官的故事](http://dongfei.baijia.baidu.com/article/52449) - 非面试题，介绍 LinkedIn 的面试过程 文章有很多中肯的建议和想法，推荐阅读
 - [大漠：写给前端面试者](http://www.w3cplus.com/css/write-to-front-end-developer-interview.html) - 这篇文章不涉及任何的面试题 大漠与大家聊聊面试者与被面者之间的感受...
 - [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - Git 上非常火的前端面试题，```start17k+```
