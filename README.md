@@ -402,7 +402,9 @@ _暂无_
 
 <h3 id="client">客户端</h3>
 
-- [Electron](http://electron.atom.io/) - 大名鼎鼎的 Electron 我居然犹豫了很久，不知道把其放在哪个分类中，于是我单开了一个 **客户端** 的类目。如果你想利用 web 技术构建跨平台的桌面程序，那么赶紧来了解 Electron。
+面对大名鼎鼎的 Electron，我懵逼了。居然犹豫了很久，不知道把其放在哪个分类中，于是我单开了一个 **客户端** 的类目。
+
+- [Electron](http://electron.atom.io/) - 如果你想利用 web 技术构建跨平台的桌面程序，那么赶紧来了解 Electron。
 
 <h3 id="ux">设计/交互</h3>
 
