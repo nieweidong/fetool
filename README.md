@@ -53,7 +53,7 @@
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
 - [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 [ES6](http://es6.ruanyifeng.com/) 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
-- [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度游深度，要广度有广度
+- [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度有深度，要广度有广度
 - [奇舞团博客](http://www.75team.com/) - 坚持是最宝贵的，别人的奇舞周刊早已经过百期了
 - [大搜车前端](http://f2e.souche.com/blog/) - 前端网红 [小芋头君](http://weibo.com/676588498) 所在的团队，文章质量高，尤其是 Node 方向的
 - [百度 FEX](http://fex.baidu.com/) - 代表作 ```FIS```、```UEditor```、```WebUploader```、```KityMinder```
@@ -121,6 +121,7 @@
 - [fullPage](http://alvarotrigo.com/fullPage/) - 非常好用的全屏滑动库，看 Demo 就明白
 - [PhotoSwipe](http://photoswipe.com/) - 偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 - [Vuejs](http://cn.vuejs.org) - 比较喜欢其作者... 所以劳资正在看源码学习学习
+- [vue-admin](https://github.com/fundon/vue-admin) - 基于 Vue.js 开发的后台，示例地址：[demo](https://vue-admin.fundon.me)
 - [mixitup](https://github.com/patrickkunka/mixitup) 一款基于 ```jQuery``` 的 **排序/过滤** 的JS库，最关键是有着美妙的动画效果
 - [favico.js](http://lab.ejci.net/favico.js/) - 动态改变浏览器标签栏中的网站图标，非常好玩
 - [ant.design](http://ant.design) - 蚂蚁金服搞的良心项目，文档美好的令人发指 样式优雅，强烈推荐内部系统尝试此库
