@@ -121,6 +121,7 @@
 - [fullPage](http://alvarotrigo.com/fullPage/) - 非常好用的全屏滑动库，看 Demo 就明白
 - [PhotoSwipe](http://photoswipe.com/) - 偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 - [Vuejs](http://cn.vuejs.org) - 比较喜欢其作者... 所以劳资正在看源码学习学习
+- [ScrollReveal](https://github.com/jlmakes/scrollreveal.js) - star 10000+ 轻量级库。作用为当元素进入视窗的时候展示它们，README 中有示例，上手非常简单。官网体验地址：[ScrollReveal](https://scrollrevealjs.org/)
 - [vue-admin](https://github.com/fundon/vue-admin) - 基于 Vue.js 开发的后台，示例地址：[demo](https://vue-admin.fundon.me)
 - [mixitup](https://github.com/patrickkunka/mixitup) 一款基于 ```jQuery``` 的 **排序/过滤** 的JS库，最关键是有着美妙的动画效果
 - [favico.js](http://lab.ejci.net/favico.js/) - 动态改变浏览器标签栏中的网站图标，非常好玩
