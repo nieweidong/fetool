@@ -179,6 +179,7 @@
 - [supervisor](https://www.npmjs.com/package/supervisor) - 监控 Node 代码，自动重启。 A supervisor program for running nodejs programs
 - [nodemon](https://github.com/remy/nodemon) - 监控 Node 代码，自动重启。 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 - [pm2](https://www.npmjs.com/package/pm2) - 是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
+- [cz-cli](https://github.com/commitizen/cz-cli) - 刚用上的一个 ```git ci``` 工具，让我们的项目提交代码更规范、更有套路。打算写篇文章分享下，文章正在准备中，写完后会补地址。
 - [async](https://www.npmjs.com/package/async) - 一个流程控制工具包，提供直接而强大的异步功能
 - [optimist](https://www.npmjs.com/package/optimist) - 当需要处理 ```CLI``` 中的 ```argv``` 时(即命令行传参)，用它就行了
 - [lodash](https://www.npmjs.com/package/lodash) - JS 工具库 ```Underscore.js```的一个 fork 发展而来

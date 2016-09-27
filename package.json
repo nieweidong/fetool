@@ -1,0 +1,30 @@
+{
+  "name": "fetool",
+  "version": "1.0.0",
+  "description": "大前端的瑞士军刀",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nieweidong/fetool.git"
+  },
+  "keywords": [
+    "fetool"
+  ],
+  "author": "nieweidong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nieweidong/fetool/issues"
+  },
+  "homepage": "https://github.com/nieweidong/fetool#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
