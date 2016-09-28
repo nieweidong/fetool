@@ -308,6 +308,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [ATOM](https://atom.io) - **免费**。2015/7 之前，在桌面环境下偶最喜欢的编辑器是 ```Sublime```，但之后就是 ```ATOM```，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
 - [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637) - ```$99.99```。关注 ```IOS``` 开发或者常备梯子的同学，肯定都知道这大名鼎鼎的软件。价钱从 ```￥68``` 涨到 ```$99``` 也让偶咋舌，背后的故事就不细说了，感兴趣可自行去谷歌百度一下。PS：翻墙软件 [小飞机ShadowsocksX](https://shadowsocks.com/) 也非常棒，同样推荐：“轻量级科学上网姿势，改变您的生活体验！”
 - [1Password](https://1password.com/) - **免费** 试用一个月，售价不便宜 ```$64.99```。如果觉得对各种账号的密码管理心累，那么推荐你使用，这个钱肯定值，```Mac``` 和 ```iPhone``` 通用，爽歪歪。如果账号密码都是那种一、俩个套路，而且被盗也随意，那么用不用就无所谓啦
+- [Go2Shell](http://zipzapmac.com/Go2Shell) - 一款适合程序员的神器。可以快速在当前目录打开 Shell 的工具，比如直接在 Finder 里打开 ITerm2。
 - [Sequel Pro](http://www.sequelpro.com) - **免费**。好用的Mysql工具
 - [Manico](http://manico.im/) - **免费** 版已经很好用了，全功能版售价 ```￥25```。快捷启动和切换 ```APP``` 的工具，高效的第一步
 - [Moom](http://manytricks.com/moom/) - 售价 **$10**，有试用版。个人觉得这钱花的值，设置快捷键之后可以方便的调整每个窗口的位置。我不管在家还是公司都是开双屏，外接屏幕三分之一 ```iTerm```，三分之二 ```ATOM```，日常使用时各种全屏、居中、靠左、靠右等用快捷键来回着换，辛福感满满的。
