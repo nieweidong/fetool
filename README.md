@@ -456,6 +456,7 @@ _暂无_
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D 库。超多的 [examples](http://threejs.org/examples/) 等着你去发现，你只需要关注内存和风扇就行了
+- [DemoHouse](https://airen.github.io/DemoHouse/) - 大漠的前端 demo 仓库，里面的每一个 demo 都非常非常细心。包含了 JS/CSS3/Canvas/SVG/Web Animation 这几个维度.
 - [windows93](http://www.windows93.net/) - 模拟 Win93 桌面，思路、体验和整体效果比较有意思
 - [GeekTyper](http://geektyper.com/) - 好玩又具有 Geek 精神的网站，虽然创建的目的是个恶作剧 PS：网站需要翻墙
 - [2016.makemepulse.com](http://2016.makemepulse.com/) - 帅哭了。请使用现代浏览器打开
