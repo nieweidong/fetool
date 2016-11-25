@@ -98,6 +98,7 @@
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
 - [Font-Awesome](http://fontawesome.io/) - 图标字体库。相类似的库有不少，大厂都喜欢造轮子嘛:)
 - [LoadersCSS](https://connoratherton.com/loaders) - 用 CSS 技术实现 loading 动画； 补一句，想熟悉、理解 ```keyframes、animation、transform、transition``` 的童鞋可以直接去读其源码(只有千把行代码)，读完就算出师鸟:)
+- [text-spinners](https://github.com/tawian/text-spinners) - 又是一款 spinners 效果的库，用来做 loading 正合适。
 - [WeUI](https://github.com/weui/weui) - 一套同微信原生视觉体验一致的基础样式库 为微信 Web 开发量身设计，令用户的使用感知更加统一
 - [PostCSS](https://github.com/postcss/postcss) - 最近才知道大名鼎鼎[Autoprefixer](https://github.com/postcss/autoprefixer)是其插件 推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案
 - [CSSgram](https://github.com/una/CSSgram) - 图片滤镜库，终于可以用 CSS 在 web 上实现滤镜的效果鸟 IE不支持，不过新的移动设备支持没问题 [Can I Use](http://caniuse.com/#search=CSS%20Blend%20Modes)
@@ -118,6 +119,7 @@
 - [ECharts](http://echarts.baidu.com/index.html) - 好用，最关键的是支持的图表展示非常之多，强烈推荐
 - [Swiper](http://www.swiper.com.cn) - 强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
 - [babel](https://babeljs.io/) - ```ES6``` 用起来。这个插件可以让我们用新的 **标准/提案** 写 ```JavaScript``` 代码，然后再向下 **转换编译**，最终生成随处可用的 ```JavaScript``` 代码。中文文档奉上[《babel-handbook》](https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/README.md)
+- [dvajs](https://github.com/dvajs/dva) - 基于 Redux 的一层封装，推荐的原因是因为阿里同学写文档都比较大而全，还可以顺道学习周边知识:)
 - [fullPage](http://alvarotrigo.com/fullPage/) - 非常好用的全屏滑动库，看 Demo 就明白
 - [PhotoSwipe](http://photoswipe.com/) - 偶常用的 js 库 官网上有这么一句很关键、重要"no dependencies"
 - [Vuejs](http://cn.vuejs.org) - 比较喜欢其作者... 所以劳资正在看源码学习学习
@@ -306,7 +308,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [iTerm2](http://www.iterm2.com/) - **免费**。```Mac``` 终端功能少又不好看，```iTerm2``` 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [HyperDock](https://bahoom.com/hyperdock/) - 售价 ```￥68```，感觉还是很值的(特么我还想说，```Windows``` 数年前就自带的功能，在 ```Mac``` 上还收费，略忧伤)。预览和快速切换窗口太有必要了，能用快捷键控制窗口，能让拖拽到边缘的窗口自动调整大小(window早就有的功能)，真心能提高效率。推荐篇中文的文章：[让Mac的窗口飞](http://www.cnblogs.com/ider/p/let-mac-window-fly-with-hyperdock.html)
 - [ATOM](https://atom.io) - **免费**。2015/7 之前，在桌面环境下偶最喜欢的编辑器是 ```Sublime```，但之后就是 ```ATOM```，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
-- [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637) - ```$99.99```。关注 ```IOS``` 开发或者常备梯子的同学，肯定都知道这大名鼎鼎的软件。价钱从 ```￥68``` 涨到 ```$99``` 也让偶咋舌，背后的故事就不细说了，感兴趣可自行去谷歌百度一下。PS：翻墙软件 [小飞机ShadowsocksX](https://shadowsocks.com/) 也非常棒，同样推荐：“轻量级科学上网姿势，改变您的生活体验！”
+- [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637) - ```$49.99```。关注 ```IOS``` 开发或者常备梯子的同学，肯定都知道这大名鼎鼎的软件。价钱从 ```￥68``` 涨到 ```$99``` 也让偶咋舌，背后的故事就不细说了，感兴趣可自行去谷歌百度一下。PS：翻墙软件 [小飞机ShadowsocksX](https://shadowsocks.com/) 也非常棒，同样推荐：“轻量级科学上网姿势，改变您的生活体验！”
 - [1Password](https://1password.com/) - **免费** 试用一个月，售价不便宜 ```$64.99```。如果觉得对各种账号的密码管理心累，那么推荐你使用，这个钱肯定值，```Mac``` 和 ```iPhone``` 通用，爽歪歪。如果账号密码都是那种一、俩个套路，而且被盗也随意，那么用不用就无所谓啦
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 一款适合程序员的神器。可以快速在当前目录打开 Shell 的工具，比如直接在 Finder 里打开 ITerm2。
 - [Sequel Pro](http://www.sequelpro.com) - **免费**。好用的Mysql工具
