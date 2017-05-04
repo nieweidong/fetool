@@ -385,6 +385,8 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - 纯装逼的插件，可以选择你的 ```Chrome``` 开发者工具的主题，且支持的主题超过25种，视觉装逼控必备。设置分大概三步，官网有文字说明，```youtube``` 上的视频教程奉上(Customization With DevTools Author)[https://www.youtube.com/watch?v=AUZagMLMAJc]
 - [GitPlug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp) - 在 ```Github``` 项目页中嵌入有关的图表信息，直观的展示当前项目的 ```Star Trend```，能方便看到当前这个开源项目的发起时间，火爆趋势；对比较知名的项目还有相关的 ```News``` 展示
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 在 ```package.json``` 或任意 ```.js``` 文件中，可以方便的对 ```require()``` 的 ```package``` 进去点击，跳转去对应的 ```Github``` 页面。PS：特么不太好表达，建议你去这个插件的概述页，里面有个十来秒的视频，看完就明白鸟
+- [GitHub Hovercard](https://github.com/Justineo/github-hovercard) - GitHub 增强工具，悬停可显示对应的用户、仓库、issue 等的详情。
+- [ReRes](https://chrome.google.com/webstore/detail/reres/gieocpkbblidnocefjakldecahgeeica) - 可以用来更改页面请求响应的内容。通过指定规则，您可以把请求映射到其他的url，也可以映射到本机的文件或者目录。ReRes支持单个url映射，也支持目录映射。
 
 补充：
 
