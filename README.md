@@ -321,6 +321,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [Manico](http://manico.im/) - **免费** 版已经很好用了，全功能版售价 ```￥25```。快捷启动和切换 ```APP``` 的工具，高效的第一步
 - [Moom](http://manytricks.com/moom/) - 售价 **$10**，有试用版。个人觉得这钱花的值，设置快捷键之后可以方便的调整每个窗口的位置。我不管在家还是公司都是开双屏，外接屏幕三分之一 ```iTerm```，三分之二 ```ATOM```，日常使用时各种全屏、居中、靠左、靠右等用快捷键来回着换，辛福感满满的。
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - **免费**。能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
+- [Wunderlist](https://www.wunderlist.com/zh/) - **免费** 漂亮的任务清单管理工具。有简中和繁中版，操作和样式都比较简洁，推荐有 TODO需求的人士使用。最关键的是其支持所有设备而且免费。
 - [马克鳗](http://www.getmarkman.com/) - **免费** 版已经够用啦，收费版是 ```60/年```。英文名 ```MarkMan```，非常强大好用的标注、测量工具，__强烈推荐__
 - [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) - **免费**。偶正在使用的网页截图工具，强烈推荐
 - [Wireshark](https://www.wireshark.org/) - **免费**。说实话，```Mac``` 下木有 ```Fiddler``` 挺不习惯，不过在有更强大的替代品，虽然有点复杂...还好后来下载到便宜(```￥68```)的 ```Surge``` 做替代品
