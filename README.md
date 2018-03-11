@@ -402,7 +402,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 
 - [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
 - [GitAwards](http://github-awards.com/) - Git 工具，可以查看 Git 排名
-- [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
+- [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet) - 分类清晰的速查表
 - [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 入门```Github```的简明指南，木有高深内容:)
 - [Git 学习资料整理](https://github.com/xirong/my-git) - 内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
