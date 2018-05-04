@@ -520,15 +520,21 @@ _暂无_
 
 完善 ing，慢慢把 __Evernote__ 和 __浏览器书签__ 里面的好东西慢慢捣腾到这儿，更欢迎 PR，谢谢。
 
-<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
-
-用自己青涩时的照片镇楼，哇哈哈~
-
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
 - 个人 Blog [fefork.com](http://www.fefork.com/ "一枚 Web 技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
+
+
+## COMMITS
+
+[Commits](https://github.com/nieweidong/fetool/commits/master)
+
+
+## 报告问题
+
+[Issues](https://github.com/nieweidong/fetool/issues)
 
 ## License
 
