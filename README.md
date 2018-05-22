@@ -15,7 +15,6 @@
 - [HTML](#html)
 - [CSS](#css)
 - [浏览端 JS](#javascript)
-  - [React & RN](#react)
 - [Project Build](#project_build)
 - [Node Package](#node_package)
 - [Node Project](#node_project)
@@ -150,9 +149,6 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
-<h3 id="react">React & RN</h3>
-
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) - 不解释
 
 <h3 id="project_build">Project Build</h3>
 
