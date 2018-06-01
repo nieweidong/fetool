@@ -10,7 +10,8 @@
 
 <h2 id="catalog">目录</h2>
 
-- [前端组织/前端博客](#blogs)
+- [技术博客/技术组织](#blogs)
+- [技术公众号](#gongzhonghao)
 - [博客搭建](#blog_build)
 - [HTML](#html)
 - [CSS](#css)
@@ -42,15 +43,16 @@
 
 ## 正文
 
-<h3 id="blogs">前端组织/前端博客</h3>
+<h3 id="blogs">技术博客/技术组织</h3>
 
-> 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
+> 虽混过俩家外企，但劳资技能树中“英文”这项还是灰色的...
+> 所以俺关注和收藏的站点主要以中文为主~
 
-- [GitHub](https://github.com) - 没 ```Github``` 都不好意思面基有木有！！！
-- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的网站
+- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得重点关注的网站。PS：偶尔需要翻墙。
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
+- [美团技术团队](https://tech.meituan.com/) - 新美大的技术口碑这些年做的挺好，尤其在 **高可用** 方面，推荐关注。
 - [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 [ES6](http://es6.ruanyifeng.com/) 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度有深度，要广度有广度
@@ -60,6 +62,9 @@
 - [腾讯全端 AlloyTeam](http://www.alloyteam.com/) - 腾讯 Web 前端团队，博客真的有点丑...
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
+
+
+<h3 id="gongzhonghao">技术公众号</h3>
 
 
 <h3 id="blog_build">博客搭建</h3>
