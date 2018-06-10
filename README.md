@@ -45,9 +45,10 @@
 
 <h3 id="blogs">技术博客/技术组织</h3>
 
-> 虽混过俩家外企，但劳资技能树中“英文”这项还是灰色的...
-> 所以俺关注和收藏的站点主要以中文为主~
+> 虽混过俩家外企，但劳资技能树中“英文”这项还是灰色的...所以俺关注和收藏的站点主要以中文为主。
+> 分享一下最近自己的体会：学习是最能缓解焦虑的。by 20180610_16:46:18
 
+- [极客时间](https://time.geekbang.org/) - 知识付费。较热门的方向都有非常干货的课程，目前大多数的课程不太适合小白，但是非常适合有经验的程序员进阶。对我个人帮忙比较大的两个大专栏：技术领导力 300讲、左耳听风；除此之外我还比较关注 微服务相关、区块链相关的专栏。
 - [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得重点关注的网站。PS：偶尔需要翻墙。
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
@@ -63,9 +64,7 @@
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
 
-
 <h3 id="gongzhonghao">技术公众号</h3>
-
 
 <h3 id="blog_build">博客搭建</h3>
 
@@ -97,7 +96,6 @@
 - [gentelella](https://github.com/puikinsh/gentelella) - 刚用这个搭建了我司内部用的的数据平台，效果喜人。模板实现的功能比较全，比如登录、注册甚至各种 ```widget```，所以最终交付的时候，自己几乎没写几行CSS。
 - [material-design-lite](https://github.com/google/material-design-lite) - ```Star``` 数超过2W的开源模板项目，包含了多套简洁的 ```templates```，可以用于博客、后台或者企业首页。
 
-
 <h3 id="css">CSS</h3>
 
 - [MetroUI](http://metroui.org.ua/) - 好看好用，重点是样式特别、个性
@@ -115,7 +113,6 @@
 - [purecss](http://purecss.io/) - 小巧的响应式 CSS 库，Yahoo!出品
 - [hamburgers](https://jonsuh.com/hamburgers/) - 简单的动画库，让 Click(or Tap) 变得美妙
 - [cssmatic](http://www.cssmatic.com) - 一个帮忙调试CSS效果的工具
-
 
 <h3 id="javascript">浏览端 JS</h3>
 
@@ -154,7 +151,6 @@
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
 
-
 <h3 id="project_build">Project Build</h3>
 
 - [pm2](https://www.npmjs.com/package/pm2) - 是一个带有负载均衡功能的 Node 应用的进程管理器； 是 [Forever](https://www.npmjs.com/package/forever) 的进阶库，想了解的可以看这篇文章[《拥抱PM2》](http://se77en.cc/2013/06/27/goodbye-node-forever-hello-pm2-translation/)
@@ -173,7 +169,6 @@
 > 推荐篇与 Webpack 相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
 
 > Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
-
 
 <h3 id="node_package">Node Package</h3>
 
@@ -219,11 +214,9 @@
 
 > 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
-
 <h3 id="node_project">Node Project</h3>
 
 _暂无_
-
 
 <h2 id="read">精选阅读</h2>
 
@@ -242,7 +235,6 @@ _暂无_
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
 - [GulpBook](https://github.com/nimojs/gulp-book) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具
 
-
 <h3 id="node_read">Node 学习资料</h3>
 
 - [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
@@ -253,7 +245,6 @@ _暂无_
 - [koa实战](http://book.apebook.org/minghe/koa-action/index.html) - “[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
 - [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
 
-
 <h3 id="interview">前端面试</h3>
 
 - [笔试面试知识整理](https://github.com/HIT-Alibaba/interview) - 打开其 Gitbook 上的地址我都惊呆了。虽然有部分内容待完善，但是光浏览目录都是享受。
@@ -262,7 +253,6 @@ _暂无_
 - [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - Git 上非常火的前端面试题，```start17k+```
 - [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 主要内容是些前端面试笔试题和面试套路，值得阅读
 
-
 <h3 id="otherdev">其他技术</h3>
 
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp) - 天津第一程出品。微信小程序开发资源汇总。
@@ -270,7 +260,6 @@ _暂无_
 - [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) - 入门推荐的套路，非常浅显易懂
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 - [Markdown 资料](https://github.com/xirong/my-markdown) - 简单看些语法入门，快速用起来
-
 
 <h2 id="tools">工具/软件</h2>
 
@@ -295,7 +284,6 @@ _暂无_
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE/) -  又是一个 ```Bootstrap``` 的免费管理后台
 - [carbon](https://carbon.now.sh) - 能够帮助你分享漂亮的示例代码
 
-
 <h3 id="app">APP</h3>
 
 > 以下列表中的 APP 都是不区分系统平台的
@@ -305,7 +293,6 @@ _暂无_
 - [多看阅读](http://www.duokan.com/) - kindle 确实好，但是懒得随身带着 多看还算不错，书较多且偶尔有特价比较爽
 - [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-proxy/id1040100637?mt=8&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=&ign-mpt=uo%3D4) - 非免费 牛逼的网络开发与调试工具，前端必备
 - [Monkey](https://github.com/coderyi/Monkey) - Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名
-
 
 <h3 id="mac_soft">Mac 软件篇</h3>
 
@@ -342,7 +329,6 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [Fliqlo](http://fliqlo.com/) - 视觉控会喜欢的屏保软件。纯深色界面上铺满着大大的时间，非常好的简约效果。
 
 以上列出来的都是偶觉得比较有意思、有特点的软件。当然，类似 ```Docker```、```Polarr(泼辣修图)``` 等这类都太小众；```有道翻译 ```、```Evernote```、```Foxmail``` 等这类又太大众；然后有些软件买了觉得有点“亏”，比如刚出手买入的 ```Final Cut Pro```，其实机器自带的 ```iMovie``` 就挺好了（完美诠释《Final从入手到放弃》）。所以，这几类就不一一往这列举啦~
-
 
 <h3 id="linux">Linux</h3>
 
@@ -400,7 +386,6 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 1. 翻墙代理的插件偶没使用，偶手机和电脑的翻墙都是配的 ```Surge``` 无脑搞定，不过翻墙代理插件推荐[Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)，熊掌公司里大多用的都是它
 2. 日常开发相关的插件就以上这些，还有几款如知乎的插件、购物插件等这类与开发效率不沾边的，俺就不这上头列了哈
 
-
 <h3 id="git">Git</h3>
 
 - [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
@@ -410,18 +395,15 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [Git 学习资料整理](https://github.com/xirong/my-git) - 内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
 
-
 <h3 id="servers">服务端</h3>
 
 如 ```Ruby、Python、Perl``` 等相似的服务端语言的学习资源。
 
 _暂无_
 
-
 <h3 id="backend">数据端</h3>
 
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
-
 
 <h3 id="client">客户端</h3>
 
@@ -435,7 +417,6 @@ _暂无_
 
 - [站酷](http://www.zcool.com.cn/works/) - 里面好东西太多，俺当年真没少再上面淘素材
 - [UI中国](http://www.ui.cn/list.html) - 光听名字就知道有多高大上鸟:)
-
 
 <h3 id="handbook">速查手册</h3>
 
@@ -454,7 +435,6 @@ _暂无_
 - [CI用户指南](http://codeigniter.org.cn/user_guide/index.html) - 一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧
 - [Yaf](http://www.laruence.com/manual/) - 鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
 
-
 <h3 id="other">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
@@ -470,7 +450,6 @@ _暂无_
 - [Codebabes](https://codebabes.com/) - 学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
 - [emailframe](http://emailframe.work/) - 邮件展示确实比较坑，建议有需要的收藏
 - [ReadmeSample](https://github.com/nieweidong/ReadmeSample) - 项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
-
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
@@ -503,7 +482,6 @@ _暂无_
 
 > 所以劳资对自己的要求是：这篇记录里列出的每样东西，自己都得的去了解、去尝试，然后再列出来。 能举一反三最好，如果达不到至少也能清楚的认识：列出来的这玩意对程序员有没有卵用，解决了啥痛点。
 
-
 <h3 id="todo">TODO</h3>
 
 1. 继续完善和扩充内容
@@ -529,11 +507,9 @@ _暂无_
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
 
-
 ## COMMITS
 
 [Commits](https://github.com/nieweidong/fetool/commits/master)
-
 
 ## 报告问题
 
