@@ -46,9 +46,10 @@
 <h3 id="blogs">技术博客/技术组织</h3>
 
 > 虽混过俩家外企，但劳资技能树中“英文”这项还是灰色的...所以俺关注和收藏的站点主要以中文为主。
+
 > 分享一下最近自己的体会：学习是最能缓解焦虑的。by 20180610_16:46:18
 
-- [极客时间](https://time.geekbang.org/) - 知识付费。较热门的方向都有非常干货的课程，目前大多数的课程不太适合小白，但是非常适合有经验的程序员进阶。对我个人帮忙比较大的两个大专栏：技术领导力 300讲、左耳听风；除此之外我还比较关注 微服务相关、区块链相关的专栏。
+- [极客时间](https://time.geekbang.org/) - 知识付费。较热门的方向都有非常干货的课程，目前大多数的课程不太适合小白，但是非常适合有经验的程序员进阶。对我个人帮忙比较大的两个大专栏：```技术领导力 300讲```、```左耳听风```；除此之外我还比较关注 ```微服务相关```、```区块链相关``` 的专栏。
 - [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得重点关注的网站。PS：偶尔需要翻墙。
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
@@ -77,14 +78,16 @@
 > 使用 ```Hexo/Jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Github``` 上，分分钟高大上有木有
 
 再推荐几款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错：
+
 - [NexT](https://github.com/iissnan/hexo-theme-next)
 - [Yilia](https://github.com/litten/hexo-theme-yilia)
 - [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 - [Archer](https://github.com/fi3ework/hexo-theme-archer) - 我博客正在使用的主题。
 
 不能偏心，所以也推荐几款 ```Jekyll``` 的好主题：
-- [So Simple](https://github.com/mmistakes/so-simple-theme) 如果你看过俺的博客，对这个主题就肯定不会陌生啦
-- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
+
+- [So Simple](https://github.com/mmistakes/so-simple-theme) - 如果你看过俺的博客，对这个主题就肯定不会陌生啦（2018年已弃用）
+- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) - 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
 - [beautiful](https://github.com/daattali/beautiful-jekyll#readme)
 
 <h3 id="html">HTML</h3>
