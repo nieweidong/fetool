@@ -76,12 +76,13 @@
 
 > 使用 ```Hexo/Jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Github``` 上，分分钟高大上有木有
 
-再推荐三款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错：
+再推荐几款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错：
 - [NexT](https://github.com/iissnan/hexo-theme-next)
 - [Yilia](https://github.com/litten/hexo-theme-yilia)
 - [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
+- [Archer](https://github.com/fi3ework/hexo-theme-archer) - 我博客正在使用的主题。
 
-不能偏心，所以也推荐三款 ```Jekyll``` 的好主题：
+不能偏心，所以也推荐几款 ```Jekyll``` 的好主题：
 - [So Simple](https://github.com/mmistakes/so-simple-theme) 如果你看过俺的博客，对这个主题就肯定不会陌生啦
 - [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
 - [beautiful](https://github.com/daattali/beautiful-jekyll#readme)
