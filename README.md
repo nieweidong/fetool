@@ -1,6 +1,6 @@
 # 大前端工具集 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-这个项目的定位是 **大前端程序猿的百宝箱**。主要针对 前端方向和 Node 方向；主要内容是国内外优秀的库、工具、套路、设计/交互或关注的前端组织/博客等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
+这个项目的定位是 **大前端程序猿的百宝箱**。主要针对 前端方向和 Node 方向；主要内容是国内外优秀的 ```库```、```工具```、```套路```、```设计```、```交互```，或关注的 ```技术博客```、```技术组织```、```技术公众号``` 等等，反正用 **瑞士军刀** 来总结这篇文章再合适不过了。
 
 对于列在这里的几乎所有项目，我都有去实践与了解，所以我会尽量给出中肯的建议和理解，也希望大家能多关注我的评语:)
 
@@ -10,7 +10,8 @@
 
 <h2 id="catalog">目录</h2>
 
-- [前端组织/前端博客](#blogs)
+- [技术博客/技术组织](#blogs)
+- [技术公众号](#gongzhonghao)
 - [博客搭建](#blog_build)
 - [HTML](#html)
 - [CSS](#css)
@@ -42,15 +43,18 @@
 
 ## 正文
 
-<h3 id="blogs">前端组织/前端博客</h3>
+<h3 id="blogs">技术博客/技术组织</h3>
 
-> 虽混过外企俩家，但劳资英文这项的技能点还是灰色的...so，俺关注的站点主要以中文为主
+> 虽混过俩家外企，但劳资技能树中“英文”这项还是灰色的...所以俺关注和收藏的站点主要以中文为主。
 
-- [GitHub](https://github.com) - 没 ```Github``` 都不好意思面基有木有！！！
-- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得关注的网站
+> 分享一下最近自己的体会：学习是最能缓解焦虑的。by 20180610_16:46:18
+
+- [极客时间](https://time.geekbang.org/) - 知识付费。较热门的方向都有非常干货的课程，目前大多数的课程不太适合小白，但是非常适合有经验的程序员进阶。对我个人帮忙比较大的两个大专栏：```技术领导力 300讲```、```左耳听风```；除此之外我还比较关注 ```微服务相关```、```区块链相关``` 的专栏。
+- [MDN](https://developer.mozilla.org/zh-CN/) - 无数的资源再等着你探索，追标准和新特性肯定得重点关注的网站。PS：偶尔需要翻墙。
 - [Awesomes.cn](https://www.awesomes.cn/) - 国人维护的前端资源库，深度对接到 ```Github```，分类和展现清晰，值得收藏
 - [如何跟上前端开发的最新前沿](https://uptodate.frontendrescue.org/zh/) - RT，不解释
 - [慕课](http://www.imooc.com/) - 大量的在线计算机课程。 虽然初、中级居多，但是不乏有巨作值得细细品尝
+- [美团技术团队](https://tech.meituan.com/) - 新美大的技术口碑这些年做的挺好，尤其在 **高可用** 方面，推荐关注。
 - [阮一峰](http://javascript.ruanyifeng.com/) - 关注多年，拜读其 [ES6](http://es6.ruanyifeng.com/) 系列。虽网传靠写书进鸟阿里，但博客内容确实够丰富
 - [W3Cplus](http://www.w3cplus.com/) - 大漠(《图解 CSS3》作者)在国内的影响力杠杠的，```Sass``` 专家级
 - [淘宝前端团队](http://taobaofed.org/) - 内容涵盖 ```Web``` 和 ```Node```，要深度有深度，要广度有广度
@@ -61,6 +65,7 @@
 - [粉丝日志 for 张丹](http://blog.fens.me/) - 大爱作者写的 ```Node``` 系列
 - [张鑫旭](http://www.zhangxinxu.com/wordpress/) - 成名多年的、高产的前端大湿，```CSS```猛人
 
+<h3 id="gongzhonghao">技术公众号</h3>
 
 <h3 id="blog_build">博客搭建</h3>
 
@@ -72,14 +77,17 @@
 
 > 使用 ```Hexo/Jekyll + GitPage```，前端搭建静态博客那是相当 easy。用 ```Markdown``` 写文章做记录，再 ```push``` 到 ```Github``` 上，分分钟高大上有木有
 
-再推荐三款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错：
+再推荐几款视觉效果极佳的 ```Hexo``` 主题，且在 ```Github``` 上的 ```star``` 都很不错：
+
 - [NexT](https://github.com/iissnan/hexo-theme-next)
 - [Yilia](https://github.com/litten/hexo-theme-yilia)
 - [Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
+- [Archer](https://github.com/fi3ework/hexo-theme-archer) - 我博客正在使用的主题。
 
-不能偏心，所以也推荐三款 ```Jekyll``` 的好主题：
-- [So Simple](https://github.com/mmistakes/so-simple-theme) 如果你看过俺的博客，对这个主题就肯定不会陌生啦
-- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
+不能偏心，所以也推荐几款 ```Jekyll``` 的好主题：
+
+- [So Simple](https://github.com/mmistakes/so-simple-theme) - 如果你看过俺的博客，对这个主题就肯定不会陌生啦（2018年已弃用）
+- [HPSTR](https://github.com/mmistakes/hpstr-jekyll-theme) - 当初 [fefork](http://www.fefork.com/) 差点选这个主题:)
 - [beautiful](https://github.com/daattali/beautiful-jekyll#readme)
 
 <h3 id="html">HTML</h3>
@@ -91,7 +99,6 @@
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - 很小清新的后台模板，每次看[preview](https://almsaeedstudio.com/preview) 页面都觉得很有视觉冲击
 - [gentelella](https://github.com/puikinsh/gentelella) - 刚用这个搭建了我司内部用的的数据平台，效果喜人。模板实现的功能比较全，比如登录、注册甚至各种 ```widget```，所以最终交付的时候，自己几乎没写几行CSS。
 - [material-design-lite](https://github.com/google/material-design-lite) - ```Star``` 数超过2W的开源模板项目，包含了多套简洁的 ```templates```，可以用于博客、后台或者企业首页。
-
 
 <h3 id="css">CSS</h3>
 
@@ -110,7 +117,6 @@
 - [purecss](http://purecss.io/) - 小巧的响应式 CSS 库，Yahoo!出品
 - [hamburgers](https://jonsuh.com/hamburgers/) - 简单的动画库，让 Click(or Tap) 变得美妙
 - [cssmatic](http://www.cssmatic.com) - 一个帮忙调试CSS效果的工具
-
 
 <h3 id="javascript">浏览端 JS</h3>
 
@@ -136,6 +142,7 @@
 - [toastr](https://github.com/CodeSeven/toastr) - 信息提示的库，推荐的原因是卖相好、功能强大  [demo](http://codeseven.github.io/toastr/demo.html)
 - [peity.js](http://benpickles.github.io/peity/) - jQuery的图表插件，特别cute，感觉萌萌哒 将HTML转换成一个小的```<svg>```饼图、圆环图、折线图等等
 - [emojify.js](https://github.com/Ranks/emojify.js) - 能够将```emoji```关键词转换为```emoji```图片的```JS```插件 可以快速的为你的网站提供```emoji```表情支持
+- [html2canvas](https://github.com/niklasvh/html2canvas)+[canvas2Image](https://github.com/randreucetti/canvas2image) - 看这两库的名称就明白是做什么的。使用场景就是“动态生成的HTML可以长按保存为图片”。
 - [Push.js](https://github.com/Nickersoft/push.js) - 基于 ```Notification API``` 实现的桌面效果的提示栏。浏览器支持情况不错，如[http://caniuse.com/#search=Notification](http://caniuse.com/#search=Notification)
 - [Highcharts](http://www.hcharts.cn/) - Highcharts 中文网，又是一个图表库 确实功能强大，但是觉得不好看... PS：官网就做的不好看，脏脏的赶脚
 - [NProgress](https://github.com/rstacruz/nprogress/) - 使页面加载时有更好的loading效果
@@ -147,7 +154,6 @@
 - [Cropper](http://fengyuanchen.github.io/cropper/) - 国人开发的图片裁剪库
 
 > ___```Swiper/PhotoSwipe/fullPage``` 有这仨库，微信里常见的 H5 页完全不是问题哒___
-
 
 <h3 id="project_build">Project Build</h3>
 
@@ -167,7 +173,6 @@
 > 推荐篇与 Webpack 相关的文章《[CSS Modules](http://boke.io/tan-tan-css-modules/)》
 
 > Webpack 用起来吼吼：[webpack-howto](https://github.com/petehunt/webpack-howto)
-
 
 <h3 id="node_package">Node Package</h3>
 
@@ -213,11 +218,9 @@
 
 > 以上库俺都有使用过，甚至有不少都是项目开发中、各种特定场景下必用的，有任何使用问题欢迎沟通哈:)
 
-
 <h3 id="node_project">Node Project</h3>
 
 _暂无_
-
 
 <h2 id="read">精选阅读</h2>
 
@@ -236,7 +239,6 @@ _暂无_
 - [移动前端入门](http://gold.xitu.io/entry/56c29abfa34131005b8cb1f3) - 入门价值高，移动方向常见问题的较好总结
 - [GulpBook](https://github.com/nimojs/gulp-book) - Gulp 是基于 Node 实现 Web 前端自动化开发的工具
 
-
 <h3 id="node_read">Node 学习资料</h3>
 
 - [Node.js 中文资料导航](https://github.com/youyudehexie/node123) - Node 的中文资料导航，```start1300+```
@@ -247,7 +249,6 @@ _暂无_
 - [koa实战](http://book.apebook.org/minghe/koa-action/index.html) - “[明河](https://github.com/minghe)出品”这四字已经说明一切。PS：正在连载中
 - [stream-handbook](https://github.com/jabez128/stream-handbook) - 如果学习 NodeJS，那么流一定是需要掌握的概念
 
-
 <h3 id="interview">前端面试</h3>
 
 - [笔试面试知识整理](https://github.com/HIT-Alibaba/interview) - 打开其 Gitbook 上的地址我都惊呆了。虽然有部分内容待完善，但是光浏览目录都是享受。
@@ -256,7 +257,6 @@ _暂无_
 - [前端面试题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese) - Git 上非常火的前端面试题，```start17k+```
 - [前端面经](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 主要内容是些前端面试笔试题和面试套路，值得阅读
 
-
 <h3 id="otherdev">其他技术</h3>
 
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp) - 天津第一程出品。微信小程序开发资源汇总。
@@ -264,7 +264,6 @@ _暂无_
 - [MongoDB 极简实践入门](https://github.com/StevenSLXie/Tutorials-for-Web-Developers/blob/master/MongoDB%20%E6%9E%81%E7%AE%80%E5%AE%9E%E8%B7%B5%E5%85%A5%E9%97%A8.md) - 入门推荐的套路，非常浅显易懂
 - [Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac) - Mac 使用必看 尤其适合 偏执狂/强迫症 患者:)
 - [Markdown 资料](https://github.com/xirong/my-markdown) - 简单看些语法入门，快速用起来
-
 
 <h2 id="tools">工具/软件</h2>
 
@@ -287,7 +286,7 @@ _暂无_
 - [RunJS](http://runjs.cn/) - 在线编辑、展示、分享、交流你的 ```JavaScript``` 代码
 - [Bootswatch](https://bootswatch.com/) - ```Bootstrap``` 的免费模板
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE/) -  又是一个 ```Bootstrap``` 的免费管理后台
-
+- [carbon](https://carbon.now.sh) - 能够帮助你分享漂亮的示例代码
 
 <h3 id="app">APP</h3>
 
@@ -299,7 +298,6 @@ _暂无_
 - [Surge](https://itunes.apple.com/cn/app/surge-web-developer-tool-proxy/id1040100637?mt=8&v0=WWW-GCCN-ITSTOP100-PAIDAPPS&l=&ign-mpt=uo%3D4) - 非免费 牛逼的网络开发与调试工具，前端必备
 - [Monkey](https://github.com/coderyi/Monkey) - Monkey 是 iPhone 上一个 GitHub 第三方客户端。 展示 GitHub 上的开发者的排名，以及仓库的排名
 
-
 <h3 id="mac_soft">Mac 软件篇</h3>
 
 > 对于美好事务的追求无论何时都不算晚。
@@ -309,14 +307,17 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [Alfred](https://www.alfredapp.com/) - **免费**，绝对的推荐Top1，很提效率，高级版 ```Powerpack``` 售价 ```£17```。除了能快速搜索和打开应用程序之外，查找文本文件、全文检索、调起浏览器搜索和计数器都是俺经常使用的功能。如果想知道具体咋用，推荐阅读老池(池建强)的文章：[《神兵利器—Alfred》](http://www.cnblogs.com/chijianqiang/p/alfred.html)
 - [iTerm2](http://www.iterm2.com/) - **免费**。```Mac``` 终端功能少又不好看，```iTerm2``` 可以解救你~  推荐篇文章：[《让你的命令行丰富多彩》](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [HyperDock](https://bahoom.com/hyperdock/) - 售价 ```￥68```，感觉还是很值的(特么我还想说，```Windows``` 数年前就自带的功能，在 ```Mac``` 上还收费，略忧伤)。预览和快速切换窗口太有必要了，能用快捷键控制窗口，能让拖拽到边缘的窗口自动调整大小(window早就有的功能)，真心能提高效率。推荐篇中文的文章：[让Mac的窗口飞](http://www.cnblogs.com/ider/p/let-mac-window-fly-with-hyperdock.html)
-- [ATOM](https://atom.io) - **免费**。2015/7 之前，在桌面环境下偶最喜欢的编辑器是 ```Sublime```，但之后就是 ```ATOM```，俺也专门为它写了篇___[使用纪要](https://github.com/nieweidong/learn-atom)___
+- [ATOM](https://atom.io) - **免费**。2015/7 之前，在桌面环境下偶最喜欢的编辑器是 ```Sublime```，但之后就是 ```ATOM```，俺也专门为它写了篇 [《使用纪要》](https://github.com/nieweidong/learn-atom)
 - [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637) - ```$49.99```。关注 ```IOS``` 开发或者常备梯子的同学，肯定都知道这大名鼎鼎的软件。价钱从 ```￥68``` 涨到 ```$99``` 也让偶咋舌，背后的故事就不细说了，感兴趣可自行去谷歌百度一下。PS：翻墙软件 [小飞机ShadowsocksX](https://shadowsocks.com/) 也非常棒，同样推荐：“轻量级科学上网姿势，改变您的生活体验！”
+- [ngrok](https://ngrok.com/) - 一条命令解决的外网访问内网问题,无需任何配置,下载客户端之后直接一条命令让外网访问内网不再是距离.
 - [1Password](https://1password.com/) - **免费** 试用一个月，售价不便宜 ```$64.99```。如果觉得对各种账号的密码管理心累，那么推荐你使用，这个钱肯定值，```Mac``` 和 ```iPhone``` 通用，爽歪歪。如果账号密码都是那种一、俩个套路，而且被盗也随意，那么用不用就无所谓啦
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - 一款适合程序员的神器。可以快速在当前目录打开 Shell 的工具，比如直接在 Finder 里打开 ITerm2。
-- [Sequel Pro](http://www.sequelpro.com) - **免费**。好用的Mysql工具
+- [Sequel Pro](http://www.sequelpro.com) - **免费**。好用的 Mysql工具
+- [OmniPlan](https://www.omnigroup.com/omniplan/) - **免费** 试用 14天。甘特图工具，项目 Leader必备。
 - [Manico](http://manico.im/) - **免费** 版已经很好用了，全功能版售价 ```￥25```。快捷启动和切换 ```APP``` 的工具，高效的第一步
 - [Moom](http://manytricks.com/moom/) - 售价 **$10**，有试用版。个人觉得这钱花的值，设置快捷键之后可以方便的调整每个窗口的位置。我不管在家还是公司都是开双屏，外接屏幕三分之一 ```iTerm```，三分之二 ```ATOM```，日常使用时各种全屏、居中、靠左、靠右等用快捷键来回着换，辛福感满满的。
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) - **免费**。能够显示当前程序的快捷键列表，默认的快捷键是长按 ⌘
+- [奇妙清单](https://www.wunderlist.com/zh/) - **免费** 漂亮的任务清单管理工具。有简中和繁中版，操作和样式都比较简洁，推荐有 TODO需求的人士使用。最关键的是其支持所有设备而且免费。
 - [马克鳗](http://www.getmarkman.com/) - **免费** 版已经够用啦，收费版是 ```60/年```。英文名 ```MarkMan```，非常强大好用的标注、测量工具，__强烈推荐__
 - [BrowseShot](https://itunes.apple.com/cn/app/browseshot/id615916400) - **免费**。偶正在使用的网页截图工具，强烈推荐
 - [Wireshark](https://www.wireshark.org/) - **免费**。说实话，```Mac``` 下木有 ```Fiddler``` 挺不习惯，不过在有更强大的替代品，虽然有点复杂...还好后来下载到便宜(```￥68```)的 ```Surge``` 做替代品
@@ -329,9 +330,9 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [WebStorm](http://www.jetbrains.com/webstorm/) - **$129**，可试用一个月。功能超强的前端 ```IDE```，谁用谁知道 PS：貌似俺插件装多了，用着卡卡的，风扇呼呼转...然后俺就卸载装了，装了 ```ATOM```...
 - [MindNode](http://mindnode.com/) - 售价 **$29.99**，有免费试用版。这是款漂亮的思维导图工具。其实 [百度脑图](http://naotu.baidu.com/) 这类 Web 上的工具绝对够用了，不太推荐...
 - [Mou](http://25.io/mou/) - 我曾使用过的 Markdown 编辑器，不推荐使用。原本已经准备去掉，但是偶还是想让大家了解下这个有意思的事情：[《一年了，那个闻名遐迩的 Mou 你还记得吗？》](http://matrix.sspai.com/p/c7a3c9c0)
+- [Fliqlo](http://fliqlo.com/) - 视觉控会喜欢的屏保软件。纯深色界面上铺满着大大的时间，非常好的简约效果。
 
 以上列出来的都是偶觉得比较有意思、有特点的软件。当然，类似 ```Docker```、```Polarr(泼辣修图)``` 等这类都太小众；```有道翻译 ```、```Evernote```、```Foxmail``` 等这类又太大众；然后有些软件买了觉得有点“亏”，比如刚出手买入的 ```Final Cut Pro```，其实机器自带的 ```iMovie``` 就挺好了（完美诠释《Final从入手到放弃》）。所以，这几类就不一一往这列举啦~
-
 
 <h3 id="linux">Linux</h3>
 
@@ -368,6 +369,7 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 和 ```Vim``` 快捷键一样，浏览网站时不需要鼠标咯
 - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn) - 前端必备的尺子。计算页面元素间距、位置等信息的时候，你就知道它的好了，无脑上手，你值得拥有
 - [FireShot](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg) - 可以截取整个网页、部分页面，然后支持导出为各种格式。俺微博上发的网页全景图都是靠这个插件截取的
+- [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd) - 看名称就基本明白了。让你在 Github上使用搜索框的体验变得更好。
 - [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) - 好不好用有点见仁见智了，但是我个人比较喜欢。使用后会让你的 **新标签页** 耳目一新，有漂亮的背景和各种常用的功能，比如地图、天气、```Gmail```、```Chrome```商店等等。当然，在这个插件的设置中还可以设置壁纸、动画效果等等
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) - 同样也是 **新标签页** 的插件，但是不管是视觉上(高清大图)还是功能上，都比 [Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg) 高大上不少，```Setting``` 里面有不少设置和快捷键，都很好上手的。[Infinity](https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg)胜在中文和直观，[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)胜在视觉冲击。俺基本上这俩款看心情换着用，所以希望你也都能喜欢:)
 - [Google翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 英文不好又得经常浏览英文资料的，一般都准备好了翻译工具。不过能在浏览器里达到划词翻译的方案就不多了，偶推荐这个Google翻译(PS：如不能翻墙，有道词典的扩展也同样支持划词翻译)。
@@ -380,22 +382,22 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - 纯装逼的插件，可以选择你的 ```Chrome``` 开发者工具的主题，且支持的主题超过25种，视觉装逼控必备。设置分大概三步，官网有文字说明，```youtube``` 上的视频教程奉上(Customization With DevTools Author)[https://www.youtube.com/watch?v=AUZagMLMAJc]
 - [GitPlug](https://chrome.google.com/webstore/detail/porter-plug/lngoojfoglemfpbeiomhgheccpdheilp) - 在 ```Github``` 项目页中嵌入有关的图表信息，直观的展示当前项目的 ```Star Trend```，能方便看到当前这个开源项目的发起时间，火爆趋势；对比较知名的项目还有相关的 ```News``` 展示
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - 在 ```package.json``` 或任意 ```.js``` 文件中，可以方便的对 ```require()``` 的 ```package``` 进去点击，跳转去对应的 ```Github``` 页面。PS：特么不太好表达，建议你去这个插件的概述页，里面有个十来秒的视频，看完就明白鸟
+- [GitHub Hovercard](https://github.com/Justineo/github-hovercard) - GitHub 增强工具，悬停可显示对应的用户、仓库、issue 等的详情。
+- [ReRes](https://chrome.google.com/webstore/detail/reres/gieocpkbblidnocefjakldecahgeeica) - 可以用来更改页面请求响应的内容。通过指定规则，您可以把请求映射到其他的url，也可以映射到本机的文件或者目录。ReRes支持单个url映射，也支持目录映射。
 
 补充：
 
 1. 翻墙代理的插件偶没使用，偶手机和电脑的翻墙都是配的 ```Surge``` 无脑搞定，不过翻墙代理插件推荐[Proxy SwitchySharp](https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm)，熊掌公司里大多用的都是它
 2. 日常开发相关的插件就以上这些，还有几款如知乎的插件、购物插件等这类与开发效率不沾边的，俺就不这上头列了哈
 
-
 <h3 id="git">Git</h3>
 
 - [Git 教程-廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 俺有看过不少 Git 的文章，确实这个系列是最通俗易懂的
 - [GitAwards](http://github-awards.com/) - Git 工具，可以查看 Git 排名
-- [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet/blob/master/Git%20Cheat%20Sheet-Zh.md) - 分类清晰的速查表
+- [Git 速查](https://github.com/flyhigher139/Git-Cheat-Sheet) - 分类清晰的速查表
 - [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) - 入门```Github```的简明指南，木有高深内容:)
 - [Git 学习资料整理](https://github.com/xirong/my-git) - 内容包括很多 Git 的相关资料，```star 1200+```
 - [GitHub 漫游指南](https://github.com/phodal/github-roam) - 一篇还算不错的 Git 学习总结，就是乱了点... 我理解作者___漫游___的意思是漫无目的想到哪写到哪~ 看到作者为鸟达成 Git 连击的成就，也是蛮拼的:)
-
 
 <h3 id="servers">服务端</h3>
 
@@ -403,11 +405,9 @@ Mac 下的软件那么多，又是免费又是付费，应该怎么选呢？我�
 
 _暂无_
 
-
 <h3 id="backend">数据端</h3>
 
 - [Mongoose](https://github.com/Automattic/mongoose) - 让 NodeJS 更容易操作 Mongodb 数据库。  附上一篇[Mongoose 学习参考文档](https://cnodejs.org/topic/504b4924e2b84515770103dd)
-
 
 <h3 id="client">客户端</h3>
 
@@ -421,7 +421,6 @@ _暂无_
 
 - [站酷](http://www.zcool.com.cn/works/) - 里面好东西太多，俺当年真没少再上面淘素材
 - [UI中国](http://www.ui.cn/list.html) - 光听名字就知道有多高大上鸟:)
-
 
 <h3 id="handbook">速查手册</h3>
 
@@ -440,7 +439,6 @@ _暂无_
 - [CI用户指南](http://codeigniter.org.cn/user_guide/index.html) - 一个轻量级的 PHP 框架用户指南 推荐指数低的原因是劳资PHP比较弱，囧
 - [Yaf](http://www.laruence.com/manual/) - 鸟哥(惠新宸)所写的 PHP 框架 推荐指数低的原因同上...
 
-
 <h3 id="other">杂七杂八</h3>
 
 > 放些开发中较有用的杂物在这儿
@@ -456,7 +454,6 @@ _暂无_
 - [Codebabes](https://codebabes.com/) - 学编程的网站。 重点是每通过一个测试，尼玛对应的妞会脱一件衣服... PS：要翻墙哦~
 - [emailframe](http://emailframe.work/) - 邮件展示确实比较坑，建议有需要的收藏
 - [ReadmeSample](https://github.com/nieweidong/ReadmeSample) - 项目高大上的第一步就是__包装__，所以来看看 ```README``` 的书写套路吧 PS：劳资怎么这么无聊...
-
 
 <h3 id="cool">前端炫技-_炫酷狂拽叼炸天站点_</h3>
 
@@ -489,7 +486,6 @@ _暂无_
 
 > 所以劳资对自己的要求是：这篇记录里列出的每样东西，自己都得的去了解、去尝试，然后再列出来。 能举一反三最好，如果达不到至少也能清楚的认识：列出来的这玩意对程序员有没有卵用，解决了啥痛点。
 
-
 <h3 id="todo">TODO</h3>
 
 1. 继续完善和扩充内容
@@ -509,15 +505,19 @@ _暂无_
 
 完善 ing，慢慢把 __Evernote__ 和 __浏览器书签__ 里面的好东西慢慢捣腾到这儿，更欢迎 PR，谢谢。
 
-<img src="https://raw.githubusercontent.com/nieweidong/fetool/master/img/me.jpg" width="120" height="120" style="border-radius: 60px;" />
-
-用自己青涩时的照片镇楼，哇哈哈~
-
 #### 您可以通过以下方式联系到我：
 - 微博 [@聂微东](http://weibo.com/darrencode "Darren 聂微东")
 - 个人 Blog [fefork.com](http://www.fefork.com/ "一枚 Web 技术领域的手艺人")
 - 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
 - QQ 群 **214199415**，群名__前端 Club__。PS：入群务必请提供 __有内容的 git 或 blog 地址__，否则进不去哈:)
+
+## COMMITS
+
+[Commits](https://github.com/nieweidong/fetool/commits/master)
+
+## 报告问题
+
+[Issues](https://github.com/nieweidong/fetool/issues)
 
 ## License
 
