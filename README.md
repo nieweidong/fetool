@@ -95,7 +95,7 @@
 纯 ```HTML``` 相关其实没有好玩的项目，所以这儿展示的内容主要都是一些模板，而且以下列出来的都是免费的，方便拿取搭架后台或者博客
 
 - [HEAD](https://github.com/joshbuchea/HEAD) - 最全的 ```<head>``` 列表，真心佩服这种偏执的整理能力
-- [blur-admin](https://github.com/akveo/blur-admin) - 视觉冲击极强的管理后台，各种动画效果。PS：因为团队有[ant-design](https://github.com/ant-design/ant-design)的使用经验，感觉使用起来不是很顺畅，这套后台又是基于```AngularJS```，所以再三权限之后还是没实际使用，劳资还是别给团队添乱了，囧...
+- [blur-admin](https://github.com/akveo/blur-admin) - 视觉冲击极强的管理后台，各种动画效果。PS：因为团队有[ant-design](https://github.com/ant-design/ant-design)的使用经验，感觉使用起来不是很顺畅，这套后台又是基于```AngularJS```，所以再三权衡之后还是没实际使用，劳资还是别给团队添乱了，囧...
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - 很小清新的后台模板，每次看[preview](https://almsaeedstudio.com/preview) 页面都觉得很有视觉冲击
 - [gentelella](https://github.com/puikinsh/gentelella) - 刚用这个搭建了我司内部用的的数据平台，效果喜人。模板实现的功能比较全，比如登录、注册甚至各种 ```widget```，所以最终交付的时候，自己几乎没写几行CSS。
 - [material-design-lite](https://github.com/google/material-design-lite) - ```Star``` 数超过2W的开源模板项目，包含了多套简洁的 ```templates```，可以用于博客、后台或者企业首页。
