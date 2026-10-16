@@ -276,6 +276,7 @@ _暂无_
 - [Slides](https://slides.com/) - 一个所见即所得的 WebPPT 编辑器。虽然装X效果一般，但是比较推荐，因为无论懂不懂 UI，做出来的效果不会太难看
 - [faviconer.co](http://www.faviconer.co/) - 一个所见即所得的icon生成器，很好用
 - [smallpdf](http://smallpdf.com/cn) - 提供各种格式和 PDF 互相转换
+- [Doc2X](https://doc2x.noedgeai.com/) - PDF/图片文档解析与翻译，支持公式表格识别和 Word、Markdown、LaTeX 导出；网页需账号领取有限免费解析额度，升级与云端 API 另费。
 - [Cmd Markdown](https://www.zybuluo.com/mdeditor) - 好用的 Web 版 Markdown 编辑器
 - [VimAwesome](http://vimawesome.com/) - Vim 插件集合，__Vim 党必备__
 - [Tower](https://tower.im) - 小而美的多人协同工具。 不光只有 Web 版，还有 iPhone、iPad、Android、微信版。
