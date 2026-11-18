@@ -288,6 +288,7 @@ _暂无_
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE/) -  又是一个 ```Bootstrap``` 的免费管理后台
 - [carbon](https://carbon.now.sh) - 能够帮助你分享漂亮的示例代码
 - [MDBootstrap](https://mdbootstrap.com) - 世界上最受欢迎的框架，用于构建响应迅速，移动优先的网站和应用程序
+- [MoeRouter](https://moerouter.com/) - 统一调用多个模型的 API 服务，提供公开模型价目和兼容 SDK 的接入说明，调用按用量付费。
 <h3 id="app">APP</h3>
 
 > 以下列表中的 APP 都是不区分系统平台的
